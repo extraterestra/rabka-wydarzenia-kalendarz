@@ -21,6 +21,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA_FILES = [
     ROOT / "data" / "events-auto.json",
     ROOT / "data" / "events-cksip.json",
+    ROOT / "data" / "events-visitmalopolska.json",
     ROOT / "data" / "events-manual.json",
 ]
 OUTPUT_PATH = ROOT / "events.ics"
