@@ -23,7 +23,10 @@
       <div class="month-label" id="monthLabel"></div>
       <button id="nextMonth" aria-label="Następny miesiąc">›</button>
     </div>
-    <button class="add-btn" id="openAdd">+ Dodaj wydarzenie</button>
+    <div style="display:flex;gap:10px;">
+      <a class="add-btn" id="subscribeBtn" style="background:var(--forest);text-decoration:none;" href="events.ics" target="_blank" rel="noopener">📅 Subskrybuj kalendarz</a>
+      <button class="add-btn" id="openAdd">+ Dodaj wydarzenie</button>
+    </div>
   </div>
 
   <div class="filters" id="filters"></div>

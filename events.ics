@@ -1,0 +1,329 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fundacja Rozwoju Regionu Rabka//Kalendarz Wydarzen//PL
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kalendarz Wydarzeń — Rabka-Zdrój
+X-WR-TIMEZONE:Europe/Warsaw
+BEGIN:VEVENT
+UID:auto-1@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:IX Kid Bike Race — Puchar Rabczańskiego Zdrowotka
+LOCATION:Park Zdrojowy\, okolice placu zabaw
+DESCRIPTION:Godzina: 13:30 | Zawody rowerowe na czas dla dzieci 2–13 lat\
+ , połączone z uroczystym otwarciem Szlaku Rabczańskich Smakowitości.
+CATEGORIES:Sport
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-2@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260824
+SUMMARY:Tydzień Bardzo Małego Dziecka (III edycja)
+LOCATION:Miejska Biblioteka Publiczna\, ul. Orkana 27
+DESCRIPTION:Festiwal sztuki dla dzieci 0–5 lat: spektakle\, zajęcia senso
+ ryczne\, plastyczne i muzyczne oraz spotkania dla rodziców.
+CATEGORIES:Dzieci i rodzina
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-3@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:XXXIII Sesja Rady Miejskiej w Rabce-Zdroju
+LOCATION:Urząd Miejski\, ul. Parkowa 2 (sala obrad)
+DESCRIPTION:Godzina: 15:00 | Sesja Rady Miejskiej IX kadencji — porządek 
+ obrad obejmuje m.in. uchwały budżetowe i gospodarkę odpadami.
+CATEGORIES:Samorząd
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-4@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:Premiera „Podróże Gulliwera” — Spišské divadlo (Słowacja)
+LOCATION:Teatr Lalek „Rabcio”\, ul. Orkana 3c
+DESCRIPTION:Godzina: 19:00 | Plenerowy spektakl uliczny w ramach polsko-s
+ łowackiej współpracy kulturalnej\, poprzedzony korowodem i warsztatami t
+ eatralnymi.
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-5@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:Wielki finał lata ze sztuką uliczną
+LOCATION:Park Zdrojowy i Amfiteatr
+DESCRIPTION:Godzina: 15:00 | Finał Letniej Szkoły Artystów Ulicznych — po
+ kazy żonglerki\, szczudeł\, pantomimy i akrobatyki\, wstęp bezpłatny.
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-6@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:Kabaret Skeczów Męczących — program jubileuszowy
+LOCATION:Amfiteatr w Rabce-Zdroju
+DESCRIPTION:Godzina: 18:00 | Występ z okazji 20-lecia kabaretu\, program 
+ „Jeszcze nigdy nie było tak dobrze!”. Bilety w serwisie Biletyna.
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-7@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:Spacer Pamięci — ofiary Holokaustu na Podhalu
+LOCATION:Willa „Pod Aniołem” / Willa „Tereska”
+DESCRIPTION:Godzina: 16:00 | Dwa dni refleksji: spotkanie ze świadkami hi
+ storii oraz spacer i odsłonięcie tablicy „Aleja Pamięci Ofiar Holocaustu
+ ”.
+CATEGORIES:Historia i tradycja
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-8@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260831
+SUMMARY:Highlander Double Impact — Calisthenics Battle & Street Lifting
+LOCATION:Rabka-Zdrój
+DESCRIPTION:Dwudniowe zawody: Street Workout Calisthenics Battle 7 oraz p
+ ierwsze w Rabce zawody Street Lifting (federacja Final Rep).
+CATEGORIES:Sport
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-9@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Dni Architektury Drewnianej 2026
+LOCATION:Muzeum im. Władysława Orkana\, ul. Sądecka 6
+DESCRIPTION:Godzina: 09:00 | Bezpłatne zwiedzanie\, spacer architektonicz
+ ny po zabytkowych willach oraz warsztaty garncarskie w Organistówce.
+CATEGORIES:Historia i tradycja
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-10@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Mini Podhale Tour 2026 — Grand Prix Rabki-Zdroju
+LOCATION:Rabka-Zdrój
+DESCRIPTION:Piąty etap cyklu kolarskiego dla dzieci\, młodzieży i rodzin\
+ , organizowany przez Towarzystwo Cyklistów Orzeł Spytkowice.
+CATEGORIES:Sport
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-11@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Jesienny Redyk Rodzinny
+LOCATION:Plac targowy w Rabce-Zdroju
+DESCRIPTION:Godzina: 14:00 | Pierwszy w Rabce-Zdroju redyk nawiązujący do
+  pasterskich tradycji Podhala i Gorców — uroczyste przejście stada owiec
+ .
+CATEGORIES:Historia i tradycja
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-1@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260615
+SUMMARY:49. Karpacki Festiwal Dziecięcych Zespołów Regionalnych
+LOCATION:Amfiteatr w Rabce-Zdroju
+DESCRIPTION:Jeden z najważniejszych przeglądów dziecięcego folkloru w Pol
+ sce — barwny korowód i prezentacje zespołów regionalnych z Karpat i Podk
+ arpacia.
+CATEGORIES:Dzieci i rodzina
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-2@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260622
+SUMMARY:VIII Retro Piknik „Dawnej Rabki Czar” — 600 lat Laury
+LOCATION:Rabka-Zdrój
+DESCRIPTION:Podróż w czasy przedwojennego kurortu\, nawiązująca do słynne
+ j rabczańskiej sosny "Laura" — jednego z symboli miasta.
+CATEGORIES:Historia i tradycja
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-3@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:Świderek Race MTB 2026
+LOCATION:Kompleks Gazdówka\, Ponice
+DESCRIPTION:Kolejna edycja jednej z najważniejszych imprez kolarstwa górs
+ kiego w regionie.
+CATEGORIES:Sport
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-4@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:Taneczne Wakacje 2026
+LOCATION:Amfiteatr w Rabce-Zdroju
+DESCRIPTION:Dwa turnusy zajęć tanecznych\, zabaw i aktywności ruchowych d
+ la dzieci.
+CATEGORIES:Dzieci i rodzina
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-5@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:Odkryj Beskid Wyspowy — nocne wejście na Luboń Wielki
+LOCATION:Luboń Wielki
+DESCRIPTION:Nocna wędrówka górska w ramach cyklu promującego Beskid Wyspo
+ wy.
+CATEGORIES:Sport
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-6@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260719
+SUMMARY:Rabka Festival — Międzynarodowy Festiwal Literatury Dziecięcej
+LOCATION:Rabka-Zdrój (różne lokalizacje)
+DESCRIPTION:Trzynasta edycja festiwalu: spotkania z autorami i ilustrator
+ ami\, spektakle i warsztaty dla dzieci.
+CATEGORIES:Dzieci i rodzina
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-7@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:Letni Koncert Organowy
+LOCATION:Kościół — Muzeum im. Władysława Orkana
+DESCRIPTION:Godzina: 17:00 | Cykl koncertów muzyki organowej w zabytkowym
+  kościele\, w czwartkowe popołudnia (16\, 30 lipca oraz 13\, 27 sierpnia
+ ).
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-8@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:Święto Rabczańskiej Solanki — The Beatles Revival
+LOCATION:Amfiteatr „Pod Muszlą”
+DESCRIPTION:Koncert zespołu The Beatles Revival w ramach Święta Rabczańsk
+ iej Solanki.
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-9@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:Beskidzkie Rytmy i Smaki — piknik służb mundurowych
+LOCATION:Rabka-Zdrój
+DESCRIPTION:Regionalna muzyka\, kulinaria i rodzinne atrakcje połączone z
+  piknikiem służb mundurowych.
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-10@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:Jarmark w Muzeum im. Władysława Orkana
+LOCATION:Muzeum im. Władysława Orkana
+DESCRIPTION:Jarmark towarzyszący odpustowi ku czci św. Marii Magdaleny — 
+ lokalni twórcy\, rzemieślnicy i folklor regionu.
+CATEGORIES:Historia i tradycja
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-11@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:Koncert jubileuszowy zespołu Szafrany — 10-lecie
+LOCATION:Amfiteatr w Rabce-Zdroju
+DESCRIPTION:Koncert z okazji 10-lecia zespołu promującego góralską muzykę
+  i tradycję.
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-12@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:Gala MMA
+LOCATION:Amfiteatr w Rabce-Zdroju
+DESCRIPTION:Wieczór sportów walki w rabczańskim amfiteatrze.
+CATEGORIES:Sport
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-13@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:Festyn Góralski (Związek Podhalan)
+LOCATION:Rabka-Zdrój
+DESCRIPTION:Tradycyjny festyn organizowany przez Związek Podhalan.
+CATEGORIES:Historia i tradycja
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-14@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:Koncert Zespołu „Śląsk”
+LOCATION:Amfiteatr w Rabce-Zdroju
+DESCRIPTION:Występ legendarnego Zespołu Pieśni i Tańca „Śląsk”.
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-15@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Koncert zespołu Baciary
+LOCATION:Amfiteatr w Rabce-Zdroju
+DESCRIPTION:Wspólna zabawa z zespołem Baciary na scenie amfiteatru.
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-16@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Dożynki Gminne
+LOCATION:Chabówka
+DESCRIPTION:Doroczne gminne święto plonów\, w tym roku organizowane w Cha
+ bówce.
+CATEGORIES:Historia i tradycja
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-17@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:Rowerowanie
+LOCATION:Rabka-Zdrój
+DESCRIPTION:Cieszący się dużym zainteresowaniem wakacyjny przejazd rowero
+ wy dla mieszkańców.
+CATEGORIES:Sport
+END:VEVENT
+BEGIN:VEVENT
+UID:manual-1@rabka-wydarzenia-kalendarz
+DTSTAMP:20260816T193235Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Przykładowe wydarzenie Fundacji (usuń lub edytuj)
+LOCATION:Siedziba Fundacji Rozwoju Regionu Rabka
+DESCRIPTION:Godzina: 17:00 | To jest przykładowy wpis pokazujący struktur
+ ę danych. Kategorie do wyboru: kultura\, sport\, dzieci\, historia\, sam
+ orzad.
+CATEGORIES:Kultura
+END:VEVENT
+END:VCALENDAR

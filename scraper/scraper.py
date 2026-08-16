@@ -24,7 +24,7 @@ Usage:
 import json
 import re
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
@@ -149,7 +149,7 @@ def main():
 
     output = {
         "source": CALENDAR_URL,
-        "last_updated": datetime.utcnow().strftime("%Y-%m-%d"),
+        "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
         "events": events,
     }
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
