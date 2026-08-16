@@ -42,7 +42,18 @@ body{
 .hero::after{width:520px;height:520px;right:-220px;top:-260px;border-color:rgba(243,238,228,0.1);}
 .eyebrow{font-size:12.5px;letter-spacing:.14em;text-transform:uppercase;color:#B9CFC2;font-weight:600;margin:0 0 8px;}
 .hero h1{font-family:'Fraunces', serif;font-weight:600;font-size:clamp(28px, 4vw, 40px);margin:0 0 6px;line-height:1.08;}
-.hero p{margin:0;color:#D7E2DA;font-size:14.5px;max-width:520px;line-height:1.5;}
+.hero p{margin:0;color:#D7E2DA;font-size:14.5px;max-width:560px;line-height:1.5;}
+.sources{
+  margin:10px 0 0;
+  padding:0 0 0 1.15em;
+  color:#D7E2DA;
+  font-size:13.5px;
+  max-width:560px;
+  line-height:1.55;
+}
+.sources li{margin:0 0 4px;}
+.sources li:last-child{margin-bottom:0;}
+.sources strong{color:#F3EEE4;font-weight:600;}
 
 .toolbar{display:flex;flex-wrap:wrap;gap:14px;align-items:center;justify-content:space-between;margin-top:20px;}
 .month-nav{display:flex;align-items:center;gap:10px;}
