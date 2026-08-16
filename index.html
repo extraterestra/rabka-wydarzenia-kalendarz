@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kalendarz Wydarzeń — Rabka-Zdrój</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+
+  <div class="hero">
+    <p class="eyebrow">Fundacja Rozwoju Regionu Rabka · Gmina Rabka-Zdrój</p>
+    <h1>Kalendarz Wydarzeń</h1>
+    <p>Imprezy, uroczystości i święta gminne w Rabce-Zdroju — zebrane z Urzędu Miejskiego i uzupełniane ręcznie przez Fundację.</p>
+  </div>
+
+  <div class="toolbar">
+    <div class="month-nav">
+      <button id="prevMonth" aria-label="Poprzedni miesiąc">‹</button>
+      <div class="month-label" id="monthLabel"></div>
+      <button id="nextMonth" aria-label="Następny miesiąc">›</button>
+    </div>
+    <button class="add-btn" id="openAdd">+ Dodaj wydarzenie</button>
+  </div>
+
+  <div class="filters" id="filters"></div>
+
+  <div class="grid-layout">
+    <div class="calendar-card">
+      <div class="weekdays">
+        <span>Pn</span><span>Wt</span><span>Śr</span><span>Cz</span><span>Pt</span><span>So</span><span>Nd</span>
+      </div>
+      <div class="days" id="days"></div>
+    </div>
+
+    <div>
+      <div class="agenda-card">
+        <h3 id="agendaTitle">Wybierz dzień</h3>
+        <div id="agendaList"></div>
+      </div>
+      <div class="upcoming-card">
+        <h3>Najbliższe wydarzenia</h3>
+        <div id="upcomingList"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footnote">
+    Dane: <code>data/events-auto.json</code> (import cotygodniowy z rabka.pl przez GitHub Actions) +
+    <code>data/events-manual.json</code> (wpisy ręczne Fundacji). Zobacz README, aby dowiedzieć się jak dodawać wydarzenia.
+  </div>
+</div>
+
+<div class="overlay" id="overlay">
+  <div class="modal">
+    <h3>Dodaj wydarzenie</h3>
+    <p class="sub">To jest strona statyczna — nie ma tu bazy danych. Wypełnij formularz, a otrzymasz gotowy fragment JSON do wklejenia w pliku <code>data/events-manual.json</code> na GitHubie (jeden klik, prosty edytor tekstowy w przeglądarce).</p>
+    <div class="field">
+      <label>Nazwa wydarzenia</label>
+      <input type="text" id="f-title" placeholder="np. Święto Rabczańskiej Solanki">
+    </div>
+    <div class="two-col">
+      <div class="field">
+        <label>Data początku</label>
+        <input type="date" id="f-start">
+      </div>
+      <div class="field">
+        <label>Data końca (opcjonalnie)</label>
+        <input type="date" id="f-end">
+      </div>
+    </div>
+    <div class="two-col">
+      <div class="field">
+        <label>Kategoria</label>
+        <select id="f-category">
+          <option value="kultura">Kultura</option>
+          <option value="sport">Sport</option>
+          <option value="dzieci">Dzieci i rodzina</option>
+          <option value="historia">Historia i tradycja</option>
+          <option value="samorzad">Samorząd</option>
+        </select>
+      </div>
+      <div class="field">
+        <label>Godzina (opcjonalnie)</label>
+        <input type="text" id="f-time" placeholder="np. 18:00">
+      </div>
+    </div>
+    <div class="field">
+      <label>Miejsce</label>
+      <input type="text" id="f-location" placeholder="np. Amfiteatr, Rabka-Zdrój">
+    </div>
+    <div class="field">
+      <label>Opis</label>
+      <textarea id="f-desc" placeholder="Krótki opis wydarzenia..."></textarea>
+    </div>
+    <div class="modal-actions">
+      <button class="btn-secondary" id="cancelAdd">Anuluj</button>
+      <button class="btn-primary" id="generateSnippet" style="cursor:pointer;">Wygeneruj wpis</button>
+    </div>
+
+    <div id="snippetBox" style="display:none;margin-top:16px;">
+      <label style="display:block;font-size:12px;font-weight:600;margin-bottom:6px;color:var(--ink-soft);">Skopiuj poniższy fragment do events-manual.json:</label>
+      <pre class="snippet" id="snippetCode"></pre>
+      <a class="btn-primary" id="editLink" target="_blank" rel="noopener" style="margin-top:10px;">Otwórz events-manual.json na GitHub →</a>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

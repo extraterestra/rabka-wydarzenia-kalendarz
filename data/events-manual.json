@@ -1,0 +1,15 @@
+{
+  "_instructions": "Dodawaj tu wydarzenia ręcznie (te, których nie ma na rabka.pl). Skopiuj obiekt przykładowy poniżej, zmień id na unikalne (np. manual-2), uzupełnij pola i zapisz zmiany bezpośrednio w GitHub (Edit this file -> Commit changes). Strona przeładuje dane automatycznie.",
+  "events": [
+    {
+      "id": "manual-1",
+      "title": "Przykładowe wydarzenie Fundacji (usuń lub edytuj)",
+      "category": "kultura",
+      "start": "2026-09-01",
+      "end": "2026-09-01",
+      "time": "17:00",
+      "location": "Siedziba Fundacji Rozwoju Regionu Rabka",
+      "desc": "To jest przykładowy wpis pokazujący strukturę danych. Kategorie do wyboru: kultura, sport, dzieci, historia, samorzad."
+    }
+  ]
+}

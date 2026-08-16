@@ -1,0 +1,34 @@
+name: Update events from rabka.pl
+
+on:
+  schedule:
+    # Every Monday at 06:00 UTC
+    - cron: "0 6 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run scraper
+        run: python scraper/scraper.py
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "rabka-events-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/events-auto.json
+          git diff --cached --quiet || git commit -m "Auto-update events from rabka.pl"
+          git push

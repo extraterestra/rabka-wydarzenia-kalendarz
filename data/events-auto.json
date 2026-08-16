@@ -1,0 +1,116 @@
+{
+  "source": "rabka.pl/kalendarz-wydarzen/",
+  "last_updated": "2026-08-16",
+  "events": [
+    {
+      "id": "auto-1",
+      "title": "IX Kid Bike Race — Puchar Rabczańskiego Zdrowotka",
+      "category": "sport",
+      "start": "2026-08-16",
+      "end": "2026-08-16",
+      "time": "13:30",
+      "location": "Park Zdrojowy, okolice placu zabaw",
+      "desc": "Zawody rowerowe na czas dla dzieci 2–13 lat, połączone z uroczystym otwarciem Szlaku Rabczańskich Smakowitości."
+    },
+    {
+      "id": "auto-2",
+      "title": "Tydzień Bardzo Małego Dziecka (III edycja)",
+      "category": "dzieci",
+      "start": "2026-08-17",
+      "end": "2026-08-23",
+      "time": "",
+      "location": "Miejska Biblioteka Publiczna, ul. Orkana 27",
+      "desc": "Festiwal sztuki dla dzieci 0–5 lat: spektakle, zajęcia sensoryczne, plastyczne i muzyczne oraz spotkania dla rodziców."
+    },
+    {
+      "id": "auto-3",
+      "title": "XXXIII Sesja Rady Miejskiej w Rabce-Zdroju",
+      "category": "samorzad",
+      "start": "2026-08-19",
+      "end": "2026-08-19",
+      "time": "15:00",
+      "location": "Urząd Miejski, ul. Parkowa 2 (sala obrad)",
+      "desc": "Sesja Rady Miejskiej IX kadencji — porządek obrad obejmuje m.in. uchwały budżetowe i gospodarkę odpadami."
+    },
+    {
+      "id": "auto-4",
+      "title": "Premiera „Podróże Gulliwera” — Spišské divadlo (Słowacja)",
+      "category": "kultura",
+      "start": "2026-08-20",
+      "end": "2026-08-20",
+      "time": "19:00",
+      "location": "Teatr Lalek „Rabcio”, ul. Orkana 3c",
+      "desc": "Plenerowy spektakl uliczny w ramach polsko-słowackiej współpracy kulturalnej, poprzedzony korowodem i warsztatami teatralnymi."
+    },
+    {
+      "id": "auto-5",
+      "title": "Wielki finał lata ze sztuką uliczną",
+      "category": "kultura",
+      "start": "2026-08-22",
+      "end": "2026-08-22",
+      "time": "15:00",
+      "location": "Park Zdrojowy i Amfiteatr",
+      "desc": "Finał Letniej Szkoły Artystów Ulicznych — pokazy żonglerki, szczudeł, pantomimy i akrobatyki, wstęp bezpłatny."
+    },
+    {
+      "id": "auto-6",
+      "title": "Kabaret Skeczów Męczących — program jubileuszowy",
+      "category": "kultura",
+      "start": "2026-08-23",
+      "end": "2026-08-23",
+      "time": "18:00",
+      "location": "Amfiteatr w Rabce-Zdroju",
+      "desc": "Występ z okazji 20-lecia kabaretu, program „Jeszcze nigdy nie było tak dobrze!”. Bilety w serwisie Biletyna."
+    },
+    {
+      "id": "auto-7",
+      "title": "Spacer Pamięci — ofiary Holokaustu na Podhalu",
+      "category": "historia",
+      "start": "2026-08-29",
+      "end": "2026-08-30",
+      "time": "16:00",
+      "location": "Willa „Pod Aniołem” / Willa „Tereska”",
+      "desc": "Dwa dni refleksji: spotkanie ze świadkami historii oraz spacer i odsłonięcie tablicy „Aleja Pamięci Ofiar Holocaustu”."
+    },
+    {
+      "id": "auto-8",
+      "title": "Highlander Double Impact — Calisthenics Battle & Street Lifting",
+      "category": "sport",
+      "start": "2026-08-29",
+      "end": "2026-08-30",
+      "time": "",
+      "location": "Rabka-Zdrój",
+      "desc": "Dwudniowe zawody: Street Workout Calisthenics Battle 7 oraz pierwsze w Rabce zawody Street Lifting (federacja Final Rep)."
+    },
+    {
+      "id": "auto-9",
+      "title": "Dni Architektury Drewnianej 2026",
+      "category": "historia",
+      "start": "2026-08-30",
+      "end": "2026-08-30",
+      "time": "09:00",
+      "location": "Muzeum im. Władysława Orkana, ul. Sądecka 6",
+      "desc": "Bezpłatne zwiedzanie, spacer architektoniczny po zabytkowych willach oraz warsztaty garncarskie w Organistówce."
+    },
+    {
+      "id": "auto-10",
+      "title": "Mini Podhale Tour 2026 — Grand Prix Rabki-Zdroju",
+      "category": "sport",
+      "start": "2026-09-12",
+      "end": "2026-09-12",
+      "time": "",
+      "location": "Rabka-Zdrój",
+      "desc": "Piąty etap cyklu kolarskiego dla dzieci, młodzieży i rodzin, organizowany przez Towarzystwo Cyklistów Orzeł Spytkowice."
+    },
+    {
+      "id": "auto-11",
+      "title": "Jesienny Redyk Rodzinny",
+      "category": "historia",
+      "start": "2026-10-03",
+      "end": "2026-10-03",
+      "time": "14:00",
+      "location": "Plac targowy w Rabce-Zdroju",
+      "desc": "Pierwszy w Rabce-Zdroju redyk nawiązujący do pasterskich tradycji Podhala i Gorców — uroczyste przejście stada owiec."
+    }
+  ]
+}
