@@ -3,7 +3,10 @@
 Statyczna strona z kalendarzem wydarzeń w Rabce-Zdroju, tworzona dla Fundacji Rozwoju Regionu Rabka (https://frrr.pl/), łącząca:
 
 - **dane importowane automatycznie** co tydzień z [rabka.pl/kalendarz-wydarzen/](https://rabka.pl/kalendarz-wydarzen/) (`data/events-auto.json`),
+- **dane importowane automatycznie** co tydzień z [centrum-kultury.rabka.pl](https://centrum-kultury.rabka.pl/) — CKSiP, faktyczny organizator większości wydarzeń kulturalnych (`data/events-cksip.json`),
 - **dane wpisywane ręcznie** przez Fundację (`data/events-manual.json`).
+
+Wydarzenia z obu automatycznych źródeł są łączone i odduplikowywane (po tytule + dacie startu) zarówno na stronie, jak i w pliku `.ics`.
 
 Strona jest w 100% statyczna (HTML/CSS/JS, bez backendu) — można ją hostować bezpłatnie na GitHub Pages.
 
@@ -14,9 +17,13 @@ index.html                          strona główna (kalendarz)
 style.css                           style
 app.js                              logika kalendarza (pobiera i łączy oba pliki JSON)
 data/events-auto.json               wydarzenia z Urzędu (nadpisywane co tydzień przez scraper)
+data/events-cksip.json              wydarzenia z CKSiP (nadpisywane co tydzień przez scraper)
 data/events-manual.json             wydarzenia dodane ręcznie — EDYTUJ TEN PLIK
+events.ics                          wygenerowany plik subskrypcji kalendarza (auto+cksip+manual)
 scraper/scraper.py                  skrypt pobierający dane z rabka.pl
-.github/workflows/update-events.yml automatyzacja: uruchamia scraper co poniedziałek
+scraper/scraper_cksip.py            skrypt pobierający dane z centrum-kultury.rabka.pl
+scraper/generate_ics.py             łączy wszystkie 3 pliki JSON w events.ics
+.github/workflows/update-events.yml automatyzacja: uruchamia oba scrapery + generator .ics co poniedziałek
 ```
 
 ## Jak dodać wydarzenie ręcznie (bez znajomości kodu)
@@ -37,6 +44,16 @@ Możesz też edytować `data/events-manual.json` bezpośrednio — to zwykły pl
 **Ograniczenie, o którym warto wiedzieć:** ten typ scrapowania jest z natury kruchy — jeśli Urząd zmieni szablon strony, skrypt przestanie poprawnie wyciągać dane (zwykle nie "zepsuje się" cicho — zobaczysz brak nowych wydarzeń albo błąd w logach GitHub Actions). Zdecydowanie warto zapytać opiekuna projektu w Urzędzie, czy mogliby udostępniać prosty eksport (CSV/JSON) wydarzeń — to dużo trwalsze rozwiązanie niż scraping.
 
 Żeby ręcznie uruchomić import (np. po zmianach w skrypcie): zakładka **Actions** w repozytorium → **Update events from rabka.pl** → **Run workflow**.
+
+## Subskrypcja kalendarza (.ics)
+
+Przycisk **„📅 Subskrybuj kalendarz”** na stronie prowadzi do pliku `events.ics`, wygenerowanego z połączonych danych ze wszystkich trzech źródeł. Każdy może:
+
+1. Skopiować link do tego pliku (po opublikowaniu na GitHub Pages będzie to np. `https://extraterestra.github.io/rabka-wydarzenia-kalendarz/events.ics`).
+2. Dodać go w Google Calendar (**Inne kalendarze → Z adresu URL**), Apple Calendar (**Plik → Nowa subskrypcja kalendarza**) lub Outlooku.
+3. Kalendarz w ich aplikacji będzie się odświeżał automatycznie za każdym razem, gdy GitHub Actions zaktualizuje `events.ics` (czyli co poniedziałek).
+
+Plik jest regenerowany automatycznie przy każdym uruchomieniu workflow — nie trzeba go edytować ręcznie.
 
 ## Uruchomienie lokalne
 
