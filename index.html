@@ -14,12 +14,32 @@
   <div class="hero">
     <p class="eyebrow">Fundacja Rozwoju Regionu Rabka · Gmina Rabka-Zdrój</p>
     <h1>Kalendarz Wydarzeń</h1>
-    <p>Imprezy, uroczystości i święta gminne w Rabce-Zdroju. Źródła danych:</p>
-    <ul class="sources">
-      <li><strong>Urząd Miejski</strong> (rabka.pl) — aktualizacja cotygodniowa (poniedziałek)</li>
-      <li><strong>CKSiP</strong> (centrum-kultury.rabka.pl) — aktualizacja cotygodniowa (poniedziałek)</li>
-      <li><strong>VisitMałopolska</strong> (visitmalopolska.pl) — aktualizacja cotygodniowa (poniedziałek), best-effort</li>
-      <li><strong>Wpisy ręczne</strong> — na bieżąco, gdy opiekunowie kalendarza dodają wydarzenia</li>
+    <p>Imprezy, uroczystości i święta gminne w Rabce-Zdroju. Źródła danych (zaznacz, aby pokazać w kalendarzu):</p>
+    <ul class="sources" id="sourceFilters">
+      <li>
+        <label>
+          <input type="checkbox" name="source" value="Urząd Miejski" checked>
+          <span><strong>Urząd Miejski</strong> (rabka.pl) — aktualizacja cotygodniowa (poniedziałek)</span>
+        </label>
+      </li>
+      <li>
+        <label>
+          <input type="checkbox" name="source" value="CKSiP" checked>
+          <span><strong>CKSiP</strong> (centrum-kultury.rabka.pl) — aktualizacja cotygodniowa (poniedziałek)</span>
+        </label>
+      </li>
+      <li>
+        <label>
+          <input type="checkbox" name="source" value="VisitMałopolska" checked>
+          <span><strong>VisitMałopolska</strong> (visitmalopolska.pl) — aktualizacja cotygodniowa (poniedziałek), best-effort</span>
+        </label>
+      </li>
+      <li>
+        <label>
+          <input type="checkbox" name="source" value="Fundacja" checked>
+          <span><strong>Wpisy ręczne</strong> — na bieżąco, gdy opiekunowie kalendarza dodają wydarzenia</span>
+        </label>
+      </li>
     </ul>
   </div>
 

@@ -6,13 +6,16 @@ const CATS = {
   samorzad: {label:'Samorząd',           color:'var(--slate)'}
 };
 
+const SOURCE_KEYS = ['Urząd Miejski', 'CKSiP', 'VisitMałopolska', 'Fundacja'];
+
 // Update these two if you fork / rename the repo.
 const GITHUB_OWNER = 'extraterestra';
 const GITHUB_REPO  = 'rabka-wydarzenia-kalendarz';
 const MANUAL_FILE_EDIT_URL = `https://github.com/${GITHUB_OWNER}/${GITHUB_REPO}/edit/main/data/events-manual.json`;
 
-let events = [];
+let allEvents = [];
 let activeCats = new Set(Object.keys(CATS));
+let activeSources = new Set(SOURCE_KEYS);
 let viewYear, viewMonth, selectedDateStr = null;
 
 const $ = sel => document.querySelector(sel);
@@ -33,9 +36,16 @@ async function loadEvents(){
   const manual = (manualRes.events||[]).filter(e => !e.id?.startsWith('manual-1') || e.title.indexOf('Przykładowe') === -1)
     .map(e => ({...e, source:'Fundacja'}));
 
-  // de-dupe across sources: same title + same start date -> keep first occurrence
+  // Keep all sources; de-dupe only among currently visible sources.
+  allEvents = [...auto, ...cksip, ...vm, ...manual];
+}
+
+function visibleEvents(){
+  const filtered = allEvents.filter(e =>
+    activeSources.has(e.source) && activeCats.has(e.category)
+  );
   const seen = new Set();
-  events = [...auto, ...cksip, ...vm, ...manual].filter(e => {
+  return filtered.filter(e => {
     const key = (e.title||'').trim().toLowerCase() + '|' + e.start;
     if(seen.has(key)) return false;
     seen.add(key);
@@ -44,11 +54,29 @@ async function loadEvents(){
 }
 
 function eventsOnDay(dateStr){
-  return events.filter(e => dateStr >= e.start && dateStr <= (e.end || e.start));
+  return visibleEvents().filter(e => dateStr >= e.start && dateStr <= (e.end || e.start));
 }
 function upcomingEvents(){
-  return events.filter(e => (e.end || e.start) >= todayStr)
+  return visibleEvents().filter(e => (e.end || e.start) >= todayStr)
     .sort((a,b)=> a.start.localeCompare(b.start)).slice(0,6);
+}
+
+function syncSourceFiltersFromUI(){
+  activeSources = new Set(
+    [...document.querySelectorAll('#sourceFilters input[name="source"]:checked')]
+      .map(el => el.value)
+  );
+}
+
+function bindSourceFilters(){
+  document.querySelectorAll('#sourceFilters input[name="source"]').forEach(input => {
+    input.addEventListener('change', () => {
+      syncSourceFiltersFromUI();
+      renderCalendar();
+      renderAgenda();
+      renderUpcoming();
+    });
+  });
 }
 
 function renderFilters(){
@@ -81,8 +109,8 @@ function renderCalendar(){
     const ds = dstr(viewYear, viewMonth, d);
     const cell = document.createElement('div');
     cell.className = 'day' + (ds===todayStr?' today':'') + (ds===selectedDateStr?' selected':'');
-    const dayEvents = eventsOnDay(ds).filter(e=>activeCats.has(e.category));
-    cell.innerHTML = `<span>${d}</span><div class="dots">${dayEvents.slice(0,4).map(e=>`<span style="background:${CATS[e.category].color}"></span>`).join('')}</div>`;
+    const dayEvents = eventsOnDay(ds);
+    cell.innerHTML = `<span>${d}</span><div class="dots">${dayEvents.slice(0,4).map(e=>`<span style="background:${(CATS[e.category]||CATS.kultura).color}"></span>`).join('')}</div>`;
     cell.onclick = () => { selectedDateStr = ds; renderCalendar(); renderAgenda(); };
     grid.appendChild(cell);
   }
@@ -111,15 +139,15 @@ function escapeHtml(s){
 function renderAgenda(){
   const title = $('#agendaTitle'); const list = $('#agendaList');
   if(!selectedDateStr){ title.textContent = 'Wybierz dzień'; list.innerHTML = '<div class="empty">Kliknij dzień w kalendarzu, aby zobaczyć wydarzenia.</div>'; return; }
-  const items = eventsOnDay(selectedDateStr).filter(e=>activeCats.has(e.category));
+  const items = eventsOnDay(selectedDateStr);
   title.textContent = formatDate(selectedDateStr) + ' ' + viewYear;
   list.innerHTML = items.length ? items.map(eventItemHTML).join('') : '<div class="empty">Brak wydarzeń tego dnia.</div>';
 }
 
 function renderUpcoming(){
   const list = $('#upcomingList');
-  const items = upcomingEvents().filter(e=>activeCats.has(e.category));
-  list.innerHTML = items.length ? items.map(eventItemHTML).join('') : '<div class="empty">Brak nadchodzących wydarzeń w wybranych kategoriach.</div>';
+  const items = upcomingEvents();
+  list.innerHTML = items.length ? items.map(eventItemHTML).join('') : '<div class="empty">Brak nadchodzących wydarzeń w wybranych źródłach i kategoriach.</div>';
 }
 
 $('#prevMonth').onclick = () => { viewMonth--; if(viewMonth<0){viewMonth=11;viewYear--;} renderCalendar(); };
@@ -152,6 +180,8 @@ $('#generateSnippet').onclick = () => {
   const t = new Date();
   viewYear = t.getFullYear(); viewMonth = t.getMonth();
   await loadEvents();
+  syncSourceFiltersFromUI();
+  bindSourceFilters();
   renderFilters();
   renderCalendar();
   renderUpcoming();
