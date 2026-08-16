@@ -21,19 +21,21 @@ const dstr = (y,m,d) => `${y}-${pad(m+1)}-${pad(d)}`;
 const todayStr = (()=>{const t=new Date();return dstr(t.getFullYear(),t.getMonth(),t.getDate());})();
 
 async function loadEvents(){
-  const [autoRes, cksipRes, manualRes] = await Promise.all([
+  const [autoRes, cksipRes, vmRes, manualRes] = await Promise.all([
     fetch('data/events-auto.json').then(r=>r.ok?r.json():{events:[]}).catch(()=>({events:[]})),
     fetch('data/events-cksip.json').then(r=>r.ok?r.json():{events:[]}).catch(()=>({events:[]})),
+    fetch('data/events-visitmalopolska.json').then(r=>r.ok?r.json():{events:[]}).catch(()=>({events:[]})),
     fetch('data/events-manual.json').then(r=>r.ok?r.json():{events:[]}).catch(()=>({events:[]}))
   ]);
   const auto = (autoRes.events||[]).map(e => ({...e, source:'Urząd Miejski'}));
   const cksip = (cksipRes.events||[]).map(e => ({...e, source:'CKSiP'}));
+  const vm = (vmRes.events||[]).map(e => ({...e, source:'VisitMałopolska'}));
   const manual = (manualRes.events||[]).filter(e => !e.id?.startsWith('manual-1') || e.title.indexOf('Przykładowe') === -1)
     .map(e => ({...e, source:'Fundacja'}));
 
   // de-dupe across sources: same title + same start date -> keep first occurrence
   const seen = new Set();
-  events = [...auto, ...cksip, ...manual].filter(e => {
+  events = [...auto, ...cksip, ...vm, ...manual].filter(e => {
     const key = (e.title||'').trim().toLowerCase() + '|' + e.start;
     if(seen.has(key)) return false;
     seen.add(key);
