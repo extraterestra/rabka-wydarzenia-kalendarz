@@ -6,7 +6,7 @@ const CATS = {
   samorzad: {label:'Samorząd',           color:'var(--slate)'}
 };
 
-const SOURCE_KEYS = ['Urząd Miejski', 'CKSiP', 'VisitMałopolska', 'Fundacja'];
+const SOURCE_KEYS = ['Urząd Miejski', 'CKSiP', 'Rabcio', 'Fundacja'];
 
 // Update these two if you fork / rename the repo.
 const GITHUB_OWNER = 'extraterestra';
@@ -24,20 +24,20 @@ const dstr = (y,m,d) => `${y}-${pad(m+1)}-${pad(d)}`;
 const todayStr = (()=>{const t=new Date();return dstr(t.getFullYear(),t.getMonth(),t.getDate());})();
 
 async function loadEvents(){
-  const [autoRes, cksipRes, vmRes, manualRes] = await Promise.all([
+  const [autoRes, cksipRes, rabcioRes, manualRes] = await Promise.all([
     fetch('data/events-auto.json').then(r=>r.ok?r.json():{events:[]}).catch(()=>({events:[]})),
     fetch('data/events-cksip.json').then(r=>r.ok?r.json():{events:[]}).catch(()=>({events:[]})),
-    fetch('data/events-visitmalopolska.json').then(r=>r.ok?r.json():{events:[]}).catch(()=>({events:[]})),
+    fetch('data/events-rabcio.json').then(r=>r.ok?r.json():{events:[]}).catch(()=>({events:[]})),
     fetch('data/events-manual.json').then(r=>r.ok?r.json():{events:[]}).catch(()=>({events:[]}))
   ]);
   const auto = (autoRes.events||[]).map(e => ({...e, source:'Urząd Miejski'}));
   const cksip = (cksipRes.events||[]).map(e => ({...e, source:'CKSiP'}));
-  const vm = (vmRes.events||[]).map(e => ({...e, source:'VisitMałopolska'}));
+  const rabcio = (rabcioRes.events||[]).map(e => ({...e, source:'Rabcio'}));
   const manual = (manualRes.events||[]).filter(e => !e.id?.startsWith('manual-1') || e.title.indexOf('Przykładowe') === -1)
     .map(e => ({...e, source:'Fundacja'}));
 
   // Keep all sources; de-dupe only among currently visible sources.
-  allEvents = [...auto, ...cksip, ...vm, ...manual];
+  allEvents = [...auto, ...cksip, ...rabcio, ...manual];
 }
 
 function visibleEvents(){

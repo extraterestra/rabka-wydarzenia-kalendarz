@@ -4,12 +4,10 @@ Statyczna strona z kalendarzem wydarzeń w Rabce-Zdroju, tworzona dla Fundacji R
 
 - **dane importowane automatycznie** co tydzień z [rabka.pl/kalendarz-wydarzen/](https://rabka.pl/kalendarz-wydarzen/) (`data/events-auto.json`),
 - **dane importowane automatycznie** co tydzień z [centrum-kultury.rabka.pl](https://centrum-kultury.rabka.pl/) — CKSiP, faktyczny organizator większości wydarzeń kulturalnych (`data/events-cksip.json`),
-- **dane importowane automatycznie** (best-effort) z [visitmalopolska.pl](https://visitmalopolska.pl/wydarzenia) — oficjalny regionalny portal turystyczny, przefiltrowany do wpisów wspominających Rabkę (`data/events-visitmalopolska.json`) — **patrz zastrzeżenie poniżej**,
+- **dane importowane automatycznie** co tydzień z repertuaru [Teatru Lalek Rabcio](https://teatr.rabcio.pl/) — terminy spektakli z systemu biletowego Bilety24 (`data/events-rabcio.json`),
 - **dane wpisywane ręcznie** przez Fundację (`data/events-manual.json`).
 
 Wydarzenia ze wszystkich automatycznych źródeł są łączone i odduplikowywane (po tytule + dacie startu) zarówno na stronie, jak i w pliku `.ics`.
-
-> **Zastrzeżenie dot. VisitMalopolska:** ta strona ma aktywną ochronę anty-bot, która zablokowała próbę pobrania danych podczas tworzenia tego scrapera. Skrypt jest napisany defensywnie, ale **nie został zweryfikowany względem żywej strony** — przetestuj go lokalnie (`python scraper/scraper_visitmalopolska.py`) zanim zaczniesz na nim polegać. W GitHub Actions ten krok jest ustawiony jako `continue-on-error`, więc jego ewentualna awaria nie zatrzyma aktualizacji pozostałych dwóch źródeł. Szczegóły i alternatywne podejścia (w tym sprawdzenie otwarte.dane.malopolska.pl) są opisane w komentarzu na górze pliku scraper_visitmalopolska.py.
 
 Strona jest w 100% statyczna (HTML/CSS/JS, bez backendu) — można ją hostować bezpłatnie na GitHub Pages.
 
@@ -18,15 +16,15 @@ Strona jest w 100% statyczna (HTML/CSS/JS, bez backendu) — można ją hostowa�
 ```
 index.html                          strona główna (kalendarz)
 style.css                           style
-app.js                              logika kalendarza (pobiera i łączy oba pliki JSON)
+app.js                              logika kalendarza (pobiera i łączy pliki JSON)
 data/events-auto.json               wydarzenia z Urzędu (nadpisywane co tydzień przez scraper)
 data/events-cksip.json              wydarzenia z CKSiP (nadpisywane co tydzień przez scraper)
-data/events-visitmalopolska.json    wydarzenia z VisitMałopolska, filtr "Rabka" (best-effort, patrz zastrzeżenie)
+data/events-rabcio.json             spektakle Teatru Lalek Rabcio (nadpisywane co tydzień)
 data/events-manual.json             wydarzenia dodane ręcznie — EDYTUJ TEN PLIK
 events.ics                          wygenerowany plik subskrypcji kalendarza (wszystkie źródła)
 scraper/scraper.py                  skrypt pobierający dane z rabka.pl
 scraper/scraper_cksip.py            skrypt pobierający dane z centrum-kultury.rabka.pl
-scraper/scraper_visitmalopolska.py  skrypt pobierający dane z visitmalopolska.pl (niezweryfikowany — zob. zastrzeżenie)
+scraper/scraper_rabcio.py           skrypt pobierający repertuar Rabcia (Bilety24)
 scraper/generate_ics.py             łączy wszystkie pliki JSON w events.ics
 .github/workflows/update-events.yml automatyzacja: uruchamia scrapery + generator .ics co poniedziałek
 ```
@@ -52,7 +50,7 @@ Możesz też edytować `data/events-manual.json` bezpośrednio — to zwykły pl
 
 ## Subskrypcja kalendarza (.ics)
 
-Przycisk **„📅 Subskrybuj kalendarz”** na stronie prowadzi do pliku `events.ics`, wygenerowanego z połączonych danych ze wszystkich trzech źródeł. Każdy może:
+Przycisk **„📅 Subskrybuj kalendarz”** na stronie prowadzi do pliku `events.ics`, wygenerowanego z połączonych danych ze wszystkich źródeł. Każdy może:
 
 1. Skopiować link do tego pliku (po opublikowaniu na GitHub Pages będzie to np. `https://extraterestra.github.io/rabka-wydarzenia-kalendarz/events.ics`).
 2. Dodać go w Google Calendar (**Inne kalendarze → Z adresu URL**), Apple Calendar (**Plik → Nowa subskrypcja kalendarza**) lub Outlooku.
