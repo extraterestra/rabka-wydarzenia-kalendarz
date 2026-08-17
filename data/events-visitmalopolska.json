@@ -1,6 +1,0 @@
-{
-  "_note": "Ten plik zaczyna się pusty, ponieważ nie udało się jeszcze zweryfikować scrapera względem żywej strony visitmalopolska.pl (blokada anty-bot). Uruchom scraper/scraper_visitmalopolska.py lokalnie, aby go wypełnić. Zobacz komentarz na górze tego skryptu po wskazówki, jeśli scraper zawiedzie.",
-  "source": "https://visitmalopolska.pl/wydarzenia",
-  "last_updated": null,
-  "events": []
-}

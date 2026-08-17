@@ -28,11 +28,8 @@ jobs:
       - name: Run CKSiP scraper
         run: python scraper/scraper_cksip.py
 
-      - name: Run VisitMalopolska scraper
-        # This source has bot-detection that may block CI runs entirely —
-        # don't fail the whole workflow if it does, just skip its update.
-        continue-on-error: true
-        run: python scraper/scraper_visitmalopolska.py
+      - name: Run Rabcio scraper
+        run: python scraper/scraper_rabcio.py
 
       - name: Regenerate events.ics
         run: python scraper/generate_ics.py
@@ -41,6 +38,6 @@ jobs:
         run: |
           git config user.name "rabka-events-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/events-auto.json data/events-cksip.json data/events-visitmalopolska.json events.ics
-          git diff --cached --quiet || git commit -m "Auto-update events from rabka.pl, CKSiP and VisitMalopolska"
+          git add data/events-auto.json data/events-cksip.json data/events-rabcio.json events.ics
+          git diff --cached --quiet || git commit -m "Auto-update events from rabka.pl, CKSiP and Rabcio"
           git push
