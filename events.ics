@@ -7,316 +7,468 @@ X-WR-CALNAME:Kalendarz Wydarzeń — Rabka-Zdrój
 X-WR-TIMEZONE:Europe/Warsaw
 BEGIN:VEVENT
 UID:auto-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-SUMMARY:IX Kid Bike Race — Puchar Rabczańskiego Zdrowotka
-LOCATION:Park Zdrojowy\, okolice placu zabaw
-DESCRIPTION:Godzina: 13:30 | Zawody rowerowe na czas dla dzieci 2–13 lat\
- , połączone z uroczystym otwarciem Szlaku Rabczańskich Smakowitości.
+DTSTAMP:20260817T063134Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:Tydzień Bardzo Małego Dziecka
+DESCRIPTION:Dzień Dziecka to za mało\, bardzo małe dzieci potrzebują tygo
+ dnia - Tygodnia Bardzo Małego Dziecka! Tydzień Bardzo Małego Dziecka jes
+ t to III edycja festiwalu sztuki dla najmłodszych dzieci w Rabce-Zdroju\
+ , miejscowości noszącej tytuł Miasta Dzieci Świata. Odbędzie się w dniac
+ h 17-23 sierpnia 2026 r. Dzieci w wieku 0-5 lat będą mogły uczestniczyć 
+ w przygotowanych specjalnie dla nich spektaklach najn
 CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-2@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
+DTSTAMP:20260817T063134Z
 DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260824
-SUMMARY:Tydzień Bardzo Małego Dziecka (III edycja)
-LOCATION:Miejska Biblioteka Publiczna\, ul. Orkana 27
-DESCRIPTION:Festiwal sztuki dla dzieci 0–5 lat: spektakle\, zajęcia senso
- ryczne\, plastyczne i muzyczne oraz spotkania dla rodziców.
+DTEND;VALUE=DATE:20260818
+SUMMARY:Tydzień Bardzo Małego Dziecka po raz trzeci w Rabce-Zdroju
+DESCRIPTION:W dniach 17–23 sierpnia 2026 roku Rabka-Zdrój po raz kolejny 
+ stanie się miejscem wyjątkowo przyjaznym najmłodszym mieszkańcom i gości
+ om. Przed nami III edycja Tygodnia Bardzo Małego Dziecka – festiwalu szt
+ uki i kreatywnej aktywności skierowanego do dzieci w wieku od 0 do 5 lat
+  oraz ich rodzin. Wydarzenie doskonale wpisuje się w charakter Rabki-Zdr
+ oju\, noszącej zaszczytny tytuł Miasta Dzieci Świata
 CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-3@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
+DTSTAMP:20260817T063134Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:XXXIII Sesja Rady Miejskiej w Rabce-Zdroju
-LOCATION:Urząd Miejski\, ul. Parkowa 2 (sala obrad)
-DESCRIPTION:Godzina: 15:00 | Sesja Rady Miejskiej IX kadencji — porządek 
- obrad obejmuje m.in. uchwały budżetowe i gospodarkę odpadami.
-CATEGORIES:Samorząd
+DESCRIPTION:Wiceprzewodniczący Rady Miejskiej w Rabce - Zdroju informuje\
+ , że 19.08.2026 r. (środa) o godz.  15:00 w Urzędzie Miejskim w Rabce-Zd
+ roju przy ul. Parkowej 2 (sala obrad) odbędzie się XXXIII Sesja Rady Mie
+ jskiej w Rabce-Zdroju. PORZĄDEK OBRAD XXXIII sesji Rady Miejskiej – 19.0
+ 8.2026 r. 1. Otwarcie XXXIII Sesji IX Kadencji Rady Miejskiej w Rabce-Zd
+ roju. 2. Sprawozdanie Burmistrza Rabki – Zdroju z dz
+CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-4@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
+DTSTAMP:20260817T063134Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
-SUMMARY:Premiera „Podróże Gulliwera” — Spišské divadlo (Słowacja)
-LOCATION:Teatr Lalek „Rabcio”\, ul. Orkana 3c
-DESCRIPTION:Godzina: 19:00 | Plenerowy spektakl uliczny w ramach polsko-s
- łowackiej współpracy kulturalnej\, poprzedzony korowodem i warsztatami t
- eatralnymi.
-CATEGORIES:Kultura
+SUMMARY:Premiera spektaklu plenerowego „Podróże Gulliwera” – Spišské diva
+ dlo (Słowacja)
+DESCRIPTION:20 sierpnia 2026 r. (czwartek) zapraszamy do Teatru Lalek „Ra
+ bcio” w Rabce-Zdroju na wyjątkowe wydarzenie realizowane w ramach polsko
+ -słowackiej współpracy kulturalnej. Tego dnia na uczestników czeka bogat
+ y program artystyczny\, którego kulminacją będzie premiera plenerowego s
+ pektaklu „Podróże Gulliwera” w wykonaniu Spišskiego divadla ze Słowacji.
+  Spektakl inspirowany ponadczasowym dziełem Jonathan
+CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-5@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
+DTSTAMP:20260817T063134Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
-SUMMARY:Wielki finał lata ze sztuką uliczną
-LOCATION:Park Zdrojowy i Amfiteatr
-DESCRIPTION:Godzina: 15:00 | Finał Letniej Szkoły Artystów Ulicznych — po
- kazy żonglerki\, szczudeł\, pantomimy i akrobatyki\, wstęp bezpłatny.
-CATEGORIES:Kultura
+SUMMARY:Wielki finał lata ze sztuką uliczną w Rabce-Zdroju
+DESCRIPTION:22 sierpnia Park Zdrojowy i rabczański amfiteatr zamienią się
+  w wielką plenerową scenę. Wszystko za sprawą wyjątkowego festiwalu sztu
+ ki ulicznej\, który będzie finałem wakacyjnej przygody dzieci i młodzież
+ y uczestniczących w Letniej Szkole Artystów Ulicznych. Wstęp na wydarzen
+ ie będzie bezpłatny. Przez całe wakacje młodzi mieszkańcy i uczestnicy p
+ rojektu poznawali tajniki sztuki ulicznej. Podczas z
+CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-6@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
+DTSTAMP:20260817T063134Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-SUMMARY:Kabaret Skeczów Męczących — program jubileuszowy
-LOCATION:Amfiteatr w Rabce-Zdroju
-DESCRIPTION:Godzina: 18:00 | Występ z okazji 20-lecia kabaretu\, program 
- „Jeszcze nigdy nie było tak dobrze!”. Bilety w serwisie Biletyna.
-CATEGORIES:Kultura
+SUMMARY:Kabaret Skeczów Męczących rozbawi Rabkę-Zdrój! Jubileuszowy progr
+ am 23 sierpnia w Amfiteatrze
+DESCRIPTION:To będzie jeden z najbardziej wyczekiwanych kabaretowych wiec
+ zorów tego lata w Rabce-Zdroju! 23 sierpnia o godz. 18:00 na scenie rabc
+ zańskiego Amfiteatru wystąpi uwielbiany przez publiczność Kabaret Skeczó
+ w Męczących ze swoim najnowszym jubileuszowym programem „Jeszcze nigdy n
+ ie było tak dobrze!”. Artyści przygotowali wyjątkowe widowisko z okazji 
+ 20-lecia działalności kabaretu. Będzie to niepowtar
+CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-7@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
+DTSTAMP:20260817T063134Z
 DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260831
-SUMMARY:Spacer Pamięci — ofiary Holokaustu na Podhalu
-LOCATION:Willa „Pod Aniołem” / Willa „Tereska”
-DESCRIPTION:Godzina: 16:00 | Dwa dni refleksji: spotkanie ze świadkami hi
- storii oraz spacer i odsłonięcie tablicy „Aleja Pamięci Ofiar Holocaustu
- ”.
-CATEGORIES:Historia i tradycja
+DTEND;VALUE=DATE:20260830
+SUMMARY:Spacer Pamięci w Rabce-Zdroju. Dwa dni refleksji nad historią i p
+ amięcią o ofiarach Holokaustu
+DESCRIPTION:Rabka-Zdrój po raz kolejny stanie się miejscem ważnej refleks
+ ji nad tragicznymi wydarzeniami II wojny światowej. W dniach 29–30 sierp
+ nia odbędzie się Spacer Pamięci – wydarzenie poświęcone ofiarom niemieck
+ iego terroru oraz Zagłady społeczności żydowskiej Podhala. Organizatorzy
+  zapraszają mieszkańców\, kuracjuszy i wszystkich zainteresowanych histo
+ rią do wspólnego oddania hołdu pomordowanym oraz udz
+CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-8@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
+DTSTAMP:20260817T063134Z
 DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260831
-SUMMARY:Highlander Double Impact — Calisthenics Battle & Street Lifting
-LOCATION:Rabka-Zdrój
-DESCRIPTION:Dwudniowe zawody: Street Workout Calisthenics Battle 7 oraz p
- ierwsze w Rabce zawody Street Lifting (federacja Final Rep).
+DTEND;VALUE=DATE:20260830
+SUMMARY:Highlander Double Impact. Dwa dni sportowych emocji w Rabce-Zdroj
+ u. Światowa kalistenika i historyczny debiut Street Liftingu
+DESCRIPTION:Po sześciu latach organizacji jednych z najbardziej widowisko
+ wych zawodów Street Workout w Polsce przyszedł czas na nowy rozdział. Po
+ d koniec wakacji Rabka-Zdrój ponownie stanie się areną zmagań najlepszyc
+ h zawodników\, jednak tym razem wydarzenie zyska zupełnie nową formułę. 
+ Highlander Double Impact połączy światowej klasy kalistenikę ze street l
+ iftingiem\, a sportowe święto potrwa aż dwa dni. Od k
 CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-9@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:Dni Architektury Drewnianej 2026
-LOCATION:Muzeum im. Władysława Orkana\, ul. Sądecka 6
-DESCRIPTION:Godzina: 09:00 | Bezpłatne zwiedzanie\, spacer architektonicz
- ny po zabytkowych willach oraz warsztaty garncarskie w Organistówce.
-CATEGORIES:Historia i tradycja
+DTSTAMP:20260817T063134Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:Highlander Double Impact 2026. Dwa dni sportowych emocji w Rabce-
+ Zdroju
+DESCRIPTION:Po sześciu udanych edycjach zawodów Street Workout w Rabce-Zd
+ roju nadchodzi nowy rozdział jednego z najbardziej rozpoznawalnych wydar
+ zeń sportów siłowych i kalistenicznych w regionie. Tegoroczna odsłona od
+ będzie się w nowej formule\, pod nazwą Highlander Double Impact\, i po r
+ az pierwszy potrwa dwa dni – 29 i 30 sierpnia 2026 roku. Organizację wyd
+ arzenia przejmuje nowe pokolenie pasjonatów tej dyscy
+CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-10@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:Mini Podhale Tour 2026 — Grand Prix Rabki-Zdroju
-LOCATION:Rabka-Zdrój
-DESCRIPTION:Piąty etap cyklu kolarskiego dla dzieci\, młodzieży i rodzin\
- , organizowany przez Towarzystwo Cyklistów Orzeł Spytkowice.
+DTSTAMP:20260817T063134Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Dni Architektury Drewnianej 2026 w Rabce-Zdroju już 30 sierpnia. 
+ Bezpłatne zwiedzanie\, spacer i warsztaty w Muzeum Orkana
+DESCRIPTION:Miłośnicy zabytkowej architektury drewnianej będą mieli wyjąt
+ kową okazję do poznania najcenniejszych obiektów Rabki-Zdroju podczas Dn
+ i Architektury Drewnianej 2026\, które odbędą się w niedzielę\, 30 sierp
+ nia 2026 roku. W uzdrowisku zaplanowano cykl wydarzeń przygotowanych prz
+ ez Narodowy Instytut Dziedzictwa we współpracy z Muzeum im. Władysława O
+ rkana. Celem Dni Architektury Drewnianej jest promocj
 CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-11@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
+DTSTAMP:20260817T063134Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Mini Podhale Tour 2026. Rusza kolejny sezon kolarskich emocji!
+DESCRIPTION:Już wkrótce wystartuje kolejna edycja jednego z najbardziej r
+ ozpoznawalnych cykli zawodów rowerowych dla dzieci\, młodzieży i całych 
+ rodzin - Mini Podhale Tour 2026. To wyjątkowe wydarzenie sportowe\, orga
+ nizowane przez Towarzystwo Cyklistów Orzeł Spytkowice\, od lat przyciąga
+  miłośników dwóch kółek z całego regionu Podhala i nie tylko. Celem cykl
+ u jest nie tylko wyłonienie najlepszych zawodników w k
+CATEGORIES:Sport
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-12@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-SUMMARY:Jesienny Redyk Rodzinny
-LOCATION:Plac targowy w Rabce-Zdroju
-DESCRIPTION:Godzina: 14:00 | Pierwszy w Rabce-Zdroju redyk nawiązujący do
-  pasterskich tradycji Podhala i Gorców — uroczyste przejście stada owiec
- .
-CATEGORIES:Historia i tradycja
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
-DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260615
-SUMMARY:49. Karpacki Festiwal Dziecięcych Zespołów Regionalnych
-LOCATION:Amfiteatr w Rabce-Zdroju
-DESCRIPTION:Jeden z najważniejszych przeglądów dziecięcego folkloru w Pol
- sce — barwny korowód i prezentacje zespołów regionalnych z Karpat i Podk
- arpacia.
+SUMMARY:Owce przejdą ulicami Rabki-Zdroju! Jesienny Redyk Rodzinny już 3 
+ października
+DESCRIPTION:To będzie jedno z najbardziej barwnych i wyjątkowych wydarzeń
+  tej jesieni. Po raz pierwszy w Rabce-Zdroju odbędzie się Rodzinny Redyk
+ \, nawiązujący do wielowiekowych tradycji pasterskich Podhala i Gorców. 
+ 3 października 2026 r. (sobota) Godzina 14.00 Plac targowy w Rabce-Zdroj
+ u Organizatorzy już dziś zapraszają mieszkańców oraz gości do udziału w 
+ wydarzeniu\, które połączy tradycję\, k
 CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
-UID:cksip-2@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
-DTSTART;VALUE=DATE:20260619
-DTEND;VALUE=DATE:20260622
-SUMMARY:VIII Retro Piknik „Dawnej Rabki Czar” — 600 lat Laury
-LOCATION:Rabka-Zdrój
-DESCRIPTION:Podróż w czasy przedwojennego kurortu\, nawiązująca do słynne
- j rabczańskiej sosny "Laura" — jednego z symboli miasta.
-CATEGORIES:Historia i tradycja
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-3@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
-DTSTART;VALUE=DATE:20260621
-DTEND;VALUE=DATE:20260622
-SUMMARY:Świderek Race MTB 2026
-LOCATION:Kompleks Gazdówka\, Ponice
-DESCRIPTION:Kolejna edycja jednej z najważniejszych imprez kolarstwa górs
- kiego w regionie.
-CATEGORIES:Sport
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-4@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
+UID:cksip-kalendarz-1@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260630
-SUMMARY:Taneczne Wakacje 2026
-LOCATION:Amfiteatr w Rabce-Zdroju
-DESCRIPTION:Dwa turnusy zajęć tanecznych\, zabaw i aktywności ruchowych d
- la dzieci.
-CATEGORIES:Dzieci i rodzina
+SUMMARY:Już od
+DESCRIPTION:rozpoczną się Taneczne Wakacje 2026\, podczas których przez d
+ wa turnusy dzieci będą mogły uczestniczyć w zajęciach tanecznych\, zabaw
+ ach i aktywnościach ruchowych w amfiteatrze. Miłośnicy górskich wędrówek
+  rozpoczną lipiec od nocnego wejścia na Luboń Wielki w ramach akcji Odkr
+ yj Beskid Wyspowy\, zaplanowanego na
+CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
-UID:cksip-5@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
+UID:cksip-kalendarz-2@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
-SUMMARY:Odkryj Beskid Wyspowy — nocne wejście na Luboń Wielki
-LOCATION:Luboń Wielki
-DESCRIPTION:Nocna wędrówka górska w ramach cyklu promującego Beskid Wyspo
- wy.
-CATEGORIES:Sport
+SUMMARY:Miłośnicy górskich wędrówek rozpoczną lipiec od nocnego wejścia n
+ a Luboń Wielki w ramach akcji Odkryj Beskid Wyspowy\, zaplanowanego na
+DESCRIPTION:. Jednym z najważniejszych wydarzeń wakacji będzie Rabka Fest
+ ival\, który od
+CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
-UID:cksip-6@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
+UID:cksip-kalendarz-3@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260719
-SUMMARY:Rabka Festival — Międzynarodowy Festiwal Literatury Dziecięcej
-LOCATION:Rabka-Zdrój (różne lokalizacje)
-DESCRIPTION:Trzynasta edycja festiwalu: spotkania z autorami i ilustrator
- ami\, spektakle i warsztaty dla dzieci.
+SUMMARY:Jednym z najważniejszych wydarzeń wakacji będzie Rabka Festival\,
+  który od
+DESCRIPTION:po raz trzynasty zamieni Rabkę-Zdrój w stolicę literatury dzi
+ ecięcej. Spotkania z autorami\, ilustratorami\, spektakle\, warsztaty i 
+ liczne atrakcje dla najmłodszych sprawią\, że przez kilka dni całe uzdro
+ wisko będzie żyło książką i światem dziecięcej wyobraźni. Prawdziwie muz
+ ycznie zapowiada się druga połowa lipca. Już
 CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
-UID:cksip-7@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260717
-SUMMARY:Letni Koncert Organowy
-LOCATION:Kościół — Muzeum im. Władysława Orkana
-DESCRIPTION:Godzina: 17:00 | Cykl koncertów muzyki organowej w zabytkowym
-  kościele\, w czwartkowe popołudnia (16\, 30 lipca oraz 13\, 27 sierpnia
- ).
-CATEGORIES:Kultura
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-8@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
+UID:cksip-kalendarz-4@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
 DTSTART;VALUE=DATE:20260719
 DTEND;VALUE=DATE:20260720
-SUMMARY:Święto Rabczańskiej Solanki — The Beatles Revival
-LOCATION:Amfiteatr „Pod Muszlą”
-DESCRIPTION:Koncert zespołu The Beatles Revival w ramach Święta Rabczańsk
- iej Solanki.
-CATEGORIES:Kultura
+SUMMARY:Prawdziwie muzycznie zapowiada się druga połowa lipca. Już
+DESCRIPTION:podczas Święta Rabczańskiej Solanki na scenie amfiteatru wyst
+ ąpi znakomity zespół The Beatles Revival\, który zabierze publiczność w 
+ sentymentalną podróż do czasów największych przebojów legendarnej czwórk
+ i z Liverpoolu. Tego samego dnia odbędą się również Beskidzkie Rytmy i S
+ maki połączone z piknikiem służb mundurowych – wydarzenie pełne regional
+ nej muzyki\, kulinariów oraz rodzinnych atrakcji.
+CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
-UID:cksip-9@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
-DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
-SUMMARY:Beskidzkie Rytmy i Smaki — piknik służb mundurowych
-LOCATION:Rabka-Zdrój
-DESCRIPTION:Regionalna muzyka\, kulinaria i rodzinne atrakcje połączone z
-  piknikiem służb mundurowych.
-CATEGORIES:Kultura
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-10@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
+UID:cksip-kalendarz-5@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
-SUMMARY:Jarmark w Muzeum im. Władysława Orkana
-LOCATION:Muzeum im. Władysława Orkana
-DESCRIPTION:Jarmark towarzyszący odpustowi ku czci św. Marii Magdaleny — 
- lokalni twórcy\, rzemieślnicy i folklor regionu.
+SUMMARY:Tego samego dnia odbędą się również Beskidzkie Rytmy i Smaki połą
+ czone z piknikiem służb mundurowych – wydarzenie pełne regionalnej muzyk
+ i\, kulinariów oraz rodzinnych atrakcji.
+DESCRIPTION:tradycyjnie odbędzie się Jarmark w Muzeum im. Władysława Orka
+ na\, związany z odpustem ku czci św. Marii Magdaleny. To wyjątkowa okazj
+ a\, by poznać lokalnych twórców\, rzemieślników i folklor regionu.
+CATEGORIES:Dzieci i rodzina
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-kalendarz-6@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:tradycyjnie odbędzie się Jarmark w Muzeum im. Władysława Orkana\,
+  związany z odpustem ku czci św. Marii Magdaleny. To wyjątkowa okazja\, 
+ by poznać lokalnych twórców\, rzemieślników i folklor regionu.
+DESCRIPTION:amfiteatr rozbrzmi jubileuszowym koncertem z okazji 10-lecia 
+ zespołu Szafrany \, który od lat promuje góralską muzykę i tradycję. Szc
+ zególną propozycję przygotowano również dla melomanów. W zabytkowym kośc
+ iele mieszczącym Muzeum im. Władysława Orkana odbędzie się cykl Letnich 
+ Koncertów Organowych. Muzyki organowej będzie można posłuchać w czwartki
+ : 16 i
 CATEGORIES:Historia i tradycja
 END:VEVENT
 BEGIN:VEVENT
-UID:cksip-11@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-SUMMARY:Koncert jubileuszowy zespołu Szafrany — 10-lecie
-LOCATION:Amfiteatr w Rabce-Zdroju
-DESCRIPTION:Koncert z okazji 10-lecia zespołu promującego góralską muzykę
-  i tradycję.
+UID:cksip-kalendarz-7@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:gotowano również dla melomanów. W zabytkowym kościele mieszczącym
+  Muzeum im. Władysława Orkana odbędzie się cykl Letnich Koncertów Organo
+ wych. Muzyki organowej będzie można posłuchać w czwartki:
+DESCRIPTION:oraz 13 i
+CATEGORIES:Historia i tradycja
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-kalendarz-8@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:16 i 30 lipca oraz 13 i
+DESCRIPTION:o godzinie 17.00. Kameralna atmosfera i niezwykła akustyka te
+ go miejsca sprawiają\, że koncerty te należą do wyjątkowych wydarzeń muz
+ ycznych wakacji. Sierpień przyniesie kolejne emocje. Już
 CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
-UID:cksip-12@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
+UID:cksip-kalendarz-9@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-SUMMARY:Gala MMA
-LOCATION:Amfiteatr w Rabce-Zdroju
-DESCRIPTION:Wieczór sportów walki w rabczańskim amfiteatrze.
+SUMMARY:Sierpień przyniesie kolejne emocje. Już
+DESCRIPTION:amfiteatr stanie się areną gali MMA\, a
 CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
-UID:cksip-13@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
+UID:cksip-kalendarz-10@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
 DTSTART;VALUE=DATE:20260808
 DTEND;VALUE=DATE:20260809
-SUMMARY:Festyn Góralski (Związek Podhalan)
-LOCATION:Rabka-Zdrój
-DESCRIPTION:Tradycyjny festyn organizowany przez Związek Podhalan.
-CATEGORIES:Historia i tradycja
+SUMMARY:amfiteatr stanie się areną gali MMA\, a
+DESCRIPTION:odbędzie się tradycyjny Festyn Góralski organizowany przez Zw
+ iązek Podhalan.
+CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
-UID:cksip-14@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
+UID:cksip-kalendarz-11@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
 DTSTART;VALUE=DATE:20260809
 DTEND;VALUE=DATE:20260810
-SUMMARY:Koncert Zespołu „Śląsk”
-LOCATION:Amfiteatr w Rabce-Zdroju
-DESCRIPTION:Występ legendarnego Zespołu Pieśni i Tańca „Śląsk”.
+SUMMARY:odbędzie się tradycyjny Festyn Góralski organizowany przez Związe
+ k Podhalan.
+DESCRIPTION:na scenie wystąpi legendarny Zespół "Śląsk"\, natomiast
 CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
-UID:cksip-15@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
+UID:cksip-kalendarz-12@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-SUMMARY:Koncert zespołu Baciary
-LOCATION:Amfiteatr w Rabce-Zdroju
-DESCRIPTION:Wspólna zabawa z zespołem Baciary na scenie amfiteatru.
+SUMMARY:na scenie wystąpi legendarny Zespół "Śląsk"\, natomiast
+DESCRIPTION:publiczność porwie do wspólnej zabawy zespół Baciary.
 CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
-UID:cksip-16@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
+UID:cksip-kalendarz-13@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
-SUMMARY:Dożynki Gminne
-LOCATION:Chabówka
-DESCRIPTION:Doroczne gminne święto plonów\, w tym roku organizowane w Cha
- bówce.
-CATEGORIES:Historia i tradycja
+SUMMARY:publiczność porwie do wspólnej zabawy zespół Baciary.
+DESCRIPTION:mieszkańcy spotkają się podczas Dożynek Gminnych w Chabówce\,
+  a dzień później odbędzie się kolejne wakacyjne Rowerowanie\, które od l
+ at cieszy się dużym zainteresowaniem miłośników aktywnego wypoczynku. Po
+ d koniec wakacji\,
+CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
-UID:cksip-17@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-SUMMARY:Rowerowanie
-LOCATION:Rabka-Zdrój
-DESCRIPTION:Cieszący się dużym zainteresowaniem wakacyjny przejazd rowero
- wy dla mieszkańców.
+UID:cksip-kalendarz-14@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:Pod koniec wakacji\,
+DESCRIPTION:\, amfiteatr wypełni się śmiechem za sprawą występu Kabaretu 
+ Skeczów Męczących. Przez całe wakacje dzieci i młodzież będą mogły uczes
+ tniczyć w Letniej Szkole Artystów Ulicznych. To projekt obejmujący cykle
+  warsztatów z cyrku\, teatru ulicznego i animacji\, zakończonych pokazam
+ i przygotowanymi przez uczestników. Najmłodsi wraz z rodzicami znajdą ró
+ wnież coś dla siebie podczas III Tygodnia Bardzo Małeg
+CATEGORIES:Dzieci i rodzina
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-kalendarz-15@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260824
+SUMMARY:Najmłodsi wraz z rodzicami znajdą również coś dla siebie podczas 
+ III Tygodnia Bardzo Małego Dziecka\, który odbędzie się od
+DESCRIPTION:. Program obejmuje spektakle\, warsztaty\, koncerty i wydarze
+ nia rozwijające kreatywność najmłodszych. Sportowe zakończenie wakacji z
+ apewni Highlander Double Impact 2026 – nowa odsłona znanych zawodów Stre
+ et Workout. Po raz pierwszy impreza potrwa dwa dni – 29 i
+CATEGORIES:Sport
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-kalendarz-16@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:Sportowe zakończenie wakacji zapewni Highlander Double Impact 202
+ 6 – nowa odsłona znanych zawodów Street Workout. Po raz pierwszy impreza
+  potrwa dwa dni –
+DESCRIPTION:– gromadząc zawodników i miłośników sportów siłowych. Bogaty 
+ program pokazuje\, że Rabka-Zdrój pozostaje jednym z najciekawszych waka
+ cyjnych kierunków w regionie. Muzyka\, kultura\, sport\, wydarzenia rodz
+ inne i folklor tworzą ofertę\, dzięki której każdy – niezależnie od wiek
+ u – znajdzie coś dla siebie. Szczegółowe informacje dotyczące godzin roz
+ poczęcia poszczególnych wydarzeń\, programu oraz ewentua
+CATEGORIES:Sport
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-blog-1@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Rabka-Zdrój przeżyła w środę\,
+DESCRIPTION:\, prawdziwe święto muzyki\, góralskiej energii i wspólnej za
+ bawy. Gwiazdą wieczoru w rabczańskim amfiteatrze był zespół Baciary\, kt
+ órego koncert przyciągnął tłumy mieszkańców\, turystów oraz gości z okol
+ icznych miejscowości. Czytaj więcej 10.08.2026 "A to Polska właśnie" w R
+ abce-Zdroju. Zespół "Śląsk" zachwycił publiczność Rabczański Amfiteatr w
+  niedzielne popołudnie wypełnił się publicznością\, któr
+CATEGORIES:Sport
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-blog-2@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:Dziś w siedzibie Centrum Kultury\, Sportu i Promocji w Rabce-Zdro
+ ju odbyło się oficjalne przekazanie obowiązków dyrektora instytucji. Z d
+ niem
+DESCRIPTION:roku funkcję dyrektora CKSiP objęła Iwona Gal\, rozpoczynając
+  swoją trzyletnią kadencję. Czytaj więcej 30.07.2026 Letnia Szkoła Artys
+ tów Ulicznych w Rabce-Zdroju. Trwają bezpłatne warsztaty dla dzieci i mł
+ odzieży W Rabce-Zdroju trwają wakacyjne warsztaty w ramach projektu „Gal
+ icyjskie Dziedzictwo w Praktyce – Akademia sztuki i opowieści dla dzieci
+  i młodzieży w Rabce-Zdroju” realizowanego w program
+CATEGORIES:Sport
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-blog-3@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:Nie był to zwykły jubileusz zespołu. Było to święto ludzi\, który
+ ch przez dziesięć lat połączyła miłość do góralskiej tradycji\, muzyki i
+  swojej małej ojczyzny. W sobotę\,
+DESCRIPTION:\, rabczański amfiteatr wypełnił się mieszkańcami\, muzyką i 
+ wzruszeniami podczas jubileuszu 10-lecia działalności Szafranów ze Słone
+ go. Był śpiew\, wspomnienia\, podziękowania\, gratulacje oraz wspólne św
+ iętowanie dekady niezwykłej działalności\, która wykracza daleko poza sa
+ mą muzykę. Czytaj więcej 23.07.2026 Iwona Gal pokieruje Centrum Kultury\
+ , Sportu i Promocji w Rabce-Zdroju. Doświadczona menedżer 
+CATEGORIES:Sport
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-blog-4@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:Iwona Gal pokieruje Centrum Kultury\, Sportu i Promocji w Rabce-Z
+ droju. Doświadczona menedżer kultury obejmie stanowisko od
+DESCRIPTION:Burmistrz Rabki-Zdroju zakończył procedurę konkursową na stan
+ owisko dyrektora Centrum Kultury\, Sportu i Promocji w Rabce-Zdroju. Kom
+ isja Konkursowa zarekomendowała na to stanowisko Iwonę Gal\, która od
+CATEGORIES:Sport
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-blog-5@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:urmistrz Rabki-Zdroju zakończył procedurę konkursową na stanowisk
+ o dyrektora Centrum Kultury\, Sportu i Promocji w Rabce-Zdroju. Komisja 
+ Konkursowa zarekomendowała na to stanowisko Iwonę Gal\, która od
+DESCRIPTION:roku obejmie kierownictwo miejskiej instytucji kultury. Czyta
+ j więcej 20.07.2026 Święto Rabczańskiej Solanki 2026. Zdrowie\, tradycja
+  i muzyka połączyły mieszkańców oraz kuracjuszy Rabka-Zdrój po raz kolej
+ ny udowodniła\, że jej największym bogactwem jest nie tylko wyjątkowa so
+ lanka jodowo-bromowa\, ale także ludzie\, którzy od pokoleń tworzą uzdro
+ wiskową tradycję miasta. W niedzielę\,
+CATEGORIES:Sport
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-blog-6@rabka-wydarzenia-kalendarz
+DTSTAMP:20260817T063134Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:ka-Zdrój po raz kolejny udowodniła\, że jej największym bogactwem
+  jest nie tylko wyjątkowa solanka jodowo-bromowa\, ale także ludzie\, kt
+ órzy od pokoleń tworzą uzdrowiskową tradycję miasta. W niedzielę\,
+DESCRIPTION:\, rabczański amfiteatr wypełnił się mieszkańcami\, kuracjusz
+ ami i turystami uczestniczącymi w Święcie Rabczańskiej Solanki – wydarze
+ niu\, które od lat łączy promocję zdrowia z rodzinną rozrywką\, edukacją
+  i muzyką. Czytaj więcej 10.07.2026 Roztańczone lato 2026 - taneczne wak
+ acje zakończone z energią i pasją Dobiegła końca kolejna\, pełna energii
+ \, radości i tanecznych emocji edycja wakacyjnych warszta
 CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:manual-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260816T202414Z
+DTSTAMP:20260817T063134Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Przykładowe wydarzenie Fundacji (usuń lub edytuj)
