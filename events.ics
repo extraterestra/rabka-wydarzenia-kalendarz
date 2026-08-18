@@ -7,7 +7,7 @@ X-WR-CALNAME:Kalendarz Wydarzeń — Rabka-Zdrój
 X-WR-TIMEZONE:Europe/Warsaw
 BEGIN:VEVENT
 UID:auto-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
+DTSTAMP:20260818T111123Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
 SUMMARY:Tydzień Bardzo Małego Dziecka
@@ -23,7 +23,7 @@ CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-2@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
+DTSTAMP:20260818T111123Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
 SUMMARY:Tydzień Bardzo Małego Dziecka po raz trzeci w Rabce-Zdroju
@@ -39,7 +39,7 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-3@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
+DTSTAMP:20260818T111123Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:XXXIII Sesja Rady Miejskiej w Rabce-Zdroju
@@ -55,7 +55,7 @@ CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-4@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
+DTSTAMP:20260818T111123Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
 SUMMARY:Premiera spektaklu plenerowego „Podróże Gulliwera” – Spišské diva
@@ -72,7 +72,7 @@ CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-5@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
+DTSTAMP:20260818T111123Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 SUMMARY:Wielki finał lata ze sztuką uliczną w Rabce-Zdroju
@@ -88,7 +88,7 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-6@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
+DTSTAMP:20260818T111123Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:Kabaret Skeczów Męczących rozbawi Rabkę-Zdrój! Jubileuszowy progr
@@ -105,7 +105,7 @@ CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-7@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
+DTSTAMP:20260818T111123Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Spacer Pamięci w Rabce-Zdroju. Dwa dni refleksji nad historią i p
@@ -122,7 +122,7 @@ CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-8@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
+DTSTAMP:20260818T111123Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Highlander Double Impact. Dwa dni sportowych emocji w Rabce-Zdroj
@@ -139,7 +139,7 @@ CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-9@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
+DTSTAMP:20260818T111123Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Highlander Double Impact 2026. Dwa dni sportowych emocji w Rabce-
@@ -156,7 +156,7 @@ CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-10@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
+DTSTAMP:20260818T111123Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:Dni Architektury Drewnianej 2026 w Rabce-Zdroju już 30 sierpnia. 
@@ -173,7 +173,7 @@ CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-11@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
+DTSTAMP:20260818T111123Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Mini Podhale Tour 2026. Rusza kolejny sezon kolarskich emocji!
@@ -189,7 +189,7 @@ CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-12@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
+DTSTAMP:20260818T111123Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Owce przejdą ulicami Rabki-Zdroju! Jesienny Redyk Rodzinny już 3 
@@ -205,338 +205,8 @@ URL:https://rabka.pl/kalendarz-wydarzen/
 CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
-UID:cksip-kalendarz-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20260630
-SUMMARY:Już od
-DESCRIPTION:Data: 2026-06-29 | rozpoczną się Taneczne Wakacje 2026\, podc
- zas których przez dwa turnusy dzieci będą mogły uczestniczyć w zajęciach
-  tanecznych\, zabawach i aktywnościach ruchowych w amfiteatrze. Miłośnic
- y górskich wędrówek rozpoczną lipiec od nocnego wejścia na Luboń Wielki 
- w ramach akcji Odkryj Beskid Wyspowy\, zaplanowanego na | Źródło: https:
- //centrum-kultury.rabka.pl/kalendarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Kultura
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-kalendarz-2@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260705
-SUMMARY:Miłośnicy górskich wędrówek rozpoczną lipiec od nocnego wejścia n
- a Luboń Wielki w ramach akcji Odkryj Beskid Wyspowy\, zaplanowanego na
-DESCRIPTION:Data: 2026-07-04 | . Jednym z najważniejszych wydarzeń wakacj
- i będzie Rabka Festival\, który od | Źródło: https://centrum-kultury.rab
- ka.pl/kalendarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Kultura
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-kalendarz-3@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260719
-SUMMARY:Jednym z najważniejszych wydarzeń wakacji będzie Rabka Festival\,
-  który od
-DESCRIPTION:Data: 2026-07-15 – 2026-07-18 | po raz trzynasty zamieni Rabk
- ę-Zdrój w stolicę literatury dziecięcej. Spotkania z autorami\, ilustrat
- orami\, spektakle\, warsztaty i liczne atrakcje dla najmłodszych sprawią
- \, że przez kilka dni całe uzdrowisko będzie żyło książką i światem dzie
- cięcej wyobraźni. Prawdziwie muzycznie zapowiada się druga połowa lipca.
-  Już | Źródło: https://centrum-kultury.rabka.pl/kalendarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Dzieci i rodzina
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-kalendarz-4@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
-SUMMARY:Prawdziwie muzycznie zapowiada się druga połowa lipca. Już
-DESCRIPTION:Data: 2026-07-19 | podczas Święta Rabczańskiej Solanki na sce
- nie amfiteatru wystąpi znakomity zespół The Beatles Revival\, który zabi
- erze publiczność w sentymentalną podróż do czasów największych przebojów
-  legendarnej czwórki z Liverpoolu. Tego samego dnia odbędą się również B
- eskidzkie Rytmy i Smaki połączone z piknikiem służb mundurowych – wydarz
- enie pełne regionalnej muzyki\, kulinariów oraz rodzinnych atrakcji. | Ź
- ródło: https://centrum-kultury.rabka.pl/kalendarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Dzieci i rodzina
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-kalendarz-5@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-SUMMARY:Tego samego dnia odbędą się również Beskidzkie Rytmy i Smaki połą
- czone z piknikiem służb mundurowych – wydarzenie pełne regionalnej muzyk
- i\, kulinariów oraz rodzinnych atrakcji.
-DESCRIPTION:Data: 2026-07-22 | tradycyjnie odbędzie się Jarmark w Muzeum 
- im. Władysława Orkana\, związany z odpustem ku czci św. Marii Magdaleny.
-  To wyjątkowa okazja\, by poznać lokalnych twórców\, rzemieślników i fol
- klor regionu. | Źródło: https://centrum-kultury.rabka.pl/kalendarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Dzieci i rodzina
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-kalendarz-6@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-SUMMARY:tradycyjnie odbędzie się Jarmark w Muzeum im. Władysława Orkana\,
-  związany z odpustem ku czci św. Marii Magdaleny. To wyjątkowa okazja\, 
- by poznać lokalnych twórców\, rzemieślników i folklor regionu.
-DESCRIPTION:Data: 2026-07-25 | amfiteatr rozbrzmi jubileuszowym koncertem
-  z okazji 10-lecia zespołu Szafrany \, który od lat promuje góralską muz
- ykę i tradycję. Szczególną propozycję przygotowano również dla melomanów
- . W zabytkowym kościele mieszczącym Muzeum im. Władysława Orkana odbędzi
- e się cykl Letnich Koncertów Organowych. Muzyki organowej będzie można p
- osłuchać w czwartki: 16 i | Źródło: https://centrum-kultury.rabka.pl/kal
- endarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Historia i tradycja
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-kalendarz-7@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260731
-SUMMARY:gotowano również dla melomanów. W zabytkowym kościele mieszczącym
-  Muzeum im. Władysława Orkana odbędzie się cykl Letnich Koncertów Organo
- wych. Muzyki organowej będzie można posłuchać w czwartki:
-DESCRIPTION:Data: 2026-07-30 | oraz 13 i | Źródło: https://centrum-kultur
- y.rabka.pl/kalendarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Historia i tradycja
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-kalendarz-8@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:16 i 30 lipca oraz 13 i
-DESCRIPTION:Data: 2026-08-27 | o godzinie 17.00. Kameralna atmosfera i ni
- ezwykła akustyka tego miejsca sprawiają\, że koncerty te należą do wyjąt
- kowych wydarzeń muzycznych wakacji. Sierpień przyniesie kolejne emocje. 
- Już | Źródło: https://centrum-kultury.rabka.pl/kalendarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Kultura
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-kalendarz-9@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-SUMMARY:Sierpień przyniesie kolejne emocje. Już
-DESCRIPTION:Data: 2026-08-01 | amfiteatr stanie się areną gali MMA\, a | 
- Źródło: https://centrum-kultury.rabka.pl/kalendarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Sport
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-kalendarz-10@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260809
-SUMMARY:amfiteatr stanie się areną gali MMA\, a
-DESCRIPTION:Data: 2026-08-08 | odbędzie się tradycyjny Festyn Góralski or
- ganizowany przez Związek Podhalan. | Źródło: https://centrum-kultury.rab
- ka.pl/kalendarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Sport
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-kalendarz-11@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-SUMMARY:odbędzie się tradycyjny Festyn Góralski organizowany przez Związe
- k Podhalan.
-DESCRIPTION:Data: 2026-08-09 | na scenie wystąpi legendarny Zespół "Śląsk
- "\, natomiast | Źródło: https://centrum-kultury.rabka.pl/kalendarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Kultura
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-kalendarz-12@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260813
-SUMMARY:na scenie wystąpi legendarny Zespół "Śląsk"\, natomiast
-DESCRIPTION:Data: 2026-08-12 | publiczność porwie do wspólnej zabawy zesp
- ół Baciary. | Źródło: https://centrum-kultury.rabka.pl/kalendarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Kultura
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-kalendarz-13@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-SUMMARY:publiczność porwie do wspólnej zabawy zespół Baciary.
-DESCRIPTION:Data: 2026-08-15 | mieszkańcy spotkają się podczas Dożynek Gm
- innych w Chabówce\, a dzień później odbędzie się kolejne wakacyjne Rower
- owanie\, które od lat cieszy się dużym zainteresowaniem miłośników aktyw
- nego wypoczynku. Pod koniec wakacji\, | Źródło: https://centrum-kultury.
- rabka.pl/kalendarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Sport
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-kalendarz-14@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-SUMMARY:Pod koniec wakacji\,
-DESCRIPTION:Data: 2026-08-23 | \, amfiteatr wypełni się śmiechem za spraw
- ą występu Kabaretu Skeczów Męczących. Przez całe wakacje dzieci i młodzi
- eż będą mogły uczestniczyć w Letniej Szkole Artystów Ulicznych. To proje
- kt obejmujący cykle warsztatów z cyrku\, teatru ulicznego i animacji\, z
- akończonych pokazami przygotowanymi przez uczestników. Najmłodsi wraz z 
- rodzicami znajdą również coś dla siebie podczas III Tygodnia Bardzo Małe
- g | Źródło: https://centrum-kultury.rabka.pl/kalendarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Dzieci i rodzina
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-kalendarz-15@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260824
-SUMMARY:Najmłodsi wraz z rodzicami znajdą również coś dla siebie podczas 
- III Tygodnia Bardzo Małego Dziecka\, który odbędzie się od
-DESCRIPTION:Data: 2026-08-17 – 2026-08-23 | . Program obejmuje spektakle\
- , warsztaty\, koncerty i wydarzenia rozwijające kreatywność najmłodszych
- . Sportowe zakończenie wakacji zapewni Highlander Double Impact 2026 – n
- owa odsłona znanych zawodów Street Workout. Po raz pierwszy impreza potr
- wa dwa dni – 29 i | Źródło: https://centrum-kultury.rabka.pl/kalendarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Sport
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-kalendarz-16@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:Sportowe zakończenie wakacji zapewni Highlander Double Impact 202
- 6 – nowa odsłona znanych zawodów Street Workout. Po raz pierwszy impreza
-  potrwa dwa dni –
-DESCRIPTION:Data: 2026-08-30 | – gromadząc zawodników i miłośników sportó
- w siłowych. Bogaty program pokazuje\, że Rabka-Zdrój pozostaje jednym z 
- najciekawszych wakacyjnych kierunków w regionie. Muzyka\, kultura\, spor
- t\, wydarzenia rodzinne i folklor tworzą ofertę\, dzięki której każdy – 
- niezależnie od wieku – znajdzie coś dla siebie. Szczegółowe informacje d
- otyczące godzin rozpoczęcia poszczególnych wydarzeń\, programu oraz ewen
- tua | Źródło: https://centrum-kultury.rabka.pl/kalendarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Sport
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-blog-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260813
-SUMMARY:Rabka-Zdrój przeżyła w środę\,
-DESCRIPTION:Data: 2026-08-12 | \, prawdziwe święto muzyki\, góralskiej en
- ergii i wspólnej zabawy. Gwiazdą wieczoru w rabczańskim amfiteatrze był 
- zespół Baciary\, którego koncert przyciągnął tłumy mieszkańców\, turystó
- w oraz gości z okolicznych miejscowości. Czytaj więcej 10.08.2026 "A to 
- Polska właśnie" w Rabce-Zdroju. Zespół "Śląsk" zachwycił publiczność Rab
- czański Amfiteatr w niedzielne popołudnie wypełnił się publicznością\, k
- tór | Źródło: https://centrum-kultury.rabka.pl/kalendarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Sport
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-blog-2@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260803
-DTEND;VALUE=DATE:20260804
-SUMMARY:Dziś w siedzibie Centrum Kultury\, Sportu i Promocji w Rabce-Zdro
- ju odbyło się oficjalne przekazanie obowiązków dyrektora instytucji. Z d
- niem
-DESCRIPTION:Data: 2026-08-03 | roku funkcję dyrektora CKSiP objęła Iwona 
- Gal\, rozpoczynając swoją trzyletnią kadencję. Czytaj więcej 30.07.2026 
- Letnia Szkoła Artystów Ulicznych w Rabce-Zdroju. Trwają bezpłatne warszt
- aty dla dzieci i młodzieży W Rabce-Zdroju trwają wakacyjne warsztaty w r
- amach projektu „Galicyjskie Dziedzictwo w Praktyce – Akademia sztuki i o
- powieści dla dzieci i młodzieży w Rabce-Zdroju” realizowanego w program 
- | Źródło: https://centrum-kultury.rabka.pl/kalendarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Sport
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-blog-3@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-SUMMARY:Nie był to zwykły jubileusz zespołu. Było to święto ludzi\, który
- ch przez dziesięć lat połączyła miłość do góralskiej tradycji\, muzyki i
-  swojej małej ojczyzny. W sobotę\,
-DESCRIPTION:Data: 2026-07-25 | \, rabczański amfiteatr wypełnił się miesz
- kańcami\, muzyką i wzruszeniami podczas jubileuszu 10-lecia działalności
-  Szafranów ze Słonego. Był śpiew\, wspomnienia\, podziękowania\, gratula
- cje oraz wspólne świętowanie dekady niezwykłej działalności\, która wykr
- acza daleko poza samą muzykę. Czytaj więcej 23.07.2026 Iwona Gal pokieru
- je Centrum Kultury\, Sportu i Promocji w Rabce-Zdroju. Doświadczona mene
- dżer  | Źródło: https://centrum-kultury.rabka.pl/kalendarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Sport
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-blog-4@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260802
-DTEND;VALUE=DATE:20260803
-SUMMARY:Iwona Gal pokieruje Centrum Kultury\, Sportu i Promocji w Rabce-Z
- droju. Doświadczona menedżer kultury obejmie stanowisko od
-DESCRIPTION:Data: 2026-08-02 | Burmistrz Rabki-Zdroju zakończył procedurę
-  konkursową na stanowisko dyrektora Centrum Kultury\, Sportu i Promocji 
- w Rabce-Zdroju. Komisja Konkursowa zarekomendowała na to stanowisko Iwon
- ę Gal\, która od | Źródło: https://centrum-kultury.rabka.pl/kalendarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Sport
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-blog-5@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260802
-DTEND;VALUE=DATE:20260803
-SUMMARY:urmistrz Rabki-Zdroju zakończył procedurę konkursową na stanowisk
- o dyrektora Centrum Kultury\, Sportu i Promocji w Rabce-Zdroju. Komisja 
- Konkursowa zarekomendowała na to stanowisko Iwonę Gal\, która od
-DESCRIPTION:Data: 2026-08-02 | roku obejmie kierownictwo miejskiej instyt
- ucji kultury. Czytaj więcej 20.07.2026 Święto Rabczańskiej Solanki 2026.
-  Zdrowie\, tradycja i muzyka połączyły mieszkańców oraz kuracjuszy Rabka
- -Zdrój po raz kolejny udowodniła\, że jej największym bogactwem jest nie
-  tylko wyjątkowa solanka jodowo-bromowa\, ale także ludzie\, którzy od p
- okoleń tworzą uzdrowiskową tradycję miasta. W niedzielę\, | Źródło: http
- s://centrum-kultury.rabka.pl/kalendarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Sport
-END:VEVENT
-BEGIN:VEVENT
-UID:cksip-blog-6@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
-DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
-SUMMARY:ka-Zdrój po raz kolejny udowodniła\, że jej największym bogactwem
-  jest nie tylko wyjątkowa solanka jodowo-bromowa\, ale także ludzie\, kt
- órzy od pokoleń tworzą uzdrowiskową tradycję miasta. W niedzielę\,
-DESCRIPTION:Data: 2026-07-19 | \, rabczański amfiteatr wypełnił się miesz
- kańcami\, kuracjuszami i turystami uczestniczącymi w Święcie Rabczańskie
- j Solanki – wydarzeniu\, które od lat łączy promocję zdrowia z rodzinną 
- rozrywką\, edukacją i muzyką. Czytaj więcej 10.07.2026 Roztańczone lato 
- 2026 - taneczne wakacje zakończone z energią i pasją Dobiegła końca kole
- jna\, pełna energii\, radości i tanecznych emocji edycja wakacyjnych war
- szta | Źródło: https://centrum-kultury.rabka.pl/kalendarz
-URL:https://centrum-kultury.rabka.pl/kalendarz
-CATEGORIES:Sport
-END:VEVENT
-BEGIN:VEVENT
 UID:rabcio-944113@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
+DTSTAMP:20260818T111123Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:Luna
@@ -548,7 +218,7 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-944114@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
+DTSTAMP:20260818T111123Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
 SUMMARY:Emocje - co to takiego?
@@ -562,7 +232,7 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-944116@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
+DTSTAMP:20260818T111123Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
 SUMMARY:Pchła Szachrajka
@@ -575,14 +245,14 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:manual-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T103333Z
+DTSTAMP:20260818T111123Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Przykładowe wydarzenie Fundacji (usuń lub edytuj)
 LOCATION:Siedziba Fundacji Rozwoju Regionu Rabka
 DESCRIPTION:Data: 2026-09-01 | Godzina: 17:00 | To jest przykładowy wpis 
- pokazujący strukturę danych. Kategorie do wyboru: kultura\, sport\, dzie
- ci\, historia\, samorzad.
+ pokazujący strukturę danych. Kategorie do wyboru: kultura\, rozrywka\, s
+ port\, dzieci\, historia\, samorzad.
 CATEGORIES:Kultura
 END:VEVENT
 END:VCALENDAR

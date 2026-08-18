@@ -28,6 +28,7 @@ OUTPUT_PATH = ROOT / "events.ics"
 
 CATEGORY_LABELS = {
     "kultura": "Kultura",
+    "rozrywka": "Rozrywka",
     "sport": "Sport",
     "dzieci": "Dzieci i rodzina",
     "historia": "Historia i tradycja",

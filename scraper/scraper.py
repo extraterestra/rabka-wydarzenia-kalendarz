@@ -30,28 +30,13 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
+from categories import guess_category
+from event_quality import is_plausible_event
+
 CALENDAR_URL = "https://rabka.pl/kalendarz-wydarzen/"
 OUTPUT_PATH = Path(__file__).resolve().parent.parent / "data" / "events-auto.json"
 
 DATE_RE = re.compile(r"(\d{1,2})\s*-\s*(\d{1,2})\s*-\s*(\d{4})")
-
-CATEGORY_KEYWORDS = {
-    "sport":    ["bike", "rowe", "bieg", "puchar", "zawody", "turniej", "calisthenics",
-                 "lifting", "sport", "mecz", "wyścig", "tour", "grand prix"],
-    "dzieci":   ["dzieck", "dziecię", "rodzin", "przedszkol", "malucha"],
-    "historia": ["pamięc", "pamięt", "muze", "histor", "tradycj", "redyk", "holocaust",
-                 "architektury drewnian"],
-    "samorzad": ["sesja rady", "rada miejska", "urząd", "uchwał", "konsultacj"],
-    # everything else defaults to "kultura"
-}
-
-
-def guess_category(title: str, desc: str) -> str:
-    text = f"{title} {desc}".lower()
-    for cat, keywords in CATEGORY_KEYWORDS.items():
-        if any(kw in text for kw in keywords):
-            return cat
-    return "kultura"
 
 
 def parse_date_range(raw_dates: list[str]) -> tuple[str, str]:
@@ -118,6 +103,8 @@ def extract_events(html: str) -> list[dict]:
         raw_dates = [m.group(0)]
         start, end = parse_date_range(raw_dates)
         if not start:
+            continue
+        if not is_plausible_event(title, desc):
             continue
 
         events.append({

@@ -28,6 +28,9 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
+from categories import guess_category
+from event_quality import is_plausible_event
+
 CALENDAR_URL = "https://centrum-kultury.rabka.pl/kalendarz"
 BLOG_URL = "https://centrum-kultury.rabka.pl/blog"
 OUTPUT_PATH = Path(__file__).resolve().parent.parent / "data" / "events-cksip.json"
@@ -45,25 +48,7 @@ DATE_RE = re.compile(
     re.IGNORECASE,
 )
 
-CATEGORY_KEYWORDS = {
-    "sport":    ["bike", "rowe", "bieg", "puchar", "zawody", "turniej", "mtb", "kolarsk",
-                 "mistrzostw", "szach", "mma", "sport"],
-    "dzieci":   ["dzieck", "dziecię", "rodzin", "przedszkol", "malucha", "festiwal literatury"],
-    "historia": ["pamięc", "pamięt", "muze", "histor", "tradycj", "retro piknik",
-                 "dawnej rabki", "rocznic", "rekonstrukc"],
-    "samorzad": ["sesja rady", "rada miejska", "urząd", "uchwał", "konkurs na stanowisko",
-                 "burmistrz"],
-}
-
 DEFAULT_YEAR = datetime.now(timezone.utc).year
-
-
-def guess_category(title: str, desc: str) -> str:
-    text = f"{title} {desc}".lower()
-    for cat, keywords in CATEGORY_KEYWORDS.items():
-        if any(kw in text for kw in keywords):
-            return cat
-    return "kultura"
 
 
 def to_iso(day: str, month_name: str, year: str | None) -> str:
@@ -107,6 +92,9 @@ def extract_events(html: str, page_label: str, page_url: str) -> list[dict]:
         day1, day2, month_name, year = m.groups()
         start = to_iso(day1, month_name, year)
         end = to_iso(day2, month_name, year) if day2 else start
+
+        if not is_plausible_event(title, desc):
+            continue
 
         events.append({
             "id": f"cksip-{page_label}-{len(events) + 1}",
