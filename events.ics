@@ -6,24 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kalendarz Wydarzeń — Rabka-Zdrój
 X-WR-TIMEZONE:Europe/Warsaw
 BEGIN:VEVENT
-UID:auto-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T111123Z
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-SUMMARY:Tydzień Bardzo Małego Dziecka
-DESCRIPTION:Data: 2026-08-17 | Dzień Dziecka to za mało\, bardzo małe dzi
- eci potrzebują tygodnia - Tygodnia Bardzo Małego Dziecka! Tydzień Bardzo
-  Małego Dziecka jest to III edycja festiwalu sztuki dla najmłodszych dzi
- eci w Rabce-Zdroju\, miejscowości noszącej tytuł Miasta Dzieci Świata. O
- dbędzie się w dniach 17-23 sierpnia 2026 r. Dzieci w wieku 0-5 lat będą 
- mogły uczestniczyć w przygotowanych specjalnie dla nich spektaklach najn
-  | Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Sport
-END:VEVENT
-BEGIN:VEVENT
 UID:auto-2@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T111123Z
+DTSTAMP:20260818T112522Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
 SUMMARY:Tydzień Bardzo Małego Dziecka po raz trzeci w Rabce-Zdroju
@@ -39,7 +23,7 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-3@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T111123Z
+DTSTAMP:20260818T112522Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:XXXIII Sesja Rady Miejskiej w Rabce-Zdroju
@@ -51,11 +35,11 @@ DESCRIPTION:Data: 2026-08-19 | Wiceprzewodniczący Rady Miejskiej w Rabce
  iejskiej w Rabce-Zdroju. 2. Sprawozdanie Burmistrza Rabki – Zdroju z dz 
  | Źródło: https://rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Sport
+CATEGORIES:Samorząd
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-4@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T111123Z
+DTSTAMP:20260818T112522Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
 SUMMARY:Premiera spektaklu plenerowego „Podróże Gulliwera” – Spišské diva
@@ -68,11 +52,11 @@ DESCRIPTION:Data: 2026-08-20 | 20 sierpnia 2026 r. (czwartek) zapraszamy
  ivadla ze Słowacji. Spektakl inspirowany ponadczasowym dziełem Jonathan 
  | Źródło: https://rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Sport
+CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-5@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T111123Z
+DTSTAMP:20260818T112522Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 SUMMARY:Wielki finał lata ze sztuką uliczną w Rabce-Zdroju
@@ -88,7 +72,7 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-6@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T111123Z
+DTSTAMP:20260818T112522Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:Kabaret Skeczów Męczących rozbawi Rabkę-Zdrój! Jubileuszowy progr
@@ -101,11 +85,11 @@ DESCRIPTION:Data: 2026-08-23 | To będzie jeden z najbardziej wyczekiwanyc
  widowisko z okazji 20-lecia działalności kabaretu. Będzie to niepowtar |
   Źródło: https://rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Sport
+CATEGORIES:Rozrywka
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-7@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T111123Z
+DTSTAMP:20260818T112522Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Spacer Pamięci w Rabce-Zdroju. Dwa dni refleksji nad historią i p
@@ -118,11 +102,11 @@ DESCRIPTION:Data: 2026-08-29 | Rabka-Zdrój po raz kolejny stanie się miej
  nteresowanych historią do wspólnego oddania hołdu pomordowanym oraz udz 
  | Źródło: https://rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Sport
+CATEGORIES:Historia i tradycja
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-8@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T111123Z
+DTSTAMP:20260818T112522Z
 DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Highlander Double Impact. Dwa dni sportowych emocji w Rabce-Zdroj
@@ -138,25 +122,8 @@ URL:https://rabka.pl/kalendarz-wydarzen/
 CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
-UID:auto-9@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T111123Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-SUMMARY:Highlander Double Impact 2026. Dwa dni sportowych emocji w Rabce-
- Zdroju
-DESCRIPTION:Data: 2026-08-29 | Po sześciu udanych edycjach zawodów Street
-  Workout w Rabce-Zdroju nadchodzi nowy rozdział jednego z najbardziej ro
- zpoznawalnych wydarzeń sportów siłowych i kalistenicznych w regionie. Te
- goroczna odsłona odbędzie się w nowej formule\, pod nazwą Highlander Dou
- ble Impact\, i po raz pierwszy potrwa dwa dni – 29 i 30 sierpnia 2026 ro
- ku. Organizację wydarzenia przejmuje nowe pokolenie pasjonatów tej dyscy
-  | Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Sport
-END:VEVENT
-BEGIN:VEVENT
 UID:auto-10@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T111123Z
+DTSTAMP:20260818T112522Z
 DTSTART;VALUE=DATE:20260830
 DTEND;VALUE=DATE:20260831
 SUMMARY:Dni Architektury Drewnianej 2026 w Rabce-Zdroju już 30 sierpnia. 
@@ -169,11 +136,11 @@ DESCRIPTION:Data: 2026-08-30 | Miłośnicy zabytkowej architektury drewnian
  um im. Władysława Orkana. Celem Dni Architektury Drewnianej jest promocj
   | Źródło: https://rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Sport
+CATEGORIES:Historia i tradycja
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-11@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T111123Z
+DTSTAMP:20260818T112522Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Mini Podhale Tour 2026. Rusza kolejny sezon kolarskich emocji!
@@ -189,7 +156,7 @@ CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-12@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T111123Z
+DTSTAMP:20260818T112522Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Owce przejdą ulicami Rabki-Zdroju! Jesienny Redyk Rodzinny już 3 
@@ -202,11 +169,11 @@ DESCRIPTION:Data: 2026-10-03 | To będzie jedno z najbardziej barwnych i w
  gości do udziału w wydarzeniu\, które połączy tradycję\, k | Źródło: htt
  ps://rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Dzieci i rodzina
+CATEGORIES:Historia i tradycja
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-944113@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T111123Z
+DTSTAMP:20260818T112522Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:Luna
@@ -218,7 +185,7 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-944114@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T111123Z
+DTSTAMP:20260818T112522Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
 SUMMARY:Emocje - co to takiego?
@@ -232,7 +199,7 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-944116@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T111123Z
+DTSTAMP:20260818T112522Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
 SUMMARY:Pchła Szachrajka
@@ -245,7 +212,7 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:manual-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T111123Z
+DTSTAMP:20260818T112522Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Przykładowe wydarzenie Fundacji (usuń lub edytuj)

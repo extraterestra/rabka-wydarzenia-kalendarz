@@ -4,6 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Kalendarz Wydarzeń — Rabka-Zdrój</title>
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
@@ -78,6 +81,7 @@
   </div>
 
   <div class="footnote">
+    <span id="loadedCount"></span>
     Dane: <code>data/events-auto.json</code> (Urząd, cotygodniowo) +
     <code>data/events-cksip.json</code> (CKSiP, cotygodniowo) +
     <code>data/events-rabcio.json</code> (Teatr Lalek Rabcio, cotygodniowo) +
@@ -145,6 +149,6 @@
   </div>
 </div>
 
-<script src="app.js"></script>
+<script src="app.v3.js"></script>
 </body>
 </html>
