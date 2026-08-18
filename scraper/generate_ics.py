@@ -124,16 +124,10 @@ def build_vevent(e: dict) -> list[str]:
 
 
 def main():
+    from dedupe import dedupe_events
+
     events = load_events()
-    # de-dupe identical (title, start) pairs across the three source files
-    seen = set()
-    unique = []
-    for e in events:
-        key = (e.get("title", "").strip().lower(), e.get("start"))
-        if key in seen:
-            continue
-        seen.add(key)
-        unique.append(e)
+    unique = dedupe_events(events)
 
     lines = [
         "BEGIN:VCALENDAR",

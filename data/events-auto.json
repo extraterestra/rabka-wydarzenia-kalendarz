@@ -3,17 +3,6 @@
   "last_updated": "2026-08-17",
   "events": [
     {
-      "id": "auto-1",
-      "title": "Tydzień Bardzo Małego Dziecka",
-      "category": "sport",
-      "start": "2026-08-17",
-      "end": "2026-08-17",
-      "time": "",
-      "location": "",
-      "desc": "Dzień Dziecka to za mało, bardzo małe dzieci potrzebują tygodnia - Tygodnia Bardzo Małego Dziecka! Tydzień Bardzo Małego Dziecka jest to III edycja festiwalu sztuki dla najmłodszych dzieci w Rabce-Zdroju, miejscowości noszącej tytuł Miasta Dzieci Świata. Odbędzie się w dniach 17-23 sierpnia 2026 r. Dzieci w wieku 0-5 lat będą mogły uczestniczyć w przygotowanych specjalnie dla nich spektaklach najn",
-      "url": "https://rabka.pl/kalendarz-wydarzen/"
-    },
-    {
       "id": "auto-2",
       "title": "Tydzień Bardzo Małego Dziecka po raz trzeci w Rabce-Zdroju",
       "category": "dzieci",
@@ -27,7 +16,7 @@
     {
       "id": "auto-3",
       "title": "XXXIII Sesja Rady Miejskiej w Rabce-Zdroju",
-      "category": "sport",
+      "category": "samorzad",
       "start": "2026-08-19",
       "end": "2026-08-19",
       "time": "",
@@ -38,7 +27,7 @@
     {
       "id": "auto-4",
       "title": "Premiera spektaklu plenerowego „Podróże Gulliwera” – Spišské divadlo (Słowacja)",
-      "category": "sport",
+      "category": "dzieci",
       "start": "2026-08-20",
       "end": "2026-08-20",
       "time": "",
@@ -60,7 +49,7 @@
     {
       "id": "auto-6",
       "title": "Kabaret Skeczów Męczących rozbawi Rabkę-Zdrój! Jubileuszowy program 23 sierpnia w Amfiteatrze",
-      "category": "sport",
+      "category": "rozrywka",
       "start": "2026-08-23",
       "end": "2026-08-23",
       "time": "",
@@ -71,7 +60,7 @@
     {
       "id": "auto-7",
       "title": "Spacer Pamięci w Rabce-Zdroju. Dwa dni refleksji nad historią i pamięcią o ofiarach Holokaustu",
-      "category": "sport",
+      "category": "historia",
       "start": "2026-08-29",
       "end": "2026-08-29",
       "time": "",
@@ -91,20 +80,9 @@
       "url": "https://rabka.pl/kalendarz-wydarzen/"
     },
     {
-      "id": "auto-9",
-      "title": "Highlander Double Impact 2026. Dwa dni sportowych emocji w Rabce-Zdroju",
-      "category": "sport",
-      "start": "2026-08-29",
-      "end": "2026-08-29",
-      "time": "",
-      "location": "",
-      "desc": "Po sześciu udanych edycjach zawodów Street Workout w Rabce-Zdroju nadchodzi nowy rozdział jednego z najbardziej rozpoznawalnych wydarzeń sportów siłowych i kalistenicznych w regionie. Tegoroczna odsłona odbędzie się w nowej formule, pod nazwą Highlander Double Impact, i po raz pierwszy potrwa dwa dni – 29 i 30 sierpnia 2026 roku. Organizację wydarzenia przejmuje nowe pokolenie pasjonatów tej dyscy",
-      "url": "https://rabka.pl/kalendarz-wydarzen/"
-    },
-    {
       "id": "auto-10",
       "title": "Dni Architektury Drewnianej 2026 w Rabce-Zdroju już 30 sierpnia. Bezpłatne zwiedzanie, spacer i warsztaty w Muzeum Orkana",
-      "category": "sport",
+      "category": "historia",
       "start": "2026-08-30",
       "end": "2026-08-30",
       "time": "",
@@ -126,7 +104,7 @@
     {
       "id": "auto-12",
       "title": "Owce przejdą ulicami Rabki-Zdroju! Jesienny Redyk Rodzinny już 3 października",
-      "category": "dzieci",
+      "category": "historia",
       "start": "2026-10-03",
       "end": "2026-10-03",
       "time": "",

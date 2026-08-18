@@ -104,11 +104,17 @@ function guessCategory(title, desc, fallback){
 }
 
 async function loadEvents(){
+  const bust = `v=${Date.now()}`;
+  const fetchJson = (path) =>
+    fetch(`${path}?${bust}`, { cache: 'no-store' })
+      .then(r => r.ok ? r.json() : { events: [] })
+      .catch(() => ({ events: [] }));
+
   const [autoRes, cksipRes, rabcioRes, manualRes] = await Promise.all([
-    fetch('data/events-auto.json').then(r=>r.ok?r.json():{events:[]}).catch(()=>({events:[]})),
-    fetch('data/events-cksip.json').then(r=>r.ok?r.json():{events:[]}).catch(()=>({events:[]})),
-    fetch('data/events-rabcio.json').then(r=>r.ok?r.json():{events:[]}).catch(()=>({events:[]})),
-    fetch('data/events-manual.json').then(r=>r.ok?r.json():{events:[]}).catch(()=>({events:[]}))
+    fetchJson('data/events-auto.json'),
+    fetchJson('data/events-cksip.json'),
+    fetchJson('data/events-rabcio.json'),
+    fetchJson('data/events-manual.json')
   ]);
   const auto = (autoRes.events||[]).map(e => enrichEvent(e, 'Urząd Miejski', autoRes)).filter(e => isPlausibleEvent(e.title, e.desc));
   const cksip = (cksipRes.events||[]).map(e => enrichEvent(e, 'CKSiP', cksipRes)).filter(e => isPlausibleEvent(e.title, e.desc));
@@ -118,21 +124,78 @@ async function loadEvents(){
     .map(e => enrichEvent(e, 'Fundacja', manualRes))
     .filter(e => isPlausibleEvent(e.title, e.desc));
 
-  // Keep all sources; de-dupe only among currently visible sources.
-  allEvents = [...auto, ...cksip, ...rabcio, ...manual];
+  // Keep all sources; de-dupe near-identical titles on overlapping dates below.
+  allEvents = dedupeEvents([...auto, ...cksip, ...rabcio, ...manual]);
+  const loaded = document.getElementById('loadedCount');
+  if(loaded) loaded.textContent = `Załadowano ${allEvents.length} wydarzeń (bez duplikatów).`;
+}
+
+const DEDUPE_STOP = new Set(['w','we','na','do','od','z','za','po','dla','i','oraz','the','a','an','już','juz','się','sie','to','jak','czy','że','ze','raz','trzeci','drugi','pierwszy','rabce','rabka','zdroju','zdroj','dni','dnia','dwa']);
+
+function normalizeTitle(title){
+  return String(title||'')
+    .toLowerCase()
+    .replace(/\u00a0/g,' ')
+    .replace(/\b20\d{2}\b/g,' ')
+    .replace(/[^a-ząćęłńóśźż0-9\s]/g,' ')
+    .replace(/\s+/g,' ')
+    .trim();
+}
+function titleTokens(title){
+  return new Set(
+    normalizeTitle(title).split(' ').filter(w => w.length > 2 && !DEDUPE_STOP.has(w))
+  );
+}
+function datesOverlap(a, b){
+  const a0 = a.start || '', a1 = a.end || a.start || '';
+  const b0 = b.start || '', b1 = b.end || b.start || '';
+  if(!a0 || !b0) return false;
+  return a0 <= b1 && b0 <= a1;
+}
+function isNearDuplicate(a, b){
+  if(!datesOverlap(a, b)) return false;
+  const ta = titleTokens(a.title), tb = titleTokens(b.title);
+  const na = normalizeTitle(a.title), nb = normalizeTitle(b.title);
+  if(na && nb && (na.includes(nb) || nb.includes(na))) return true;
+  // Shared distinctive lead, e.g. both "highlander double impact ..."
+  const lead = (title) => normalizeTitle(title).split(' ').filter(w => w.length > 2 && !DEDUPE_STOP.has(w)).slice(0, 3).join(' ');
+  const la = lead(a.title), lb = lead(b.title);
+  if(la && lb && la === lb) return true;
+  if(!ta.size || !tb.size) return na === nb;
+  let inter = 0;
+  for(const w of ta){ if(tb.has(w)) inter++; }
+  return inter / Math.min(ta.size, tb.size) >= 0.5;
+}
+function preferEvent(a, b){
+  const sourceRank = {'Fundacja':0,'Rabcio':1,'Urząd Miejski':2,'CKSiP':3};
+  const score = e => [
+    titleTokens(e.title).size,
+    (e.title||'').length,
+    -(sourceRank[e.source] ?? 9),
+    (e.desc||'').length,
+    e.time ? 1 : 0,
+    e.url ? 1 : 0
+  ];
+  const sa = score(a), sb = score(b);
+  for(let i=0;i<sa.length;i++){
+    if(sa[i] !== sb[i]) return sa[i] >= sb[i] ? a : b;
+  }
+  return a;
+}
+function dedupeEvents(events){
+  const unique = [];
+  for(const e of events){
+    const idx = unique.findIndex(kept => isNearDuplicate(e, kept));
+    if(idx < 0) unique.push(e);
+    else unique[idx] = preferEvent(unique[idx], e);
+  }
+  return unique;
 }
 
 function visibleEvents(){
-  const filtered = allEvents.filter(e =>
+  return allEvents.filter(e =>
     activeSources.has(e.source) && activeCats.has(e.category)
   );
-  const seen = new Set();
-  return filtered.filter(e => {
-    const key = (e.title||'').trim().toLowerCase() + '|' + e.start;
-    if(seen.has(key)) return false;
-    seen.add(key);
-    return true;
-  });
 }
 
 function eventsOnDay(dateStr){

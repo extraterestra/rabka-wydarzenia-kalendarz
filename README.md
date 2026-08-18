@@ -61,9 +61,9 @@ Plik jest regenerowany automatycznie przy każdym uruchomieniu workflow — nie 
 ## Uruchomienie lokalne
 
 ```bash
-# podgląd strony lokalnie
-python3 -m http.server 8000
-# otwórz http://localhost:8000
+# podgląd strony lokalnie (bez cache przeglądarki)
+python3 serve.py
+# otwórz http://127.0.0.1:8000
 
 # ręczne uruchomienie scrapera
 pip install requests beautifulsoup4
