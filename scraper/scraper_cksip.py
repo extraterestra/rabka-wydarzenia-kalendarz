@@ -78,7 +78,7 @@ def fetch_page(url: str) -> str:
     return resp.text
 
 
-def extract_events(html: str, page_label: str) -> list[dict]:
+def extract_events(html: str, page_label: str, page_url: str) -> list[dict]:
     """
     Same block-around-a-date-match heuristic as scraper.py, adapted to
     the Polish-prose date format used on this site. See scraper.py's
@@ -116,6 +116,7 @@ def extract_events(html: str, page_label: str) -> list[dict]:
             "end": end,
             "time": "",
             "location": "",
+            "url": page_url,
             "desc": desc[:400],
         })
 
@@ -143,7 +144,7 @@ def main():
         except requests.RequestException as e:
             print(f"Failed to fetch {url}: {e}", file=sys.stderr)
             continue
-        all_events.extend(extract_events(html, label))
+        all_events.extend(extract_events(html, label, url))
 
     all_events = dedupe(all_events)
 

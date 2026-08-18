@@ -128,6 +128,7 @@ def extract_events(html: str) -> list[dict]:
             "end": end,
             "time": "",
             "location": "",
+            "url": CALENDAR_URL,
             "desc": desc[:400],
         })
 

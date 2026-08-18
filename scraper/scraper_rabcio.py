@@ -101,6 +101,7 @@ def extract_events(html: str) -> list[dict]:
         event_id = re.search(r"id=(\d+)", href)
         uid = event_id.group(1) if event_id else str(len(events) + 1)
 
+        ticket_url = urljoin(BILETY24_URL, href)
         events.append({
             "id": f"rabcio-{uid}",
             "title": title[:200],
@@ -109,7 +110,8 @@ def extract_events(html: str) -> list[dict]:
             "end": start,
             "time": time or "",
             "location": LOCATION,
-            "desc": f"Spektakl Teatru Lalek Rabcio. Bilety: {urljoin(BILETY24_URL, href)}",
+            "url": ticket_url,
+            "desc": "Spektakl Teatru Lalek Rabcio.",
         })
 
     events.sort(key=lambda e: (e["start"], e["time"] or ""))

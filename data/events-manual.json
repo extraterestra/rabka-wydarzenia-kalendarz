@@ -1,5 +1,5 @@
 {
-  "_instructions": "Dodawaj tu wydarzenia ręcznie (te, których nie ma na rabka.pl). Skopiuj obiekt przykładowy poniżej, zmień id na unikalne (np. manual-2), uzupełnij pola i zapisz zmiany bezpośrednio w GitHub (Edit this file -> Commit changes). Strona przeładuje dane automatycznie.",
+  "_instructions": "Dodawaj tu wydarzenia ręcznie (te, których nie ma na rabka.pl). Skopiuj obiekt przykładowy poniżej, zmień id na unikalne (np. manual-2), uzupełnij pola i zapisz zmiany bezpośrednio w GitHub (Edit this file -> Commit changes). Strona przeładuje dane automatycznie. Pola: id, title, category, start, end, time, location, url, desc.",
   "events": [
     {
       "id": "manual-1",

@@ -2,18 +2,8 @@
   "source": "https://teatr.rabcio.pl/repertuar-2025/",
   "ticket_source": "https://www.bilety24.pl/organizator/teatr-lalek-rabcio-1568.html",
   "theatre": "https://teatr.rabcio.pl/",
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-18",
   "events": [
-    {
-      "id": "rabcio-944100",
-      "title": "Trzy świnki",
-      "category": "dzieci",
-      "start": "2026-08-18",
-      "end": "2026-08-18",
-      "time": "11:00",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "desc": "Spektakl Teatru Lalek Rabcio. Bilety: https://www.bilety24.pl/teatr/1568-trzy-swinki-128466?id=944100"
-    },
     {
       "id": "rabcio-944113",
       "title": "Luna",
@@ -22,7 +12,8 @@
       "end": "2026-08-19",
       "time": "11:00",
       "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "desc": "Spektakl Teatru Lalek Rabcio. Bilety: https://www.bilety24.pl/teatr/1568-luna-120392?id=944113"
+      "url": "https://www.bilety24.pl/teatr/1568-luna-120392?id=944113",
+      "desc": "Spektakl Teatru Lalek Rabcio."
     },
     {
       "id": "rabcio-944114",
@@ -32,7 +23,8 @@
       "end": "2026-08-20",
       "time": "11:00",
       "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "desc": "Spektakl Teatru Lalek Rabcio. Bilety: https://www.bilety24.pl/teatr/1568-emocje-co-to-takiego-136327?id=944114"
+      "url": "https://www.bilety24.pl/teatr/1568-emocje-co-to-takiego-136327?id=944114",
+      "desc": "Spektakl Teatru Lalek Rabcio."
     },
     {
       "id": "rabcio-944116",
@@ -42,7 +34,8 @@
       "end": "2026-08-21",
       "time": "11:00",
       "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "desc": "Spektakl Teatru Lalek Rabcio. Bilety: https://www.bilety24.pl/teatr/1568-pchla-szachrajka-128440?id=944116"
+      "url": "https://www.bilety24.pl/teatr/1568-pchla-szachrajka-128440?id=944116",
+      "desc": "Spektakl Teatru Lalek Rabcio."
     }
   ]
 }
