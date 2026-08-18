@@ -38,7 +38,7 @@ scraper/generate_ics.py             łączy wszystkie pliki JSON w events.ics
 5. Na dole strony kliknij **„Commit changes”**.
 6. Strona (GitHub Pages) zaktualizuje się automatycznie w ciągu ok. 1 minuty.
 
-Możesz też edytować `data/events-manual.json` bezpośrednio — to zwykły plik JSON, każdy wpis ma pola: `id`, `title`, `category` (`kultura` / `sport` / `dzieci` / `historia` / `samorzad`), `start`, `end`, `time`, `location`, `desc`.
+Możesz też edytować `data/events-manual.json` bezpośrednio — to zwykły plik JSON, każdy wpis ma pola: `id`, `title`, `category` (`kultura` / `rozrywka` / `sport` / `dzieci` / `historia` / `samorzad`), `start`, `end`, `time`, `location`, `url`, `desc`.
 
 ## Jak działa import automatyczny
 

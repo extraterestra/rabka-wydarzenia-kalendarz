@@ -28,6 +28,7 @@ OUTPUT_PATH = ROOT / "events.ics"
 
 CATEGORY_LABELS = {
     "kultura": "Kultura",
+    "rozrywka": "Rozrywka",
     "sport": "Sport",
     "dzieci": "Dzieci i rodzina",
     "historia": "Historia i tradycja",
@@ -41,7 +42,12 @@ def load_events() -> list[dict]:
         if not path.exists():
             continue
         data = json.loads(path.read_text(encoding="utf-8"))
-        events.extend(data.get("events", []))
+        file_url = data.get("ticket_source") or data.get("source") or ""
+        for e in data.get("events", []):
+            enriched = dict(e)
+            if not enriched.get("url") and file_url:
+                enriched["url"] = file_url
+            events.append(enriched)
     return events
 
 
@@ -79,11 +85,16 @@ def build_vevent(e: dict) -> list[str]:
     summary = escape_text(e.get("title", "Wydarzenie"))
     location = escape_text(e.get("location", ""))
     desc_parts = []
+    if e.get("start"):
+        date_label = e["start"] if e.get("end") in (None, e["start"]) else f"{e['start']} – {e['end']}"
+        desc_parts.append(f"Data: {date_label}")
     if e.get("time"):
         desc_parts.append(f"Godzina: {e['time']}")
     if e.get("desc"):
         desc_parts.append(e["desc"])
-    if e.get("source"):
+    if e.get("url"):
+        desc_parts.append(f"Źródło: {e['url']}")
+    elif e.get("source"):
         desc_parts.append(f"Źródło: {e['source']}")
     description = escape_text(" | ".join(desc_parts))
 
@@ -104,6 +115,8 @@ def build_vevent(e: dict) -> list[str]:
         lines.append(fold_line(f"LOCATION:{location}"))
     if description:
         lines.append(fold_line(f"DESCRIPTION:{description}"))
+    if e.get("url"):
+        lines.append(fold_line(f"URL:{e['url']}"))
     if cat_label:
         lines.append(fold_line(f"CATEGORIES:{escape_text(cat_label)}"))
     lines.append("END:VEVENT")

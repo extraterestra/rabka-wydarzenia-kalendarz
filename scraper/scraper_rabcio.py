@@ -30,6 +30,8 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 
+from categories import guess_category
+
 THEATRE_URL = "https://teatr.rabcio.pl/"
 REPERTUAR_URL = "https://teatr.rabcio.pl/repertuar-2025/"
 BILETY24_URL = "https://www.bilety24.pl/organizator/teatr-lalek-rabcio-1568.html"
@@ -42,19 +44,6 @@ TITLE_RE = re.compile(
     r"(?:Spektakl:\s*)?(.+?)\s*-\s*(\d{4}-\d{2}-\d{2})(?:\s+(\d{1,2}:\d{2}))?\s*-\s*(.+)$",
     re.IGNORECASE,
 )
-
-# Adult / "Scena Dużego Widza" cues; everything else defaults to children.
-ADULT_KEYWORDS = [
-    "makbet", "szkoła katów", "szkola katow", "ballady", "letni dzień",
-    "letni dzien", "scena dużego", "scena duzego",
-]
-
-
-def guess_category(title: str) -> str:
-    text = title.lower()
-    if any(kw in text for kw in ADULT_KEYWORDS):
-        return "kultura"
-    return "dzieci"
 
 
 def fetch_page(url: str) -> str:
@@ -101,6 +90,7 @@ def extract_events(html: str) -> list[dict]:
         event_id = re.search(r"id=(\d+)", href)
         uid = event_id.group(1) if event_id else str(len(events) + 1)
 
+        ticket_url = urljoin(BILETY24_URL, href)
         events.append({
             "id": f"rabcio-{uid}",
             "title": title[:200],
@@ -109,7 +99,8 @@ def extract_events(html: str) -> list[dict]:
             "end": start,
             "time": time or "",
             "location": LOCATION,
-            "desc": f"Spektakl Teatru Lalek Rabcio. Bilety: {urljoin(BILETY24_URL, href)}",
+            "url": ticket_url,
+            "desc": "Spektakl Teatru Lalek Rabcio.",
         })
 
     events.sort(key=lambda e: (e["start"], e["time"] or ""))
