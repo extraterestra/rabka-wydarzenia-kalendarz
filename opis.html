@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jak działa Kalendarz Wydarzeń — Rabka-Zdrój</title>
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+
+  <div class="hero">
+    <p class="eyebrow">Fundacja Rozwoju Regionu Rabka · Gmina Rabka-Zdrój</p>
+    <h1>Jak działa Kalendarz</h1>
+    <p>Krótki opis funkcji kalendarza wydarzeń w Rabce-Zdroju — dla mieszkańców, gości i opiekunów strony.</p>
+    <p class="hero-actions"><a class="hero-link" href="index.html">← Wróć do kalendarza</a></p>
+  </div>
+
+  <article class="info-page">
+
+    <section>
+      <h2>Po co jest ten kalendarz</h2>
+      <p><strong>Kalendarz Wydarzeń</strong> zbiera w jednym miejscu informacje o imprezach, uroczystościach, spektaklach i wydarzeniach gminnych w Rabce-Zdroju. Dzięki temu nie trzeba osobno sprawdzać stron Urzędu, Centrum Kultury, Teatru i innych źródeł.</p>
+      <p>Strona powstaje dla <strong>Fundacji Rozwoju Regionu Rabka</strong> we współpracy z <strong>Gminą Rabka-Zdrój</strong>. To narzędzie informacyjne dla społeczności lokalnej.</p>
+    </section>
+
+    <section>
+      <h2>Dla kogo</h2>
+      <ul>
+        <li><strong>Mieszkańcy i turyści</strong> — szybki przegląd tego, co dzieje się w mieście</li>
+        <li><strong>Fundacja i opiekunowie kalendarza</strong> — możliwość uzupełnienia brakujących wydarzeń</li>
+        <li><strong>Instytucje lokalne</strong> (Urząd, CKSiP, Teatr Rabcio) — szerszy zasięg ich komunikatów</li>
+        <li><strong>Osoby korzystające z Google / Apple / Outlook</strong> — subskrypcja kalendarza na telefonie lub komputerze</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Co można zrobić na stronie</h2>
+
+      <h3>Przeglądanie kalendarza</h3>
+      <p>Przechodzisz między miesiącami, widzisz dni z wydarzeniami i po kliknięciu dnia otwierasz listę wydarzeń (agenda).</p>
+
+      <h3>Najbliższe wydarzenia</h3>
+      <p>Obok kalendarza jest skrócona lista nadchodzących terminów — bez klikania w poszczególne dni.</p>
+
+      <h3>Filtrowanie według źródła</h3>
+      <p>Możesz zaznaczać i odznaczać źródła danych:</p>
+      <ul>
+        <li><strong>Urząd Miejski</strong> (rabka.pl) — aktualizacja cotygodniowa</li>
+        <li><strong>CKSiP</strong> (centrum-kultury.rabka.pl) — aktualizacja cotygodniowa</li>
+        <li><strong>Teatr Lalek Rabcio</strong> (teatr.rabcio.pl) — aktualizacja cotygodniowa</li>
+        <li><strong>Wpisy ręczne</strong> — na bieżąco, gdy opiekunowie dodają wydarzenia</li>
+      </ul>
+
+      <h3>Filtrowanie według kategorii</h3>
+      <p>Kultura, Rozrywka, Sport, Dzieci i rodzina, Historia i tradycja, Samorząd.</p>
+
+      <h3>Szczegóły wydarzenia</h3>
+      <p>Przy wydarzeniu (gdy dane są dostępne) widać: nazwę, kategorię, datę, godzinę, miejsce, opis, link do strony źródłowej oraz oznaczenie źródła.</p>
+
+      <h3>Subskrypcja kalendarza</h3>
+      <p>Przycisk <strong>„Subskrybuj kalendarz”</strong> otwiera plik <code>.ics</code>, który można dodać w Google Calendar, Apple Calendar lub Outlooku. Po podpięciu kalendarz może odświeżać się wraz z aktualizacjami na stronie.</p>
+
+      <h3>Dodawanie wydarzenia ręcznie</h3>
+      <p>Opiekunowie mogą dodać wydarzenie, którego nie ma w źródłach automatycznych: formularz generuje wpis, a publikacja odbywa się przez zapis w repozytorium na GitHubie (wymagane uprawnienia opiekuna).</p>
+    </section>
+
+    <section>
+      <h2>Skąd pochodzą dane</h2>
+      <div class="info-table">
+        <div class="info-row"><span>Urząd Miejski</span><span>Wydarzenia gminne z rabka.pl</span><span>co poniedziałek</span></div>
+        <div class="info-row"><span>CKSiP</span><span>Wydarzenia Centrum Kultury</span><span>co poniedziałek</span></div>
+        <div class="info-row"><span>Teatr Lalek Rabcio</span><span>Spektakle w Rabce-Zdroju</span><span>co poniedziałek</span></div>
+        <div class="info-row"><span>Wpisy ręczne</span><span>Uzupełnienia opiekunów kalendarza</span><span>na bieżąco</span></div>
+      </div>
+      <p>Wydarzenia z wielu źródeł są łączone. Podobne wpisy o tym samym terminie są scalane, żeby to samo wydarzenie nie pojawiało się dwa razy. Odrzucane są też błędne lub niepełne fragmenty tekstu z importu automatycznego.</p>
+    </section>
+
+    <section>
+      <h2>Jak odświeżają się dane</h2>
+      <ol>
+        <li>Raz w tygodniu system automatycznie pobiera dane ze stron źródeł.</li>
+        <li>Aktualizowany jest też plik subskrypcji kalendarza (<code>.ics</code>).</li>
+        <li>Opiekunowie mogą w każdej chwili dodać lub poprawić wydarzenie ręcznie.</li>
+        <li>Publiczna strona pokazuje połączony, odfiltrowany widok.</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>Co daje mieszkańcom i partnerom</h2>
+      <ul>
+        <li>Jedno miejsce z informacją o życiu kulturalnym i społecznym Rabki-Zdroju</li>
+        <li>Mniej rozproszonych komunikatów na różnych stronach</li>
+        <li>Lepsza widoczność wydarzeń instytucji lokalnych</li>
+        <li>Proste uzupełnianie braków bez osobnej bazy danych</li>
+        <li>Możliwość trzymania wydarzeń w prywatnym kalendarzu (subskrypcja)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Na co warto uważać</h2>
+      <ul>
+        <li>Import automatyczny zależy od układu stron źródeł — duża zmiana na stronie instytucji może wymagać korekty skryptu.</li>
+        <li>Nie każde źródło podaje godzinę lub dokładny adres; wtedy te pola są puste.</li>
+        <li>Trwałe opublikowanie wpisu ręcznego wymaga uprawnień opiekuna (nie każdy odwiedzający może zapisać wydarzenie na stałe).</li>
+        <li>Subskrypcja to podpięcie pliku kalendarza — nie ma tu kont użytkowników ani logowania do „konta kalendarza”.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>W skrócie</h2>
+      <p><strong>Kalendarz Wydarzeń Rabka-Zdrój</strong> to publiczna, filtrowalna tablica wydarzeń miejskich. Jest zasilana automatycznie z Urzędu, CKSiP i Teatru Rabcio, uzupełniana ręcznie przez opiekunów Fundacji i może być subskrybowana w prywatnym kalendarzu.</p>
+    </section>
+
+    <p class="info-back"><a class="btn-primary" href="index.html">← Wróć do kalendarza</a></p>
+  </article>
+
+</div>
+</body>
+</html>
