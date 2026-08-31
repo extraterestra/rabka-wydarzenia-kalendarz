@@ -6,141 +6,25 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kalendarz Wydarzeń — Rabka-Zdrój
 X-WR-TIMEZONE:Europe/Warsaw
 BEGIN:VEVENT
+UID:auto-1@rabka-wydarzenia-kalendarz
+DTSTAMP:20260831T120434Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:87. rocznica wybuchu II wojny światowej. Rabczanie oddadzą hołd p
+ oległym
+DESCRIPTION:Data: 2026-09-01 | 1 września 2026 roku w Rabce-Zdroju odbędą
+  się uroczystości upamiętniające 87. rocznicę wybuchu II wojny światowej
+ . Będzie to dzień pamięci o milionach ofiar największego konfliktu zbroj
+ nego w dziejach\, ale także o Polakach\, którzy walczyli i ginęli w obro
+ nie Ojczyzny. Do wspólnego udziału w uroczystościach zapraszają Rzymskok
+ atolicka Parafia św. Marii Magdaleny w Rabce-Zdroju\, Harcerze Hufca Pod
+ h | Źródło: https://rabka.pl/kalendarz-wydarzen/
+URL:https://rabka.pl/kalendarz-wydarzen/
+CATEGORIES:Historia i tradycja
+END:VEVENT
+BEGIN:VEVENT
 UID:auto-2@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T112522Z
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-SUMMARY:Tydzień Bardzo Małego Dziecka po raz trzeci w Rabce-Zdroju
-DESCRIPTION:Data: 2026-08-17 | W dniach 17–23 sierpnia 2026 roku Rabka-Zd
- rój po raz kolejny stanie się miejscem wyjątkowo przyjaznym najmłodszym 
- mieszkańcom i gościom. Przed nami III edycja Tygodnia Bardzo Małego Dzie
- cka – festiwalu sztuki i kreatywnej aktywności skierowanego do dzieci w 
- wieku od 0 do 5 lat oraz ich rodzin. Wydarzenie doskonale wpisuje się w 
- charakter Rabki-Zdroju\, noszącej zaszczytny tytuł Miasta Dzieci Świata 
- | Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Dzieci i rodzina
-END:VEVENT
-BEGIN:VEVENT
-UID:auto-3@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T112522Z
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-SUMMARY:XXXIII Sesja Rady Miejskiej w Rabce-Zdroju
-DESCRIPTION:Data: 2026-08-19 | Wiceprzewodniczący Rady Miejskiej w Rabce 
- - Zdroju informuje\, że 19.08.2026 r. (środa) o godz.  15:00 w Urzędzie 
- Miejskim w Rabce-Zdroju przy ul. Parkowej 2 (sala obrad) odbędzie się XX
- XIII Sesja Rady Miejskiej w Rabce-Zdroju. PORZĄDEK OBRAD XXXIII sesji Ra
- dy Miejskiej – 19.08.2026 r. 1. Otwarcie XXXIII Sesji IX Kadencji Rady M
- iejskiej w Rabce-Zdroju. 2. Sprawozdanie Burmistrza Rabki – Zdroju z dz 
- | Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Samorząd
-END:VEVENT
-BEGIN:VEVENT
-UID:auto-4@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T112522Z
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-SUMMARY:Premiera spektaklu plenerowego „Podróże Gulliwera” – Spišské diva
- dlo (Słowacja)
-DESCRIPTION:Data: 2026-08-20 | 20 sierpnia 2026 r. (czwartek) zapraszamy 
- do Teatru Lalek „Rabcio” w Rabce-Zdroju na wyjątkowe wydarzenie realizow
- ane w ramach polsko-słowackiej współpracy kulturalnej. Tego dnia na ucze
- stników czeka bogaty program artystyczny\, którego kulminacją będzie pre
- miera plenerowego spektaklu „Podróże Gulliwera” w wykonaniu Spišskiego d
- ivadla ze Słowacji. Spektakl inspirowany ponadczasowym dziełem Jonathan 
- | Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Dzieci i rodzina
-END:VEVENT
-BEGIN:VEVENT
-UID:auto-5@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T112522Z
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-SUMMARY:Wielki finał lata ze sztuką uliczną w Rabce-Zdroju
-DESCRIPTION:Data: 2026-08-22 | 22 sierpnia Park Zdrojowy i rabczański amf
- iteatr zamienią się w wielką plenerową scenę. Wszystko za sprawą wyjątko
- wego festiwalu sztuki ulicznej\, który będzie finałem wakacyjnej przygod
- y dzieci i młodzieży uczestniczących w Letniej Szkole Artystów Ulicznych
- . Wstęp na wydarzenie będzie bezpłatny. Przez całe wakacje młodzi mieszk
- ańcy i uczestnicy projektu poznawali tajniki sztuki ulicznej. Podczas z 
- | Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Dzieci i rodzina
-END:VEVENT
-BEGIN:VEVENT
-UID:auto-6@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T112522Z
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-SUMMARY:Kabaret Skeczów Męczących rozbawi Rabkę-Zdrój! Jubileuszowy progr
- am 23 sierpnia w Amfiteatrze
-DESCRIPTION:Data: 2026-08-23 | To będzie jeden z najbardziej wyczekiwanyc
- h kabaretowych wieczorów tego lata w Rabce-Zdroju! 23 sierpnia o godz. 1
- 8:00 na scenie rabczańskiego Amfiteatru wystąpi uwielbiany przez publicz
- ność Kabaret Skeczów Męczących ze swoim najnowszym jubileuszowym program
- em „Jeszcze nigdy nie było tak dobrze!”. Artyści przygotowali wyjątkowe 
- widowisko z okazji 20-lecia działalności kabaretu. Będzie to niepowtar |
-  Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Rozrywka
-END:VEVENT
-BEGIN:VEVENT
-UID:auto-7@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T112522Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-SUMMARY:Spacer Pamięci w Rabce-Zdroju. Dwa dni refleksji nad historią i p
- amięcią o ofiarach Holokaustu
-DESCRIPTION:Data: 2026-08-29 | Rabka-Zdrój po raz kolejny stanie się miej
- scem ważnej refleksji nad tragicznymi wydarzeniami II wojny światowej. W
-  dniach 29–30 sierpnia odbędzie się Spacer Pamięci – wydarzenie poświęco
- ne ofiarom niemieckiego terroru oraz Zagłady społeczności żydowskiej Pod
- hala. Organizatorzy zapraszają mieszkańców\, kuracjuszy i wszystkich zai
- nteresowanych historią do wspólnego oddania hołdu pomordowanym oraz udz 
- | Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Historia i tradycja
-END:VEVENT
-BEGIN:VEVENT
-UID:auto-8@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T112522Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-SUMMARY:Highlander Double Impact. Dwa dni sportowych emocji w Rabce-Zdroj
- u. Światowa kalistenika i historyczny debiut Street Liftingu
-DESCRIPTION:Data: 2026-08-29 | Po sześciu latach organizacji jednych z na
- jbardziej widowiskowych zawodów Street Workout w Polsce przyszedł czas n
- a nowy rozdział. Pod koniec wakacji Rabka-Zdrój ponownie stanie się aren
- ą zmagań najlepszych zawodników\, jednak tym razem wydarzenie zyska zupe
- łnie nową formułę. Highlander Double Impact połączy światowej klasy kali
- stenikę ze street liftingiem\, a sportowe święto potrwa aż dwa dni. Od k
-  | Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Sport
-END:VEVENT
-BEGIN:VEVENT
-UID:auto-10@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T112522Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:Dni Architektury Drewnianej 2026 w Rabce-Zdroju już 30 sierpnia. 
- Bezpłatne zwiedzanie\, spacer i warsztaty w Muzeum Orkana
-DESCRIPTION:Data: 2026-08-30 | Miłośnicy zabytkowej architektury drewnian
- ej będą mieli wyjątkową okazję do poznania najcenniejszych obiektów Rabk
- i-Zdroju podczas Dni Architektury Drewnianej 2026\, które odbędą się w n
- iedzielę\, 30 sierpnia 2026 roku. W uzdrowisku zaplanowano cykl wydarzeń
-  przygotowanych przez Narodowy Instytut Dziedzictwa we współpracy z Muze
- um im. Władysława Orkana. Celem Dni Architektury Drewnianej jest promocj
-  | Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Historia i tradycja
-END:VEVENT
-BEGIN:VEVENT
-UID:auto-11@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T112522Z
+DTSTAMP:20260831T120434Z
 DTSTART;VALUE=DATE:20260912
 DTEND;VALUE=DATE:20260913
 SUMMARY:Mini Podhale Tour 2026. Rusza kolejny sezon kolarskich emocji!
@@ -155,8 +39,8 @@ URL:https://rabka.pl/kalendarz-wydarzen/
 CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
-UID:auto-12@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T112522Z
+UID:auto-3@rabka-wydarzenia-kalendarz
+DTSTAMP:20260831T120434Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Owce przejdą ulicami Rabki-Zdroju! Jesienny Redyk Rodzinny już 3 
@@ -172,47 +56,131 @@ URL:https://rabka.pl/kalendarz-wydarzen/
 CATEGORIES:Historia i tradycja
 END:VEVENT
 BEGIN:VEVENT
-UID:rabcio-944113@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T112522Z
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-SUMMARY:Luna
-LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-08-19 | Godzina: 11:00 | Spektakl Teatru Lalek Rab
- cio. | Źródło: https://www.bilety24.pl/teatr/1568-luna-120392?id=944113
-URL:https://www.bilety24.pl/teatr/1568-luna-120392?id=944113
-CATEGORIES:Dzieci i rodzina
+UID:cksip-blog-1@rabka-wydarzenia-kalendarz
+DTSTAMP:20260831T120434Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:Rabczański Amfiteatr w niedzielny wieczór wypełnił się śmiechem.
+DESCRIPTION:Data: 2026-08-23 | na jego scenie wystąpił Kabaret Skeczów Mę
+ czących\, który przyjechał do Rabki-Zdroju z jubileuszowym programem „Je
+ szcze nigdy nie było tak dobrze”. Było głośno\, bezpośrednio i momentami
+  bardzo dosadnie – dokładnie tak\, jak publiczność mogła się spodziewać 
+ po KSM. Czytaj więcej 23.08.2026 Rabka stanęła na szczudłach! Wielki fin
+ ał lata ze sztuką uliczną przyciągnął tłumy Rabka-Zdrój na kilka godzin 
+ z | Źródło: https://centrum-kultury.rabka.pl/blog
+URL:https://centrum-kultury.rabka.pl/blog
+CATEGORIES:Rozrywka
 END:VEVENT
 BEGIN:VEVENT
-UID:rabcio-944114@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T112522Z
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-SUMMARY:Emocje - co to takiego?
-LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-08-20 | Godzina: 11:00 | Spektakl Teatru Lalek Rab
- cio. | Źródło: https://www.bilety24.pl/teatr/1568-emocje-co-to-takiego-1
- 36327?id=944114
-URL:https://www.bilety24.pl/teatr/1568-emocje-co-to-takiego-136327?id=944
- 114
-CATEGORIES:Dzieci i rodzina
-END:VEVENT
-BEGIN:VEVENT
-UID:rabcio-944116@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T112522Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
+UID:rabcio-981433@rabka-wydarzenia-kalendarz
+DTSTAMP:20260831T120434Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
 SUMMARY:Pchła Szachrajka
 LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-08-21 | Godzina: 11:00 | Spektakl Teatru Lalek Rab
+DESCRIPTION:Data: 2026-09-04 | Godzina: 10:00 | Spektakl Teatru Lalek Rab
  cio. | Źródło: https://www.bilety24.pl/teatr/1568-pchla-szachrajka-12844
- 0?id=944116
-URL:https://www.bilety24.pl/teatr/1568-pchla-szachrajka-128440?id=944116
+ 0?id=981433
+URL:https://www.bilety24.pl/teatr/1568-pchla-szachrajka-128440?id=981433
 CATEGORIES:Dzieci i rodzina
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-976402@rabka-wydarzenia-kalendarz
+DTSTAMP:20260831T120434Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Pchła Szachrajka
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-09-05 | Godzina: 11:00 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-pchla-szachrajka-12844
+ 0?id=976402
+URL:https://www.bilety24.pl/teatr/1568-pchla-szachrajka-128440?id=976402
+CATEGORIES:Dzieci i rodzina
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-981434@rabka-wydarzenia-kalendarz
+DTSTAMP:20260831T120434Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Miś Tymoteusz Rym cim ci
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-09-08 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-mis-tymoteusz-rym-cim-
+ ci-121625?id=981434
+URL:https://www.bilety24.pl/teatr/1568-mis-tymoteusz-rym-cim-ci-121625?id
+ =981434
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-976225@rabka-wydarzenia-kalendarz
+DTSTAMP:20260831T120434Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Emocje - co to takiego?
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-09-16 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-emocje-co-to-takiego-1
+ 36327?id=976225
+URL:https://www.bilety24.pl/teatr/1568-emocje-co-to-takiego-136327?id=976
+ 225
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-976226@rabka-wydarzenia-kalendarz
+DTSTAMP:20260831T120434Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Emocje - co to takiego?
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-09-17 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-emocje-co-to-takiego-1
+ 36327?id=976226
+URL:https://www.bilety24.pl/teatr/1568-emocje-co-to-takiego-136327?id=976
+ 226
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-976227@rabka-wydarzenia-kalendarz
+DTSTAMP:20260831T120434Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Oto Rabcio!
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-09-19 | Godzina: 11:00 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-oto-rabcio--120395?id=
+ 976227
+URL:https://www.bilety24.pl/teatr/1568-oto-rabcio--120395?id=976227
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-976230@rabka-wydarzenia-kalendarz
+DTSTAMP:20260831T120434Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Oto Rabcio!
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-09-21 | Godzina: 10:30 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-oto-rabcio--120395?id=
+ 976230
+URL:https://www.bilety24.pl/teatr/1568-oto-rabcio--120395?id=976230
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-976232@rabka-wydarzenia-kalendarz
+DTSTAMP:20260831T120434Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Oto Rabcio!
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-09-22 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-oto-rabcio--120395?id=
+ 976232
+URL:https://www.bilety24.pl/teatr/1568-oto-rabcio--120395?id=976232
+CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:manual-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260818T112522Z
+DTSTAMP:20260831T120434Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Przykładowe wydarzenie Fundacji (usuń lub edytuj)

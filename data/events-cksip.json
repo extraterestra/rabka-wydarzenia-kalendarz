@@ -1,5 +1,17 @@
 {
   "source": "https://centrum-kultury.rabka.pl/kalendarz",
-  "last_updated": "2026-08-17",
-  "events": []
+  "last_updated": "2026-08-31",
+  "events": [
+    {
+      "id": "cksip-blog-1",
+      "title": "Rabczański Amfiteatr w niedzielny wieczór wypełnił się śmiechem.",
+      "category": "rozrywka",
+      "start": "2026-08-23",
+      "end": "2026-08-23",
+      "time": "",
+      "location": "",
+      "url": "https://centrum-kultury.rabka.pl/blog",
+      "desc": "na jego scenie wystąpił Kabaret Skeczów Męczących, który przyjechał do Rabki-Zdroju z jubileuszowym programem „Jeszcze nigdy nie było tak dobrze”. Było głośno, bezpośrednio i momentami bardzo dosadnie – dokładnie tak, jak publiczność mogła się spodziewać po KSM. Czytaj więcej 23.08.2026 Rabka stanęła na szczudłach! Wielki finał lata ze sztuką uliczną przyciągnął tłumy Rabka-Zdrój na kilka godzin z"
+    }
+  ]
 }

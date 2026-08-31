@@ -1,116 +1,39 @@
 {
   "source": "https://rabka.pl/kalendarz-wydarzen/",
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-31",
   "events": [
     {
+      "id": "auto-1",
+      "title": "87. rocznica wybuchu II wojny światowej. Rabczanie oddadzą hołd poległym",
+      "category": "historia",
+      "start": "2026-09-01",
+      "end": "2026-09-01",
+      "time": "",
+      "location": "",
+      "url": "https://rabka.pl/kalendarz-wydarzen/",
+      "desc": "1 września 2026 roku w Rabce-Zdroju odbędą się uroczystości upamiętniające 87. rocznicę wybuchu II wojny światowej. Będzie to dzień pamięci o milionach ofiar największego konfliktu zbrojnego w dziejach, ale także o Polakach, którzy walczyli i ginęli w obronie Ojczyzny. Do wspólnego udziału w uroczystościach zapraszają Rzymskokatolicka Parafia św. Marii Magdaleny w Rabce-Zdroju, Harcerze Hufca Podh"
+    },
+    {
       "id": "auto-2",
-      "title": "Tydzień Bardzo Małego Dziecka po raz trzeci w Rabce-Zdroju",
-      "category": "dzieci",
-      "start": "2026-08-17",
-      "end": "2026-08-17",
-      "time": "",
-      "location": "",
-      "desc": "W dniach 17–23 sierpnia 2026 roku Rabka-Zdrój po raz kolejny stanie się miejscem wyjątkowo przyjaznym najmłodszym mieszkańcom i gościom. Przed nami III edycja Tygodnia Bardzo Małego Dziecka – festiwalu sztuki i kreatywnej aktywności skierowanego do dzieci w wieku od 0 do 5 lat oraz ich rodzin. Wydarzenie doskonale wpisuje się w charakter Rabki-Zdroju, noszącej zaszczytny tytuł Miasta Dzieci Świata",
-      "url": "https://rabka.pl/kalendarz-wydarzen/"
-    },
-    {
-      "id": "auto-3",
-      "title": "XXXIII Sesja Rady Miejskiej w Rabce-Zdroju",
-      "category": "samorzad",
-      "start": "2026-08-19",
-      "end": "2026-08-19",
-      "time": "",
-      "location": "",
-      "desc": "Wiceprzewodniczący Rady Miejskiej w Rabce - Zdroju informuje, że 19.08.2026 r. (środa) o godz.  15:00 w Urzędzie Miejskim w Rabce-Zdroju przy ul. Parkowej 2 (sala obrad) odbędzie się XXXIII Sesja Rady Miejskiej w Rabce-Zdroju. PORZĄDEK OBRAD XXXIII sesji Rady Miejskiej – 19.08.2026 r. 1. Otwarcie XXXIII Sesji IX Kadencji Rady Miejskiej w Rabce-Zdroju. 2. Sprawozdanie Burmistrza Rabki – Zdroju z dz",
-      "url": "https://rabka.pl/kalendarz-wydarzen/"
-    },
-    {
-      "id": "auto-4",
-      "title": "Premiera spektaklu plenerowego „Podróże Gulliwera” – Spišské divadlo (Słowacja)",
-      "category": "dzieci",
-      "start": "2026-08-20",
-      "end": "2026-08-20",
-      "time": "",
-      "location": "",
-      "desc": "20 sierpnia 2026 r. (czwartek) zapraszamy do Teatru Lalek „Rabcio” w Rabce-Zdroju na wyjątkowe wydarzenie realizowane w ramach polsko-słowackiej współpracy kulturalnej. Tego dnia na uczestników czeka bogaty program artystyczny, którego kulminacją będzie premiera plenerowego spektaklu „Podróże Gulliwera” w wykonaniu Spišskiego divadla ze Słowacji. Spektakl inspirowany ponadczasowym dziełem Jonathan",
-      "url": "https://rabka.pl/kalendarz-wydarzen/"
-    },
-    {
-      "id": "auto-5",
-      "title": "Wielki finał lata ze sztuką uliczną w Rabce-Zdroju",
-      "category": "dzieci",
-      "start": "2026-08-22",
-      "end": "2026-08-22",
-      "time": "",
-      "location": "",
-      "desc": "22 sierpnia Park Zdrojowy i rabczański amfiteatr zamienią się w wielką plenerową scenę. Wszystko za sprawą wyjątkowego festiwalu sztuki ulicznej, który będzie finałem wakacyjnej przygody dzieci i młodzieży uczestniczących w Letniej Szkole Artystów Ulicznych. Wstęp na wydarzenie będzie bezpłatny. Przez całe wakacje młodzi mieszkańcy i uczestnicy projektu poznawali tajniki sztuki ulicznej. Podczas z",
-      "url": "https://rabka.pl/kalendarz-wydarzen/"
-    },
-    {
-      "id": "auto-6",
-      "title": "Kabaret Skeczów Męczących rozbawi Rabkę-Zdrój! Jubileuszowy program 23 sierpnia w Amfiteatrze",
-      "category": "rozrywka",
-      "start": "2026-08-23",
-      "end": "2026-08-23",
-      "time": "",
-      "location": "",
-      "desc": "To będzie jeden z najbardziej wyczekiwanych kabaretowych wieczorów tego lata w Rabce-Zdroju! 23 sierpnia o godz. 18:00 na scenie rabczańskiego Amfiteatru wystąpi uwielbiany przez publiczność Kabaret Skeczów Męczących ze swoim najnowszym jubileuszowym programem „Jeszcze nigdy nie było tak dobrze!”. Artyści przygotowali wyjątkowe widowisko z okazji 20-lecia działalności kabaretu. Będzie to niepowtar",
-      "url": "https://rabka.pl/kalendarz-wydarzen/"
-    },
-    {
-      "id": "auto-7",
-      "title": "Spacer Pamięci w Rabce-Zdroju. Dwa dni refleksji nad historią i pamięcią o ofiarach Holokaustu",
-      "category": "historia",
-      "start": "2026-08-29",
-      "end": "2026-08-29",
-      "time": "",
-      "location": "",
-      "desc": "Rabka-Zdrój po raz kolejny stanie się miejscem ważnej refleksji nad tragicznymi wydarzeniami II wojny światowej. W dniach 29–30 sierpnia odbędzie się Spacer Pamięci – wydarzenie poświęcone ofiarom niemieckiego terroru oraz Zagłady społeczności żydowskiej Podhala. Organizatorzy zapraszają mieszkańców, kuracjuszy i wszystkich zainteresowanych historią do wspólnego oddania hołdu pomordowanym oraz udz",
-      "url": "https://rabka.pl/kalendarz-wydarzen/"
-    },
-    {
-      "id": "auto-8",
-      "title": "Highlander Double Impact. Dwa dni sportowych emocji w Rabce-Zdroju. Światowa kalistenika i historyczny debiut Street Liftingu",
-      "category": "sport",
-      "start": "2026-08-29",
-      "end": "2026-08-29",
-      "time": "",
-      "location": "",
-      "desc": "Po sześciu latach organizacji jednych z najbardziej widowiskowych zawodów Street Workout w Polsce przyszedł czas na nowy rozdział. Pod koniec wakacji Rabka-Zdrój ponownie stanie się areną zmagań najlepszych zawodników, jednak tym razem wydarzenie zyska zupełnie nową formułę. Highlander Double Impact połączy światowej klasy kalistenikę ze street liftingiem, a sportowe święto potrwa aż dwa dni. Od k",
-      "url": "https://rabka.pl/kalendarz-wydarzen/"
-    },
-    {
-      "id": "auto-10",
-      "title": "Dni Architektury Drewnianej 2026 w Rabce-Zdroju już 30 sierpnia. Bezpłatne zwiedzanie, spacer i warsztaty w Muzeum Orkana",
-      "category": "historia",
-      "start": "2026-08-30",
-      "end": "2026-08-30",
-      "time": "",
-      "location": "",
-      "desc": "Miłośnicy zabytkowej architektury drewnianej będą mieli wyjątkową okazję do poznania najcenniejszych obiektów Rabki-Zdroju podczas Dni Architektury Drewnianej 2026, które odbędą się w niedzielę, 30 sierpnia 2026 roku. W uzdrowisku zaplanowano cykl wydarzeń przygotowanych przez Narodowy Instytut Dziedzictwa we współpracy z Muzeum im. Władysława Orkana. Celem Dni Architektury Drewnianej jest promocj",
-      "url": "https://rabka.pl/kalendarz-wydarzen/"
-    },
-    {
-      "id": "auto-11",
       "title": "Mini Podhale Tour 2026. Rusza kolejny sezon kolarskich emocji!",
       "category": "sport",
       "start": "2026-09-12",
       "end": "2026-09-12",
       "time": "",
       "location": "",
-      "desc": "Już wkrótce wystartuje kolejna edycja jednego z najbardziej rozpoznawalnych cykli zawodów rowerowych dla dzieci, młodzieży i całych rodzin - Mini Podhale Tour 2026. To wyjątkowe wydarzenie sportowe, organizowane przez Towarzystwo Cyklistów Orzeł Spytkowice, od lat przyciąga miłośników dwóch kółek z całego regionu Podhala i nie tylko. Celem cyklu jest nie tylko wyłonienie najlepszych zawodników w k",
-      "url": "https://rabka.pl/kalendarz-wydarzen/"
+      "url": "https://rabka.pl/kalendarz-wydarzen/",
+      "desc": "Już wkrótce wystartuje kolejna edycja jednego z najbardziej rozpoznawalnych cykli zawodów rowerowych dla dzieci, młodzieży i całych rodzin - Mini Podhale Tour 2026. To wyjątkowe wydarzenie sportowe, organizowane przez Towarzystwo Cyklistów Orzeł Spytkowice, od lat przyciąga miłośników dwóch kółek z całego regionu Podhala i nie tylko. Celem cyklu jest nie tylko wyłonienie najlepszych zawodników w k"
     },
     {
-      "id": "auto-12",
+      "id": "auto-3",
       "title": "Owce przejdą ulicami Rabki-Zdroju! Jesienny Redyk Rodzinny już 3 października",
       "category": "historia",
       "start": "2026-10-03",
       "end": "2026-10-03",
       "time": "",
       "location": "",
-      "desc": "To będzie jedno z najbardziej barwnych i wyjątkowych wydarzeń tej jesieni. Po raz pierwszy w Rabce-Zdroju odbędzie się Rodzinny Redyk, nawiązujący do wielowiekowych tradycji pasterskich Podhala i Gorców. 3 października 2026 r. (sobota) Godzina 14.00 Plac targowy w Rabce-Zdroju Organizatorzy już dziś zapraszają mieszkańców oraz gości do udziału w wydarzeniu, które połączy tradycję, k",
-      "url": "https://rabka.pl/kalendarz-wydarzen/"
+      "url": "https://rabka.pl/kalendarz-wydarzen/",
+      "desc": "To będzie jedno z najbardziej barwnych i wyjątkowych wydarzeń tej jesieni. Po raz pierwszy w Rabce-Zdroju odbędzie się Rodzinny Redyk, nawiązujący do wielowiekowych tradycji pasterskich Podhala i Gorców. 3 października 2026 r. (sobota) Godzina 14.00 Plac targowy w Rabce-Zdroju Organizatorzy już dziś zapraszają mieszkańców oraz gości do udziału w wydarzeniu, które połączy tradycję, k"
     }
   ]
 }
