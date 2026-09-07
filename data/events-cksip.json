@@ -1,9 +1,20 @@
 {
   "source": "https://centrum-kultury.rabka.pl/kalendarz",
-  "last_updated": "2026-08-31",
+  "last_updated": "2026-09-07",
   "events": [
     {
       "id": "cksip-blog-1",
+      "title": "Jak przez dziesięciolecia zmieniły się rabczańskie wille, Park Zdrojowy, dworzec, ulica Orkana czy centrum uzdrowiska? W piątek",
+      "category": "dzieci",
+      "start": "2026-09-05",
+      "end": "2026-09-05",
+      "time": "",
+      "location": "",
+      "url": "https://centrum-kultury.rabka.pl/blog",
+      "desc": "w Galerii Pod Aniołem odbył się wernisaż wystawy \"Rabka - Ślady Czasy\", zestawiającej archiwalne fotografie ze zbiorów Piotra Kuczaja ze współczesnymi zdjęciami jego autorstwa. Czytaj więcej 07.09.2026 Ponad 850 górników i ich rodzin na szlakach Gorców. 33. Rajd Górski Górników zakończył się w Rabce-Zdroju Górskie szlaki, dobra zabawa, muzyka, regionalne jedzenie i przede wszystkim integracja cały"
+    },
+    {
+      "id": "cksip-blog-2",
       "title": "Rabczański Amfiteatr w niedzielny wieczór wypełnił się śmiechem.",
       "category": "rozrywka",
       "start": "2026-08-23",

@@ -2,41 +2,8 @@
   "source": "https://teatr.rabcio.pl/repertuar-2025/",
   "ticket_source": "https://www.bilety24.pl/organizator/teatr-lalek-rabcio-1568.html",
   "theatre": "https://teatr.rabcio.pl/",
-  "last_updated": "2026-08-31",
+  "last_updated": "2026-09-07",
   "events": [
-    {
-      "id": "rabcio-981433",
-      "title": "Pchła Szachrajka",
-      "category": "dzieci",
-      "start": "2026-09-04",
-      "end": "2026-09-04",
-      "time": "10:00",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-pchla-szachrajka-128440?id=981433",
-      "desc": "Spektakl Teatru Lalek Rabcio."
-    },
-    {
-      "id": "rabcio-976402",
-      "title": "Pchła Szachrajka",
-      "category": "dzieci",
-      "start": "2026-09-05",
-      "end": "2026-09-05",
-      "time": "11:00",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-pchla-szachrajka-128440?id=976402",
-      "desc": "Spektakl Teatru Lalek Rabcio."
-    },
-    {
-      "id": "rabcio-981434",
-      "title": "Miś Tymoteusz Rym cim ci",
-      "category": "kultura",
-      "start": "2026-09-08",
-      "end": "2026-09-08",
-      "time": "10:15",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-mis-tymoteusz-rym-cim-ci-121625?id=981434",
-      "desc": "Spektakl Teatru Lalek Rabcio."
-    },
     {
       "id": "rabcio-976225",
       "title": "Emocje - co to takiego?",
@@ -90,6 +57,39 @@
       "time": "10:15",
       "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
       "url": "https://www.bilety24.pl/teatr/1568-oto-rabcio--120395?id=976232",
+      "desc": "Spektakl Teatru Lalek Rabcio."
+    },
+    {
+      "id": "rabcio-976235",
+      "title": "Karius i Baktus",
+      "category": "kultura",
+      "start": "2026-09-23",
+      "end": "2026-09-23",
+      "time": "10:15",
+      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
+      "url": "https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624?id=976235",
+      "desc": "Spektakl Teatru Lalek Rabcio."
+    },
+    {
+      "id": "rabcio-976237",
+      "title": "Karius i Baktus",
+      "category": "kultura",
+      "start": "2026-09-24",
+      "end": "2026-09-24",
+      "time": "10:15",
+      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
+      "url": "https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624?id=976237",
+      "desc": "Spektakl Teatru Lalek Rabcio."
+    },
+    {
+      "id": "rabcio-976461",
+      "title": "Emocje - co to takiego?",
+      "category": "kultura",
+      "start": "2026-10-06",
+      "end": "2026-10-06",
+      "time": "10:15",
+      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
+      "url": "https://www.bilety24.pl/teatr/1568-emocje-co-to-takiego-136327?id=976461",
       "desc": "Spektakl Teatru Lalek Rabcio."
     }
   ]

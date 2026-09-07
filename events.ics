@@ -7,40 +7,124 @@ X-WR-CALNAME:Kalendarz Wydarzeń — Rabka-Zdrój
 X-WR-TIMEZONE:Europe/Warsaw
 BEGIN:VEVENT
 UID:auto-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260831T120434Z
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260902
-SUMMARY:87. rocznica wybuchu II wojny światowej. Rabczanie oddadzą hołd p
- oległym
-DESCRIPTION:Data: 2026-09-01 | 1 września 2026 roku w Rabce-Zdroju odbędą
-  się uroczystości upamiętniające 87. rocznicę wybuchu II wojny światowej
- . Będzie to dzień pamięci o milionach ofiar największego konfliktu zbroj
- nego w dziejach\, ale także o Polakach\, którzy walczyli i ginęli w obro
- nie Ojczyzny. Do wspólnego udziału w uroczystościach zapraszają Rzymskok
- atolicka Parafia św. Marii Magdaleny w Rabce-Zdroju\, Harcerze Hufca Pod
- h | Źródło: https://rabka.pl/kalendarz-wydarzen/
+DTSTAMP:20260907T105819Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Narodowe Czytanie 2026 w Rabce-Zdroju. „Dziady” Adama Mickiewicza
+  zabrzmią w Filii PBW
+DESCRIPTION:Data: 2026-09-07 | Już 7 września w Rabce-Zdroju odbędzie się
+  tegoroczna odsłona Narodowego Czytania. Tym razem uczestnicy spotkania 
+ sięgną po jedno z najważniejszych dzieł polskiego romantyzmu – „Dziady” 
+ Adama Mickiewicza. Organizatorzy przygotowali nie tylko wspólne czytanie
+  fragmentów dramatu\, ale również quiz wiedzy o wieszczu z nagrodami. Do
+  udziału w wydarzeniu zapraszają Pedagogiczna Biblioteka Wojewódzka w N 
+ | Źródło: https://rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
 CATEGORIES:Historia i tradycja
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-2@rabka-wydarzenia-kalendarz
-DTSTAMP:20260831T120434Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:Mini Podhale Tour 2026. Rusza kolejny sezon kolarskich emocji!
-DESCRIPTION:Data: 2026-09-12 | Już wkrótce wystartuje kolejna edycja jedn
- ego z najbardziej rozpoznawalnych cykli zawodów rowerowych dla dzieci\, 
- młodzieży i całych rodzin - Mini Podhale Tour 2026. To wyjątkowe wydarze
- nie sportowe\, organizowane przez Towarzystwo Cyklistów Orzeł Spytkowice
- \, od lat przyciąga miłośników dwóch kółek z całego regionu Podhala i ni
- e tylko. Celem cyklu jest nie tylko wyłonienie najlepszych zawodników w 
- k | Źródło: https://rabka.pl/kalendarz-wydarzen/
+DTSTAMP:20260907T105819Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Bezpłatne zabiegi\, porady i zajęcia. Uzdrowisko Rabka zaprasza n
+ a Światowy Dzień Fizjoterapii
+DESCRIPTION:Data: 2026-09-08 | 8 września 2026 roku Uzdrowisko Rabka S.A.
+  zaprasza mieszkańców\, kuracjuszy i turystów na wspólne obchody Światow
+ ego Dnia Fizjoterapii. W godzinach od 10.00 do 15.00 w czterech obiektac
+ h Uzdrowiska będzie można skorzystać z bezpłatnych porad specjalistów\, 
+ inhalacji solankowych\, ćwiczeń\, zajęć profilaktycznych oraz innych atr
+ akcji przygotowanych z okazji tego wyjątkowego dnia. Światowy Dzień Fizj
+ ot | Źródło: https://rabka.pl/kalendarz-wydarzen/
+URL:https://rabka.pl/kalendarz-wydarzen/
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-3@rabka-wydarzenia-kalendarz
+DTSTAMP:20260907T105819Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Spotkanie Koła Polskiego Stowarzyszenia Diabetyków w Rabce-Zdroju
+DESCRIPTION:Data: 2026-09-10 | Polskie Stowarzyszenie Diabetyków - Koło w
+  Rabce-Zdroju zaprasza na otwarte spotkanie poświęcone problematyce cukr
+ zycy. Wydarzenie skierowane jest nie tylko do członków stowarzyszenia\, 
+ ale również do ich rodzin\, sympatyków oraz wszystkich osób zainteresowa
+ nych tematyką choroby i profilaktyki zdrowotnej. Spotkanie odbędzie się 
+ w czwartek\, 10 września 2026 roku\, o godz. 15.00 w Urzędzie Miejskim w
+  R | Źródło: https://rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
 CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
-UID:auto-3@rabka-wydarzenia-kalendarz
-DTSTAMP:20260831T120434Z
+UID:auto-4@rabka-wydarzenia-kalendarz
+DTSTAMP:20260907T105819Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Mini Podhale Tour 2026. Przed nami wyścig w Rabce-Zdroju
+DESCRIPTION:Data: 2026-09-12 | Za nami już cztery etapy Mini Podhale Tour
+  2026 – rodzinnego cyklu zawodów kolarskich\, który od lat przyciąga na 
+ start dzieci\, młodzież i dorosłych z całego Podhala. Przed uczestnikami
+  jeszcze dwa wyścigi. Najbliższy już 12 września w Rabce-Zdroju\, a tydz
+ ień później\, 19 września\, w Rabie Wyżnej odbędzie się finał tegoroczne
+ j rywalizacji. Tegoroczny cykl rozpoczął się 1 maja od Grand Prix Łętown
+ i.  | Źródło: https://rabka.pl/kalendarz-wydarzen/
+URL:https://rabka.pl/kalendarz-wydarzen/
+CATEGORIES:Sport
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-5@rabka-wydarzenia-kalendarz
+DTSTAMP:20260907T105819Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:80 lat KS Wierchy Rabka-Zdrój. Osiem dekad sportowej historii mia
+ sta
+DESCRIPTION:Data: 2026-09-12 | W 2026 roku Klub Sportowy Wierchy Rabka-Zd
+ rój obchodzi jubileusz 80-lecia. To jeden z najważniejszych i najbardzie
+ j rozpoznawalnych klubów sportowych w mieście. Przez osiem dekad zmienia
+ ły się pokolenia zawodników\, trenerów i działaczy\, ale nie zmieniło si
+ ę jedno – Wierchy pozostają ważną częścią historii Rabki-Zdroju. Jubileu
+ szowe obchody odbędą się 12 i 13 września 2026 roku na stadionie przy ul
+  | Źródło: https://rabka.pl/kalendarz-wydarzen/
+URL:https://rabka.pl/kalendarz-wydarzen/
+CATEGORIES:Historia i tradycja
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-6@rabka-wydarzenia-kalendarz
+DTSTAMP:20260907T105819Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Visa Back to Bag III - freestyle wraca do Rabki-Zdroju. Dwa dni s
+ portowych emocji na Polczakówce
+DESCRIPTION:Data: 2026-09-19 | 19 i 20 września Rabka-Zdrój ponownie stan
+ ie się miejscem spotkania miłośników snowboardu\, deskorolki i szeroko r
+ ozumianego freestyle’u. Wszystko za sprawą trzeciej edycji Visa Back to 
+ Bag – Freestyle Festival\, który odbędzie się w Rababanag Parku na Polcz
+ akówce w Zarytem\, na terenie dawnego stoku narciarskiego\, gdzie przed 
+ laty funkcjonował wyciąg. To właśnie w tym miejscu powstał obiekt\, któr
+ y d | Źródło: https://rabka.pl/kalendarz-wydarzen/
+URL:https://rabka.pl/kalendarz-wydarzen/
+CATEGORIES:Sport
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-7@rabka-wydarzenia-kalendarz
+DTSTAMP:20260907T105819Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Didi-Goliada 2026 wraca na stadion w Rabce-Zdroju. Młodzi piłkarz
+ e zagrają ku pamięci Łukasza Miśkowca
+DESCRIPTION:Data: 2026-09-19 | 19 i 20 września na Stadionie Miejskim w R
+ abce-Zdroju odbędzie się kolejna edycja Didi-Goliady im. Łukasza Miśkowc
+ a. Przez dwa dni młodzi piłkarze będą rywalizować w pięciu kategoriach w
+ iekowych. Organizatorzy zapowiadają sportowe emocje\, dobrą zabawę i kol
+ ejną okazję do spotkania młodych adeptów futbolu z Rabki-Zdroju i okolic
+ . Didi-Goliada na stałe wpisała się już w sportowy kalendarz Rabki-Zdro 
+ | Źródło: https://rabka.pl/kalendarz-wydarzen/
+URL:https://rabka.pl/kalendarz-wydarzen/
+CATEGORIES:Historia i tradycja
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-8@rabka-wydarzenia-kalendarz
+DTSTAMP:20260907T105819Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Owce przejdą ulicami Rabki-Zdroju! Jesienny Redyk Rodzinny już 3 
@@ -57,7 +141,24 @@ CATEGORIES:Historia i tradycja
 END:VEVENT
 BEGIN:VEVENT
 UID:cksip-blog-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260831T120434Z
+DTSTAMP:20260907T105819Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:Jak przez dziesięciolecia zmieniły się rabczańskie wille\, Park Z
+ drojowy\, dworzec\, ulica Orkana czy centrum uzdrowiska? W piątek
+DESCRIPTION:Data: 2026-09-05 | w Galerii Pod Aniołem odbył się wernisaż w
+ ystawy "Rabka - Ślady Czasy"\, zestawiającej archiwalne fotografie ze zb
+ iorów Piotra Kuczaja ze współczesnymi zdjęciami jego autorstwa. Czytaj w
+ ięcej 07.09.2026 Ponad 850 górników i ich rodzin na szlakach Gorców. 33.
+  Rajd Górski Górników zakończył się w Rabce-Zdroju Górskie szlaki\, dobr
+ a zabawa\, muzyka\, regionalne jedzenie i przede wszystkim integracja ca
+ ły | Źródło: https://centrum-kultury.rabka.pl/blog
+URL:https://centrum-kultury.rabka.pl/blog
+CATEGORIES:Dzieci i rodzina
+END:VEVENT
+BEGIN:VEVENT
+UID:cksip-blog-2@rabka-wydarzenia-kalendarz
+DTSTAMP:20260907T105819Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:Rabczański Amfiteatr w niedzielny wieczór wypełnił się śmiechem.
@@ -72,48 +173,8 @@ URL:https://centrum-kultury.rabka.pl/blog
 CATEGORIES:Rozrywka
 END:VEVENT
 BEGIN:VEVENT
-UID:rabcio-981433@rabka-wydarzenia-kalendarz
-DTSTAMP:20260831T120434Z
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-SUMMARY:Pchła Szachrajka
-LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-09-04 | Godzina: 10:00 | Spektakl Teatru Lalek Rab
- cio. | Źródło: https://www.bilety24.pl/teatr/1568-pchla-szachrajka-12844
- 0?id=981433
-URL:https://www.bilety24.pl/teatr/1568-pchla-szachrajka-128440?id=981433
-CATEGORIES:Dzieci i rodzina
-END:VEVENT
-BEGIN:VEVENT
-UID:rabcio-976402@rabka-wydarzenia-kalendarz
-DTSTAMP:20260831T120434Z
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-SUMMARY:Pchła Szachrajka
-LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-09-05 | Godzina: 11:00 | Spektakl Teatru Lalek Rab
- cio. | Źródło: https://www.bilety24.pl/teatr/1568-pchla-szachrajka-12844
- 0?id=976402
-URL:https://www.bilety24.pl/teatr/1568-pchla-szachrajka-128440?id=976402
-CATEGORIES:Dzieci i rodzina
-END:VEVENT
-BEGIN:VEVENT
-UID:rabcio-981434@rabka-wydarzenia-kalendarz
-DTSTAMP:20260831T120434Z
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-SUMMARY:Miś Tymoteusz Rym cim ci
-LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-09-08 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
- cio. | Źródło: https://www.bilety24.pl/teatr/1568-mis-tymoteusz-rym-cim-
- ci-121625?id=981434
-URL:https://www.bilety24.pl/teatr/1568-mis-tymoteusz-rym-cim-ci-121625?id
- =981434
-CATEGORIES:Kultura
-END:VEVENT
-BEGIN:VEVENT
 UID:rabcio-976225@rabka-wydarzenia-kalendarz
-DTSTAMP:20260831T120434Z
+DTSTAMP:20260907T105819Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Emocje - co to takiego?
@@ -127,7 +188,7 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-976226@rabka-wydarzenia-kalendarz
-DTSTAMP:20260831T120434Z
+DTSTAMP:20260907T105819Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Emocje - co to takiego?
@@ -141,7 +202,7 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-976227@rabka-wydarzenia-kalendarz
-DTSTAMP:20260831T120434Z
+DTSTAMP:20260907T105819Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Oto Rabcio!
@@ -154,7 +215,7 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-976230@rabka-wydarzenia-kalendarz
-DTSTAMP:20260831T120434Z
+DTSTAMP:20260907T105819Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Oto Rabcio!
@@ -167,7 +228,7 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-976232@rabka-wydarzenia-kalendarz
-DTSTAMP:20260831T120434Z
+DTSTAMP:20260907T105819Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Oto Rabcio!
@@ -179,8 +240,48 @@ URL:https://www.bilety24.pl/teatr/1568-oto-rabcio--120395?id=976232
 CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
+UID:rabcio-976235@rabka-wydarzenia-kalendarz
+DTSTAMP:20260907T105819Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Karius i Baktus
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-09-23 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624
+ ?id=976235
+URL:https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624?id=976235
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-976237@rabka-wydarzenia-kalendarz
+DTSTAMP:20260907T105819Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Karius i Baktus
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-09-24 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624
+ ?id=976237
+URL:https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624?id=976237
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-976461@rabka-wydarzenia-kalendarz
+DTSTAMP:20260907T105819Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Emocje - co to takiego?
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-10-06 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-emocje-co-to-takiego-1
+ 36327?id=976461
+URL:https://www.bilety24.pl/teatr/1568-emocje-co-to-takiego-136327?id=976
+ 461
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
 UID:manual-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260831T120434Z
+DTSTAMP:20260907T105819Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Przykładowe wydarzenie Fundacji (usuń lub edytuj)

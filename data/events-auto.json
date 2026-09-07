@@ -1,31 +1,86 @@
 {
   "source": "https://rabka.pl/kalendarz-wydarzen/",
-  "last_updated": "2026-08-31",
+  "last_updated": "2026-09-07",
   "events": [
     {
       "id": "auto-1",
-      "title": "87. rocznica wybuchu II wojny światowej. Rabczanie oddadzą hołd poległym",
+      "title": "Narodowe Czytanie 2026 w Rabce-Zdroju. „Dziady” Adama Mickiewicza zabrzmią w Filii PBW",
       "category": "historia",
-      "start": "2026-09-01",
-      "end": "2026-09-01",
+      "start": "2026-09-07",
+      "end": "2026-09-07",
       "time": "",
       "location": "",
       "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "1 września 2026 roku w Rabce-Zdroju odbędą się uroczystości upamiętniające 87. rocznicę wybuchu II wojny światowej. Będzie to dzień pamięci o milionach ofiar największego konfliktu zbrojnego w dziejach, ale także o Polakach, którzy walczyli i ginęli w obronie Ojczyzny. Do wspólnego udziału w uroczystościach zapraszają Rzymskokatolicka Parafia św. Marii Magdaleny w Rabce-Zdroju, Harcerze Hufca Podh"
+      "desc": "Już 7 września w Rabce-Zdroju odbędzie się tegoroczna odsłona Narodowego Czytania. Tym razem uczestnicy spotkania sięgną po jedno z najważniejszych dzieł polskiego romantyzmu – „Dziady” Adama Mickiewicza. Organizatorzy przygotowali nie tylko wspólne czytanie fragmentów dramatu, ale również quiz wiedzy o wieszczu z nagrodami. Do udziału w wydarzeniu zapraszają Pedagogiczna Biblioteka Wojewódzka w N"
     },
     {
       "id": "auto-2",
-      "title": "Mini Podhale Tour 2026. Rusza kolejny sezon kolarskich emocji!",
+      "title": "Bezpłatne zabiegi, porady i zajęcia. Uzdrowisko Rabka zaprasza na Światowy Dzień Fizjoterapii",
+      "category": "kultura",
+      "start": "2026-09-08",
+      "end": "2026-09-08",
+      "time": "",
+      "location": "",
+      "url": "https://rabka.pl/kalendarz-wydarzen/",
+      "desc": "8 września 2026 roku Uzdrowisko Rabka S.A. zaprasza mieszkańców, kuracjuszy i turystów na wspólne obchody Światowego Dnia Fizjoterapii. W godzinach od 10.00 do 15.00 w czterech obiektach Uzdrowiska będzie można skorzystać z bezpłatnych porad specjalistów, inhalacji solankowych, ćwiczeń, zajęć profilaktycznych oraz innych atrakcji przygotowanych z okazji tego wyjątkowego dnia. Światowy Dzień Fizjot"
+    },
+    {
+      "id": "auto-3",
+      "title": "Spotkanie Koła Polskiego Stowarzyszenia Diabetyków w Rabce-Zdroju",
+      "category": "sport",
+      "start": "2026-09-10",
+      "end": "2026-09-10",
+      "time": "",
+      "location": "",
+      "url": "https://rabka.pl/kalendarz-wydarzen/",
+      "desc": "Polskie Stowarzyszenie Diabetyków - Koło w Rabce-Zdroju zaprasza na otwarte spotkanie poświęcone problematyce cukrzycy. Wydarzenie skierowane jest nie tylko do członków stowarzyszenia, ale również do ich rodzin, sympatyków oraz wszystkich osób zainteresowanych tematyką choroby i profilaktyki zdrowotnej. Spotkanie odbędzie się w czwartek, 10 września 2026 roku, o godz. 15.00 w Urzędzie Miejskim w R"
+    },
+    {
+      "id": "auto-4",
+      "title": "Mini Podhale Tour 2026. Przed nami wyścig w Rabce-Zdroju",
       "category": "sport",
       "start": "2026-09-12",
       "end": "2026-09-12",
       "time": "",
       "location": "",
       "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "Już wkrótce wystartuje kolejna edycja jednego z najbardziej rozpoznawalnych cykli zawodów rowerowych dla dzieci, młodzieży i całych rodzin - Mini Podhale Tour 2026. To wyjątkowe wydarzenie sportowe, organizowane przez Towarzystwo Cyklistów Orzeł Spytkowice, od lat przyciąga miłośników dwóch kółek z całego regionu Podhala i nie tylko. Celem cyklu jest nie tylko wyłonienie najlepszych zawodników w k"
+      "desc": "Za nami już cztery etapy Mini Podhale Tour 2026 – rodzinnego cyklu zawodów kolarskich, który od lat przyciąga na start dzieci, młodzież i dorosłych z całego Podhala. Przed uczestnikami jeszcze dwa wyścigi. Najbliższy już 12 września w Rabce-Zdroju, a tydzień później, 19 września, w Rabie Wyżnej odbędzie się finał tegorocznej rywalizacji. Tegoroczny cykl rozpoczął się 1 maja od Grand Prix Łętowni. "
     },
     {
-      "id": "auto-3",
+      "id": "auto-5",
+      "title": "80 lat KS Wierchy Rabka-Zdrój. Osiem dekad sportowej historii miasta",
+      "category": "historia",
+      "start": "2026-09-12",
+      "end": "2026-09-12",
+      "time": "",
+      "location": "",
+      "url": "https://rabka.pl/kalendarz-wydarzen/",
+      "desc": "W 2026 roku Klub Sportowy Wierchy Rabka-Zdrój obchodzi jubileusz 80-lecia. To jeden z najważniejszych i najbardziej rozpoznawalnych klubów sportowych w mieście. Przez osiem dekad zmieniały się pokolenia zawodników, trenerów i działaczy, ale nie zmieniło się jedno – Wierchy pozostają ważną częścią historii Rabki-Zdroju. Jubileuszowe obchody odbędą się 12 i 13 września 2026 roku na stadionie przy ul"
+    },
+    {
+      "id": "auto-6",
+      "title": "Visa Back to Bag III - freestyle wraca do Rabki-Zdroju. Dwa dni sportowych emocji na Polczakówce",
+      "category": "sport",
+      "start": "2026-09-19",
+      "end": "2026-09-19",
+      "time": "",
+      "location": "",
+      "url": "https://rabka.pl/kalendarz-wydarzen/",
+      "desc": "19 i 20 września Rabka-Zdrój ponownie stanie się miejscem spotkania miłośników snowboardu, deskorolki i szeroko rozumianego freestyle’u. Wszystko za sprawą trzeciej edycji Visa Back to Bag – Freestyle Festival, który odbędzie się w Rababanag Parku na Polczakówce w Zarytem, na terenie dawnego stoku narciarskiego, gdzie przed laty funkcjonował wyciąg. To właśnie w tym miejscu powstał obiekt, który d"
+    },
+    {
+      "id": "auto-7",
+      "title": "Didi-Goliada 2026 wraca na stadion w Rabce-Zdroju. Młodzi piłkarze zagrają ku pamięci Łukasza Miśkowca",
+      "category": "historia",
+      "start": "2026-09-19",
+      "end": "2026-09-19",
+      "time": "",
+      "location": "",
+      "url": "https://rabka.pl/kalendarz-wydarzen/",
+      "desc": "19 i 20 września na Stadionie Miejskim w Rabce-Zdroju odbędzie się kolejna edycja Didi-Goliady im. Łukasza Miśkowca. Przez dwa dni młodzi piłkarze będą rywalizować w pięciu kategoriach wiekowych. Organizatorzy zapowiadają sportowe emocje, dobrą zabawę i kolejną okazję do spotkania młodych adeptów futbolu z Rabki-Zdroju i okolic. Didi-Goliada na stałe wpisała się już w sportowy kalendarz Rabki-Zdro"
+    },
+    {
+      "id": "auto-8",
       "title": "Owce przejdą ulicami Rabki-Zdroju! Jesienny Redyk Rodzinny już 3 października",
       "category": "historia",
       "start": "2026-10-03",
