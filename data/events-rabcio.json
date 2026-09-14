@@ -2,19 +2,8 @@
   "source": "https://teatr.rabcio.pl/repertuar-2025/",
   "ticket_source": "https://www.bilety24.pl/organizator/teatr-lalek-rabcio-1568.html",
   "theatre": "https://teatr.rabcio.pl/",
-  "last_updated": "2026-09-07",
+  "last_updated": "2026-09-14",
   "events": [
-    {
-      "id": "rabcio-976225",
-      "title": "Emocje - co to takiego?",
-      "category": "kultura",
-      "start": "2026-09-16",
-      "end": "2026-09-16",
-      "time": "10:15",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-emocje-co-to-takiego-136327?id=976225",
-      "desc": "Spektakl Teatru Lalek Rabcio."
-    },
     {
       "id": "rabcio-976226",
       "title": "Emocje - co to takiego?",
@@ -90,6 +79,17 @@
       "time": "10:15",
       "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
       "url": "https://www.bilety24.pl/teatr/1568-emocje-co-to-takiego-136327?id=976461",
+      "desc": "Spektakl Teatru Lalek Rabcio."
+    },
+    {
+      "id": "rabcio-986014",
+      "title": "Trzy świnki",
+      "category": "kultura",
+      "start": "2026-10-07",
+      "end": "2026-10-07",
+      "time": "10:15",
+      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
+      "url": "https://www.bilety24.pl/teatr/1568-trzy-swinki-128466?id=986014",
       "desc": "Spektakl Teatru Lalek Rabcio."
     }
   ]

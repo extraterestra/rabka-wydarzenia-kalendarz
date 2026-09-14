@@ -7,90 +7,41 @@ X-WR-CALNAME:Kalendarz Wydarzeń — Rabka-Zdrój
 X-WR-TIMEZONE:Europe/Warsaw
 BEGIN:VEVENT
 UID:auto-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260907T105819Z
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-SUMMARY:Narodowe Czytanie 2026 w Rabce-Zdroju. „Dziady” Adama Mickiewicza
-  zabrzmią w Filii PBW
-DESCRIPTION:Data: 2026-09-07 | Już 7 września w Rabce-Zdroju odbędzie się
-  tegoroczna odsłona Narodowego Czytania. Tym razem uczestnicy spotkania 
- sięgną po jedno z najważniejszych dzieł polskiego romantyzmu – „Dziady” 
- Adama Mickiewicza. Organizatorzy przygotowali nie tylko wspólne czytanie
-  fragmentów dramatu\, ale również quiz wiedzy o wieszczu z nagrodami. Do
-  udziału w wydarzeniu zapraszają Pedagogiczna Biblioteka Wojewódzka w N 
- | Źródło: https://rabka.pl/kalendarz-wydarzen/
+DTSTAMP:20260914T111054Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:87. rocznica wybuchu II wojny światowej. Rabka-Zdrój uczci pamięć
+  ofiar
+DESCRIPTION:Data: 2026-09-17 | 17 września w Rabce-Zdroju odbędą się uroc
+ zystości upamiętniające ofiary II wojny światowej oraz wszystkich\, któr
+ zy walczyli w obronie Ojczyzny. Tegoroczne obchody będą również okazją d
+ o przypomnienia tragicznych wydarzeń września 1939 roku i losu mieszkańc
+ ów Polski dotkniętych wojną. Uroczystości organizują Burmistrz Rabki-Zdr
+ oju\, Rzymskokatolicka Parafia św. Marii Magdaleny w Rabce-Zdroju oraz S
+  | Źródło: https://rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Historia i tradycja
+CATEGORIES:Samorząd
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-2@rabka-wydarzenia-kalendarz
-DTSTAMP:20260907T105819Z
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-SUMMARY:Bezpłatne zabiegi\, porady i zajęcia. Uzdrowisko Rabka zaprasza n
- a Światowy Dzień Fizjoterapii
-DESCRIPTION:Data: 2026-09-08 | 8 września 2026 roku Uzdrowisko Rabka S.A.
-  zaprasza mieszkańców\, kuracjuszy i turystów na wspólne obchody Światow
- ego Dnia Fizjoterapii. W godzinach od 10.00 do 15.00 w czterech obiektac
- h Uzdrowiska będzie można skorzystać z bezpłatnych porad specjalistów\, 
- inhalacji solankowych\, ćwiczeń\, zajęć profilaktycznych oraz innych atr
- akcji przygotowanych z okazji tego wyjątkowego dnia. Światowy Dzień Fizj
- ot | Źródło: https://rabka.pl/kalendarz-wydarzen/
+DTSTAMP:20260914T111054Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Zielony szlak rowerowy i ścieżka spacerowa już wkrótce oficjalnie
+  otwarte. Zaproszenie na Maciejową
+DESCRIPTION:Data: 2026-09-19 | Rowerzyści\, miłośnicy pieszych wędrówek\,
+  rodziny z dziećmi i wszyscy\, którzy lubią aktywnie spędzać czas w góra
+ ch\, już 19 września będą mogli oficjalnie przejść i przejechać nową tra
+ są prowadzącą z Rabki-Zdroju na Maciejową. Tego dnia na Maciejowej odbęd
+ zie się uroczyste otwarcie zielonego szlaku rowerowego i ścieżki spacero
+ wej. Organizatorzy przygotowali również bogaty program wydarzenia – z gó
+ ra | Źródło: https://rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Kultura
+CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-3@rabka-wydarzenia-kalendarz
-DTSTAMP:20260907T105819Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:Spotkanie Koła Polskiego Stowarzyszenia Diabetyków w Rabce-Zdroju
-DESCRIPTION:Data: 2026-09-10 | Polskie Stowarzyszenie Diabetyków - Koło w
-  Rabce-Zdroju zaprasza na otwarte spotkanie poświęcone problematyce cukr
- zycy. Wydarzenie skierowane jest nie tylko do członków stowarzyszenia\, 
- ale również do ich rodzin\, sympatyków oraz wszystkich osób zainteresowa
- nych tematyką choroby i profilaktyki zdrowotnej. Spotkanie odbędzie się 
- w czwartek\, 10 września 2026 roku\, o godz. 15.00 w Urzędzie Miejskim w
-  R | Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Sport
-END:VEVENT
-BEGIN:VEVENT
-UID:auto-4@rabka-wydarzenia-kalendarz
-DTSTAMP:20260907T105819Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:Mini Podhale Tour 2026. Przed nami wyścig w Rabce-Zdroju
-DESCRIPTION:Data: 2026-09-12 | Za nami już cztery etapy Mini Podhale Tour
-  2026 – rodzinnego cyklu zawodów kolarskich\, który od lat przyciąga na 
- start dzieci\, młodzież i dorosłych z całego Podhala. Przed uczestnikami
-  jeszcze dwa wyścigi. Najbliższy już 12 września w Rabce-Zdroju\, a tydz
- ień później\, 19 września\, w Rabie Wyżnej odbędzie się finał tegoroczne
- j rywalizacji. Tegoroczny cykl rozpoczął się 1 maja od Grand Prix Łętown
- i.  | Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Sport
-END:VEVENT
-BEGIN:VEVENT
-UID:auto-5@rabka-wydarzenia-kalendarz
-DTSTAMP:20260907T105819Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:80 lat KS Wierchy Rabka-Zdrój. Osiem dekad sportowej historii mia
- sta
-DESCRIPTION:Data: 2026-09-12 | W 2026 roku Klub Sportowy Wierchy Rabka-Zd
- rój obchodzi jubileusz 80-lecia. To jeden z najważniejszych i najbardzie
- j rozpoznawalnych klubów sportowych w mieście. Przez osiem dekad zmienia
- ły się pokolenia zawodników\, trenerów i działaczy\, ale nie zmieniło si
- ę jedno – Wierchy pozostają ważną częścią historii Rabki-Zdroju. Jubileu
- szowe obchody odbędą się 12 i 13 września 2026 roku na stadionie przy ul
-  | Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Historia i tradycja
-END:VEVENT
-BEGIN:VEVENT
-UID:auto-6@rabka-wydarzenia-kalendarz
-DTSTAMP:20260907T105819Z
+DTSTAMP:20260914T111054Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Visa Back to Bag III - freestyle wraca do Rabki-Zdroju. Dwa dni s
@@ -106,8 +57,8 @@ URL:https://rabka.pl/kalendarz-wydarzen/
 CATEGORIES:Sport
 END:VEVENT
 BEGIN:VEVENT
-UID:auto-7@rabka-wydarzenia-kalendarz
-DTSTAMP:20260907T105819Z
+UID:auto-4@rabka-wydarzenia-kalendarz
+DTSTAMP:20260914T111054Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Didi-Goliada 2026 wraca na stadion w Rabce-Zdroju. Młodzi piłkarz
@@ -123,8 +74,75 @@ URL:https://rabka.pl/kalendarz-wydarzen/
 CATEGORIES:Historia i tradycja
 END:VEVENT
 BEGIN:VEVENT
+UID:auto-5@rabka-wydarzenia-kalendarz
+DTSTAMP:20260914T111054Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Test Coopera w Rabce-Zdroju. 12 minut\, by sprawdzić swoją kondyc
+ ję
+DESCRIPTION:Data: 2026-09-26 | UKS Romer Rabka-Zdrój zaprasza dzieci\, mł
+ odzież i dorosłych do udziału w Teście Coopera. Próba wytrzymałościowa o
+ dbędzie się 26 września na bieżni Stadionu Miejskiego w Rabce-Zdroju. Ud
+ ział w wydarzeniu jest otwarty dla wszystkich chętnych. Zadanie jest pro
+ ste – przez 12 minut uczestnicy będą biec lub maszerować\, starając się 
+ pokonać jak najdłuższy dystans. Uzyskany rezultat pozwoli ocenić wytrzym
+  | Źródło: https://rabka.pl/kalendarz-wydarzen/
+URL:https://rabka.pl/kalendarz-wydarzen/
+CATEGORIES:Sport
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-6@rabka-wydarzenia-kalendarz
+DTSTAMP:20260914T111054Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Lubisz śpiewać? Dołącz do nas! Chór Dziecięcy Rabki-Zdroju zapras
+ za!
+DESCRIPTION:Data: 2026-09-30 | Masz 6\, 8\, 10\, 12\, a może 16 lat? Lubi
+ sz muzykę i śpiew? Chcesz poznać nowych ludzi\, rozwijać swoje zainteres
+ owania\, a może marzysz o występie na scenie? Przyjdź na próbę i przekon
+ aj się\, jak wiele radości może dać wspólne śpiewanie! Chór Dziecięcy Ra
+ bki-Zdroju\, działający przy Centrum Kultury\, Sportu i Promocji w Rabce
+ -Zdroju\, prowadzi nabór nowych członków. Co czeka na Ciebie w chórze? -
+  rozwija | Źródło: https://rabka.pl/kalendarz-wydarzen/
+URL:https://rabka.pl/kalendarz-wydarzen/
+CATEGORIES:Dzieci i rodzina
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-7@rabka-wydarzenia-kalendarz
+DTSTAMP:20260914T111054Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Dołącz do CANTANTES ANGELICUS!
+DESCRIPTION:Data: 2026-09-30 | Masz w sobie muzykę? Lubisz śpiewać? Chces
+ z rozwijać swój głos i tworzyć piękne brzmienie razem z innymi kobietami
+ ? Cantantes Angelicus z Rabki-Zdroju zaprasza nowe osoby\, które chciały
+ by rozpocząć lub kontynuować swoją przygodę ze śpiewem chóralnym. Nie mu
+ sisz być zawodową wokalistką. Liczy się muzyczna wrażliwość\, zaangażowa
+ nie i radość ze wspólnego śpiewania. Co daje nam śpiewanie? ·       rozw
+  | Źródło: https://rabka.pl/kalendarz-wydarzen/
+URL:https://rabka.pl/kalendarz-wydarzen/
+CATEGORIES:Historia i tradycja
+END:VEVENT
+BEGIN:VEVENT
 UID:auto-8@rabka-wydarzenia-kalendarz
-DTSTAMP:20260907T105819Z
+DTSTAMP:20260914T111054Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Rodzinny Redyk w Rabce-Zdroju. Owce\, góralskie tradycje\, muzyka
+  i smaki Podhala
+DESCRIPTION:Data: 2026-10-03 | 3 października 2026 roku na placu targowym
+  w Rabce-Zdroju odbędzie się Rodzinny Redyk – wydarzenie poświęcone past
+ erskim tradycjom Podhala\, kulturze góralskiej i życiu baców oraz juhasó
+ w. Początek obrzędów pasterskich i występów folklorystycznych zaplanowan
+ o na godz. 14.00. Jesienny redyk będzie okazją do zobaczenia jednego z n
+ ajbardziej charakterystycznych obrzędów związanych z pasterstwem – uroc 
+ | Źródło: https://rabka.pl/kalendarz-wydarzen/
+URL:https://rabka.pl/kalendarz-wydarzen/
+CATEGORIES:Historia i tradycja
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-9@rabka-wydarzenia-kalendarz
+DTSTAMP:20260914T111054Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Owce przejdą ulicami Rabki-Zdroju! Jesienny Redyk Rodzinny już 3 
@@ -141,7 +159,7 @@ CATEGORIES:Historia i tradycja
 END:VEVENT
 BEGIN:VEVENT
 UID:cksip-blog-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260907T105819Z
+DTSTAMP:20260914T111054Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Jak przez dziesięciolecia zmieniły się rabczańskie wille\, Park Z
@@ -158,7 +176,7 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:cksip-blog-2@rabka-wydarzenia-kalendarz
-DTSTAMP:20260907T105819Z
+DTSTAMP:20260914T111054Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:Rabczański Amfiteatr w niedzielny wieczór wypełnił się śmiechem.
@@ -173,22 +191,8 @@ URL:https://centrum-kultury.rabka.pl/blog
 CATEGORIES:Rozrywka
 END:VEVENT
 BEGIN:VEVENT
-UID:rabcio-976225@rabka-wydarzenia-kalendarz
-DTSTAMP:20260907T105819Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:Emocje - co to takiego?
-LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-09-16 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
- cio. | Źródło: https://www.bilety24.pl/teatr/1568-emocje-co-to-takiego-1
- 36327?id=976225
-URL:https://www.bilety24.pl/teatr/1568-emocje-co-to-takiego-136327?id=976
- 225
-CATEGORIES:Kultura
-END:VEVENT
-BEGIN:VEVENT
 UID:rabcio-976226@rabka-wydarzenia-kalendarz
-DTSTAMP:20260907T105819Z
+DTSTAMP:20260914T111054Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Emocje - co to takiego?
@@ -202,7 +206,7 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-976227@rabka-wydarzenia-kalendarz
-DTSTAMP:20260907T105819Z
+DTSTAMP:20260914T111054Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
 SUMMARY:Oto Rabcio!
@@ -215,7 +219,7 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-976230@rabka-wydarzenia-kalendarz
-DTSTAMP:20260907T105819Z
+DTSTAMP:20260914T111054Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Oto Rabcio!
@@ -228,7 +232,7 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-976232@rabka-wydarzenia-kalendarz
-DTSTAMP:20260907T105819Z
+DTSTAMP:20260914T111054Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Oto Rabcio!
@@ -241,7 +245,7 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-976235@rabka-wydarzenia-kalendarz
-DTSTAMP:20260907T105819Z
+DTSTAMP:20260914T111054Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Karius i Baktus
@@ -254,7 +258,7 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-976237@rabka-wydarzenia-kalendarz
-DTSTAMP:20260907T105819Z
+DTSTAMP:20260914T111054Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Karius i Baktus
@@ -267,7 +271,7 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-976461@rabka-wydarzenia-kalendarz
-DTSTAMP:20260907T105819Z
+DTSTAMP:20260914T111054Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Emocje - co to takiego?
@@ -280,8 +284,21 @@ URL:https://www.bilety24.pl/teatr/1568-emocje-co-to-takiego-136327?id=976
 CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
+UID:rabcio-986014@rabka-wydarzenia-kalendarz
+DTSTAMP:20260914T111054Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Trzy świnki
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-10-07 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-trzy-swinki-128466?id=
+ 986014
+URL:https://www.bilety24.pl/teatr/1568-trzy-swinki-128466?id=986014
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
 UID:manual-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260907T105819Z
+DTSTAMP:20260914T111054Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Przykładowe wydarzenie Fundacji (usuń lub edytuj)

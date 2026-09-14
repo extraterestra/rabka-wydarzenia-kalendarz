@@ -1,64 +1,31 @@
 {
   "source": "https://rabka.pl/kalendarz-wydarzen/",
-  "last_updated": "2026-09-07",
+  "last_updated": "2026-09-14",
   "events": [
     {
       "id": "auto-1",
-      "title": "Narodowe Czytanie 2026 w Rabce-Zdroju. „Dziady” Adama Mickiewicza zabrzmią w Filii PBW",
-      "category": "historia",
-      "start": "2026-09-07",
-      "end": "2026-09-07",
+      "title": "87. rocznica wybuchu II wojny światowej. Rabka-Zdrój uczci pamięć ofiar",
+      "category": "samorzad",
+      "start": "2026-09-17",
+      "end": "2026-09-17",
       "time": "",
       "location": "",
       "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "Już 7 września w Rabce-Zdroju odbędzie się tegoroczna odsłona Narodowego Czytania. Tym razem uczestnicy spotkania sięgną po jedno z najważniejszych dzieł polskiego romantyzmu – „Dziady” Adama Mickiewicza. Organizatorzy przygotowali nie tylko wspólne czytanie fragmentów dramatu, ale również quiz wiedzy o wieszczu z nagrodami. Do udziału w wydarzeniu zapraszają Pedagogiczna Biblioteka Wojewódzka w N"
+      "desc": "17 września w Rabce-Zdroju odbędą się uroczystości upamiętniające ofiary II wojny światowej oraz wszystkich, którzy walczyli w obronie Ojczyzny. Tegoroczne obchody będą również okazją do przypomnienia tragicznych wydarzeń września 1939 roku i losu mieszkańców Polski dotkniętych wojną. Uroczystości organizują Burmistrz Rabki-Zdroju, Rzymskokatolicka Parafia św. Marii Magdaleny w Rabce-Zdroju oraz S"
     },
     {
       "id": "auto-2",
-      "title": "Bezpłatne zabiegi, porady i zajęcia. Uzdrowisko Rabka zaprasza na Światowy Dzień Fizjoterapii",
-      "category": "kultura",
-      "start": "2026-09-08",
-      "end": "2026-09-08",
+      "title": "Zielony szlak rowerowy i ścieżka spacerowa już wkrótce oficjalnie otwarte. Zaproszenie na Maciejową",
+      "category": "sport",
+      "start": "2026-09-19",
+      "end": "2026-09-19",
       "time": "",
       "location": "",
       "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "8 września 2026 roku Uzdrowisko Rabka S.A. zaprasza mieszkańców, kuracjuszy i turystów na wspólne obchody Światowego Dnia Fizjoterapii. W godzinach od 10.00 do 15.00 w czterech obiektach Uzdrowiska będzie można skorzystać z bezpłatnych porad specjalistów, inhalacji solankowych, ćwiczeń, zajęć profilaktycznych oraz innych atrakcji przygotowanych z okazji tego wyjątkowego dnia. Światowy Dzień Fizjot"
+      "desc": "Rowerzyści, miłośnicy pieszych wędrówek, rodziny z dziećmi i wszyscy, którzy lubią aktywnie spędzać czas w górach, już 19 września będą mogli oficjalnie przejść i przejechać nową trasą prowadzącą z Rabki-Zdroju na Maciejową. Tego dnia na Maciejowej odbędzie się uroczyste otwarcie zielonego szlaku rowerowego i ścieżki spacerowej. Organizatorzy przygotowali również bogaty program wydarzenia – z góra"
     },
     {
       "id": "auto-3",
-      "title": "Spotkanie Koła Polskiego Stowarzyszenia Diabetyków w Rabce-Zdroju",
-      "category": "sport",
-      "start": "2026-09-10",
-      "end": "2026-09-10",
-      "time": "",
-      "location": "",
-      "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "Polskie Stowarzyszenie Diabetyków - Koło w Rabce-Zdroju zaprasza na otwarte spotkanie poświęcone problematyce cukrzycy. Wydarzenie skierowane jest nie tylko do członków stowarzyszenia, ale również do ich rodzin, sympatyków oraz wszystkich osób zainteresowanych tematyką choroby i profilaktyki zdrowotnej. Spotkanie odbędzie się w czwartek, 10 września 2026 roku, o godz. 15.00 w Urzędzie Miejskim w R"
-    },
-    {
-      "id": "auto-4",
-      "title": "Mini Podhale Tour 2026. Przed nami wyścig w Rabce-Zdroju",
-      "category": "sport",
-      "start": "2026-09-12",
-      "end": "2026-09-12",
-      "time": "",
-      "location": "",
-      "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "Za nami już cztery etapy Mini Podhale Tour 2026 – rodzinnego cyklu zawodów kolarskich, który od lat przyciąga na start dzieci, młodzież i dorosłych z całego Podhala. Przed uczestnikami jeszcze dwa wyścigi. Najbliższy już 12 września w Rabce-Zdroju, a tydzień później, 19 września, w Rabie Wyżnej odbędzie się finał tegorocznej rywalizacji. Tegoroczny cykl rozpoczął się 1 maja od Grand Prix Łętowni. "
-    },
-    {
-      "id": "auto-5",
-      "title": "80 lat KS Wierchy Rabka-Zdrój. Osiem dekad sportowej historii miasta",
-      "category": "historia",
-      "start": "2026-09-12",
-      "end": "2026-09-12",
-      "time": "",
-      "location": "",
-      "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "W 2026 roku Klub Sportowy Wierchy Rabka-Zdrój obchodzi jubileusz 80-lecia. To jeden z najważniejszych i najbardziej rozpoznawalnych klubów sportowych w mieście. Przez osiem dekad zmieniały się pokolenia zawodników, trenerów i działaczy, ale nie zmieniło się jedno – Wierchy pozostają ważną częścią historii Rabki-Zdroju. Jubileuszowe obchody odbędą się 12 i 13 września 2026 roku na stadionie przy ul"
-    },
-    {
-      "id": "auto-6",
       "title": "Visa Back to Bag III - freestyle wraca do Rabki-Zdroju. Dwa dni sportowych emocji na Polczakówce",
       "category": "sport",
       "start": "2026-09-19",
@@ -69,7 +36,7 @@
       "desc": "19 i 20 września Rabka-Zdrój ponownie stanie się miejscem spotkania miłośników snowboardu, deskorolki i szeroko rozumianego freestyle’u. Wszystko za sprawą trzeciej edycji Visa Back to Bag – Freestyle Festival, który odbędzie się w Rababanag Parku na Polczakówce w Zarytem, na terenie dawnego stoku narciarskiego, gdzie przed laty funkcjonował wyciąg. To właśnie w tym miejscu powstał obiekt, który d"
     },
     {
-      "id": "auto-7",
+      "id": "auto-4",
       "title": "Didi-Goliada 2026 wraca na stadion w Rabce-Zdroju. Młodzi piłkarze zagrają ku pamięci Łukasza Miśkowca",
       "category": "historia",
       "start": "2026-09-19",
@@ -80,7 +47,51 @@
       "desc": "19 i 20 września na Stadionie Miejskim w Rabce-Zdroju odbędzie się kolejna edycja Didi-Goliady im. Łukasza Miśkowca. Przez dwa dni młodzi piłkarze będą rywalizować w pięciu kategoriach wiekowych. Organizatorzy zapowiadają sportowe emocje, dobrą zabawę i kolejną okazję do spotkania młodych adeptów futbolu z Rabki-Zdroju i okolic. Didi-Goliada na stałe wpisała się już w sportowy kalendarz Rabki-Zdro"
     },
     {
+      "id": "auto-5",
+      "title": "Test Coopera w Rabce-Zdroju. 12 minut, by sprawdzić swoją kondycję",
+      "category": "sport",
+      "start": "2026-09-26",
+      "end": "2026-09-26",
+      "time": "",
+      "location": "",
+      "url": "https://rabka.pl/kalendarz-wydarzen/",
+      "desc": "UKS Romer Rabka-Zdrój zaprasza dzieci, młodzież i dorosłych do udziału w Teście Coopera. Próba wytrzymałościowa odbędzie się 26 września na bieżni Stadionu Miejskiego w Rabce-Zdroju. Udział w wydarzeniu jest otwarty dla wszystkich chętnych. Zadanie jest proste – przez 12 minut uczestnicy będą biec lub maszerować, starając się pokonać jak najdłuższy dystans. Uzyskany rezultat pozwoli ocenić wytrzym"
+    },
+    {
+      "id": "auto-6",
+      "title": "Lubisz śpiewać? Dołącz do nas! Chór Dziecięcy Rabki-Zdroju zaprasza!",
+      "category": "dzieci",
+      "start": "2026-09-30",
+      "end": "2026-09-30",
+      "time": "",
+      "location": "",
+      "url": "https://rabka.pl/kalendarz-wydarzen/",
+      "desc": "Masz 6, 8, 10, 12, a może 16 lat? Lubisz muzykę i śpiew? Chcesz poznać nowych ludzi, rozwijać swoje zainteresowania, a może marzysz o występie na scenie? Przyjdź na próbę i przekonaj się, jak wiele radości może dać wspólne śpiewanie! Chór Dziecięcy Rabki-Zdroju, działający przy Centrum Kultury, Sportu i Promocji w Rabce-Zdroju, prowadzi nabór nowych członków. Co czeka na Ciebie w chórze? - rozwija"
+    },
+    {
+      "id": "auto-7",
+      "title": "Dołącz do CANTANTES ANGELICUS!",
+      "category": "historia",
+      "start": "2026-09-30",
+      "end": "2026-09-30",
+      "time": "",
+      "location": "",
+      "url": "https://rabka.pl/kalendarz-wydarzen/",
+      "desc": "Masz w sobie muzykę? Lubisz śpiewać? Chcesz rozwijać swój głos i tworzyć piękne brzmienie razem z innymi kobietami? Cantantes Angelicus z Rabki-Zdroju zaprasza nowe osoby, które chciałyby rozpocząć lub kontynuować swoją przygodę ze śpiewem chóralnym. Nie musisz być zawodową wokalistką. Liczy się muzyczna wrażliwość, zaangażowanie i radość ze wspólnego śpiewania. Co daje nam śpiewanie? ·       rozw"
+    },
+    {
       "id": "auto-8",
+      "title": "Rodzinny Redyk w Rabce-Zdroju. Owce, góralskie tradycje, muzyka i smaki Podhala",
+      "category": "historia",
+      "start": "2026-10-03",
+      "end": "2026-10-03",
+      "time": "",
+      "location": "",
+      "url": "https://rabka.pl/kalendarz-wydarzen/",
+      "desc": "3 października 2026 roku na placu targowym w Rabce-Zdroju odbędzie się Rodzinny Redyk – wydarzenie poświęcone pasterskim tradycjom Podhala, kulturze góralskiej i życiu baców oraz juhasów. Początek obrzędów pasterskich i występów folklorystycznych zaplanowano na godz. 14.00. Jesienny redyk będzie okazją do zobaczenia jednego z najbardziej charakterystycznych obrzędów związanych z pasterstwem – uroc"
+    },
+    {
+      "id": "auto-9",
       "title": "Owce przejdą ulicami Rabki-Zdroju! Jesienny Redyk Rodzinny już 3 października",
       "category": "historia",
       "start": "2026-10-03",
