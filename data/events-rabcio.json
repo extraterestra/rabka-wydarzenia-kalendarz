@@ -2,41 +2,8 @@
   "source": "https://teatr.rabcio.pl/repertuar-2025/",
   "ticket_source": "https://www.bilety24.pl/organizator/teatr-lalek-rabcio-1568.html",
   "theatre": "https://teatr.rabcio.pl/",
-  "last_updated": "2026-09-14",
+  "last_updated": "2026-09-21",
   "events": [
-    {
-      "id": "rabcio-976226",
-      "title": "Emocje - co to takiego?",
-      "category": "kultura",
-      "start": "2026-09-17",
-      "end": "2026-09-17",
-      "time": "10:15",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-emocje-co-to-takiego-136327?id=976226",
-      "desc": "Spektakl Teatru Lalek Rabcio."
-    },
-    {
-      "id": "rabcio-976227",
-      "title": "Oto Rabcio!",
-      "category": "kultura",
-      "start": "2026-09-19",
-      "end": "2026-09-19",
-      "time": "11:00",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-oto-rabcio--120395?id=976227",
-      "desc": "Spektakl Teatru Lalek Rabcio."
-    },
-    {
-      "id": "rabcio-976230",
-      "title": "Oto Rabcio!",
-      "category": "kultura",
-      "start": "2026-09-21",
-      "end": "2026-09-21",
-      "time": "10:30",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-oto-rabcio--120395?id=976230",
-      "desc": "Spektakl Teatru Lalek Rabcio."
-    },
     {
       "id": "rabcio-976232",
       "title": "Oto Rabcio!",
@@ -82,14 +49,47 @@
       "desc": "Spektakl Teatru Lalek Rabcio."
     },
     {
-      "id": "rabcio-986014",
-      "title": "Trzy świnki",
+      "id": "rabcio-989292",
+      "title": "Luna",
       "category": "kultura",
       "start": "2026-10-07",
       "end": "2026-10-07",
       "time": "10:15",
       "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-trzy-swinki-128466?id=986014",
+      "url": "https://www.bilety24.pl/teatr/1568-luna-120392?id=989292",
+      "desc": "Spektakl Teatru Lalek Rabcio."
+    },
+    {
+      "id": "rabcio-986024",
+      "title": "Luna",
+      "category": "kultura",
+      "start": "2026-10-08",
+      "end": "2026-10-08",
+      "time": "10:15",
+      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
+      "url": "https://www.bilety24.pl/teatr/1568-luna-120392?id=986024",
+      "desc": "Spektakl Teatru Lalek Rabcio."
+    },
+    {
+      "id": "rabcio-976438",
+      "title": "Pinokio",
+      "category": "dzieci",
+      "start": "2026-10-13",
+      "end": "2026-10-13",
+      "time": "10:15",
+      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
+      "url": "https://www.bilety24.pl/teatr/1568-pinokio-152738?id=976438",
+      "desc": "Spektakl Teatru Lalek Rabcio."
+    },
+    {
+      "id": "rabcio-976439",
+      "title": "Pinokio",
+      "category": "dzieci",
+      "start": "2026-10-14",
+      "end": "2026-10-14",
+      "time": "10:15",
+      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
+      "url": "https://www.bilety24.pl/teatr/1568-pinokio-152738?id=976439",
       "desc": "Spektakl Teatru Lalek Rabcio."
     }
   ]
