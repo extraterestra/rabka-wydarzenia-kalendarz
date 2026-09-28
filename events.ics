@@ -7,58 +7,7 @@ X-WR-CALNAME:Kalendarz Wydarzeń — Rabka-Zdrój
 X-WR-TIMEZONE:Europe/Warsaw
 BEGIN:VEVENT
 UID:auto-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260921T112127Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:Lidia Czyż w Rabce-Zdroju. Spotkanie z autorką książki „Utkana z 
- porannej mgły”
-DESCRIPTION:Data: 2026-09-25 | 25 września w Galerii „Pod Aniołem” w Rabc
- e-Zdroju odbędzie się spotkanie z pisarką Lidią Czyż\, autorką książki „
- Utkana z porannej mgły”. Będzie to okazja do rozmowy o literaturze\, wie
- rze\, nadziei\, codzienności oraz sile słowa\, które – jak podkreślają o
- rganizatorzy – może pomagać żyć. Lidia Czyż spotka się z rabczańską publ
- icznością w piątek\, 25 września 2026 roku o godz. 17.30. Wydarzenie odb
- ędzi | Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Kultura
-END:VEVENT
-BEGIN:VEVENT
-UID:auto-2@rabka-wydarzenia-kalendarz
-DTSTAMP:20260921T112127Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:Test Coopera w Rabce-Zdroju. 12 minut\, by sprawdzić swoją kondyc
- ję
-DESCRIPTION:Data: 2026-09-26 | UKS Romer Rabka-Zdrój zaprasza dzieci\, mł
- odzież i dorosłych do udziału w Teście Coopera. Próba wytrzymałościowa o
- dbędzie się 26 września na bieżni Stadionu Miejskiego w Rabce-Zdroju. Ud
- ział w wydarzeniu jest otwarty dla wszystkich chętnych. Zadanie jest pro
- ste – przez 12 minut uczestnicy będą biec lub maszerować\, starając się 
- pokonać jak najdłuższy dystans. Uzyskany rezultat pozwoli ocenić wytrzym
-  | Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Samorząd
-END:VEVENT
-BEGIN:VEVENT
-UID:auto-3@rabka-wydarzenia-kalendarz
-DTSTAMP:20260921T112127Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:Rodzinny Piknik Zdrowia przy Szpitalu Miejskim w Rabce-Zdroju. Ko
- ncerty\, bezpłatne konsultacje i atrakcje dla dzieci
-DESCRIPTION:Data: 2026-09-27 | W niedzielę\, 27 września\, teren przy Szp
- italu Miejskim w Rabce-Zdroju zamieni się w miejsce rodzinnego spotkania
-  poświęconego zdrowiu\, profilaktyce i dobrej zabawie. O godz. 14.00 roz
- pocznie się Rodzinny Piknik Zdrowia\, podczas którego przygotowano bezpł
- atne konsultacje\, strefę zdrowia\, atrakcje dla najmłodszych oraz wystę
- py artystyczne. Finałem wydarzenia będzie koncert zespołu Czysty Przypad
- ek.  | Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Samorząd
-END:VEVENT
-BEGIN:VEVENT
-UID:auto-4@rabka-wydarzenia-kalendarz
-DTSTAMP:20260921T112127Z
+DTSTAMP:20260928T121648Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Lubisz śpiewać? Dołącz do nas! Chór Dziecięcy Rabki-Zdroju zapras
@@ -74,8 +23,8 @@ URL:https://rabka.pl/kalendarz-wydarzen/
 CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
-UID:auto-5@rabka-wydarzenia-kalendarz
-DTSTAMP:20260921T112127Z
+UID:auto-2@rabka-wydarzenia-kalendarz
+DTSTAMP:20260928T121648Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Dołącz do CANTANTES ANGELICUS!
@@ -87,11 +36,44 @@ DESCRIPTION:Data: 2026-09-30 | Masz w sobie muzykę? Lubisz śpiewać? Chces
  nie i radość ze wspólnego śpiewania. Co daje nam śpiewanie? ·       rozw
   | Źródło: https://rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
+CATEGORIES:Samorząd
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-3@rabka-wydarzenia-kalendarz
+DTSTAMP:20260928T121648Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:XXXIV Sesja Rady Miejskiej w Rabce-Zdroju
+DESCRIPTION:Data: 2026-09-30 | Przewodniczący Rady Miejskiej w Rabce - Zd
+ roju informuje\, że 30.09.2026 r. (środa) o godz. 16:00 w Urzędzie Miejs
+ kim w Rabce-Zdroju przy ul. Parkowej 2 (sala obrad) odbędzie się XXXIV S
+ esja Rady Miejskiej w Rabce-Zdroju. PORZĄDEK OBRAD XXXIV sesji Rady Miej
+ skiej – 30.09.2026 r. 1. Otwarcie XXXIV Sesji IX Kadencji Rady Miejskiej
+  w Rabce-Zdroju. 2. Sprawozdanie Burmistrza Rabki – Zdroju z działalnoś 
+ | Źródło: https://rabka.pl/kalendarz-wydarzen/
+URL:https://rabka.pl/kalendarz-wydarzen/
+CATEGORIES:Samorząd
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-4@rabka-wydarzenia-kalendarz
+DTSTAMP:20260928T121648Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:„Historia szkoły” na jubileusz 100-lecia. Spotkanie z autorami pu
+ blikacji
+DESCRIPTION:Data: 2026-10-02 | Sto lat działalności szkoły to tysiące ucz
+ niów i absolwentów\, kolejne pokolenia nauczycieli\, zmieniające się bud
+ ynki\, programy nauczania i realia\, ale przede wszystkim ogromna część 
+ historii Rabki-Zdroju. Z okazji jubileuszu II Liceum Ogólnokształcącego 
+ i Technikum Informatycznego im. ks. prof. Józefa Tischnera powstała publ
+ ikacja „Historia szkoły”. Jej promocja odbędzie się 2 października w Wil
+ li | Źródło: https://rabka.pl/kalendarz-wydarzen/
+URL:https://rabka.pl/kalendarz-wydarzen/
 CATEGORIES:Historia i tradycja
 END:VEVENT
 BEGIN:VEVENT
-UID:auto-6@rabka-wydarzenia-kalendarz
-DTSTAMP:20260921T112127Z
+UID:auto-5@rabka-wydarzenia-kalendarz
+DTSTAMP:20260928T121648Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Rodzinny Redyk w Rabce-Zdroju. Owce\, góralskie tradycje\, muzyka
@@ -107,8 +89,8 @@ URL:https://rabka.pl/kalendarz-wydarzen/
 CATEGORIES:Historia i tradycja
 END:VEVENT
 BEGIN:VEVENT
-UID:auto-7@rabka-wydarzenia-kalendarz
-DTSTAMP:20260921T112127Z
+UID:auto-6@rabka-wydarzenia-kalendarz
+DTSTAMP:20260928T121648Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Owce przejdą ulicami Rabki-Zdroju! Jesienny Redyk Rodzinny już 3 
@@ -124,8 +106,24 @@ URL:https://rabka.pl/kalendarz-wydarzen/
 CATEGORIES:Historia i tradycja
 END:VEVENT
 BEGIN:VEVENT
+UID:auto-7@rabka-wydarzenia-kalendarz
+DTSTAMP:20260928T121648Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Rabczański Redyk – tradycja\, muzyka i góralska energia!
+DESCRIPTION:Data: 2026-10-03 | 3 października 2026 roku Rabka-Zdrój wypeł
+ ni się góralską muzyką\, regionalnymi smakami i pasterską tradycją. Rabc
+ zański Redyk będzie nie tylko widowiskowym zejściem stad owiec\, ale prz
+ ede wszystkim rodzinnym świętem pełnym muzyki\, tańca\, rękodzieła\, war
+ sztatów i atrakcji nawiązujących do kultury Podhala. Jednym z najważniej
+ szych punktów wydarzenia będzie przemarsz dwóch stad owiec ulicami Rabki
+ -Zd | Źródło: https://rabka.pl/kalendarz-wydarzen/
+URL:https://rabka.pl/kalendarz-wydarzen/
+CATEGORIES:Historia i tradycja
+END:VEVENT
+BEGIN:VEVENT
 UID:auto-8@rabka-wydarzenia-kalendarz
-DTSTAMP:20260921T112127Z
+DTSTAMP:20260928T121648Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:„Zadbaj o siebie dla lepszego jutra dzieci”. Konferencja dla rodz
@@ -142,7 +140,7 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:cksip-blog-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260921T112127Z
+DTSTAMP:20260928T121648Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Jak przez dziesięciolecia zmieniły się rabczańskie wille\, Park Z
@@ -159,7 +157,7 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:cksip-blog-2@rabka-wydarzenia-kalendarz
-DTSTAMP:20260921T112127Z
+DTSTAMP:20260928T121648Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:Rabczański Amfiteatr w niedzielny wieczór wypełnił się śmiechem.
@@ -174,47 +172,8 @@ URL:https://centrum-kultury.rabka.pl/blog
 CATEGORIES:Rozrywka
 END:VEVENT
 BEGIN:VEVENT
-UID:rabcio-976232@rabka-wydarzenia-kalendarz
-DTSTAMP:20260921T112127Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:Oto Rabcio!
-LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-09-22 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
- cio. | Źródło: https://www.bilety24.pl/teatr/1568-oto-rabcio--120395?id=
- 976232
-URL:https://www.bilety24.pl/teatr/1568-oto-rabcio--120395?id=976232
-CATEGORIES:Kultura
-END:VEVENT
-BEGIN:VEVENT
-UID:rabcio-976235@rabka-wydarzenia-kalendarz
-DTSTAMP:20260921T112127Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:Karius i Baktus
-LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-09-23 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
- cio. | Źródło: https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624
- ?id=976235
-URL:https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624?id=976235
-CATEGORIES:Kultura
-END:VEVENT
-BEGIN:VEVENT
-UID:rabcio-976237@rabka-wydarzenia-kalendarz
-DTSTAMP:20260921T112127Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:Karius i Baktus
-LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-09-24 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
- cio. | Źródło: https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624
- ?id=976237
-URL:https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624?id=976237
-CATEGORIES:Kultura
-END:VEVENT
-BEGIN:VEVENT
 UID:rabcio-976461@rabka-wydarzenia-kalendarz
-DTSTAMP:20260921T112127Z
+DTSTAMP:20260928T121648Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Emocje - co to takiego?
@@ -228,7 +187,7 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-989292@rabka-wydarzenia-kalendarz
-DTSTAMP:20260921T112127Z
+DTSTAMP:20260928T121648Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Luna
@@ -240,7 +199,7 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-986024@rabka-wydarzenia-kalendarz
-DTSTAMP:20260921T112127Z
+DTSTAMP:20260928T121648Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Luna
@@ -252,12 +211,12 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-976438@rabka-wydarzenia-kalendarz
-DTSTAMP:20260921T112127Z
+DTSTAMP:20260928T121648Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Pinokio
 LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-10-13 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
+DESCRIPTION:Data: 2026-10-13 | Godzina: 09:00 | Spektakl Teatru Lalek Rab
  cio. | Źródło: https://www.bilety24.pl/teatr/1568-pinokio-152738?id=9764
  38
 URL:https://www.bilety24.pl/teatr/1568-pinokio-152738?id=976438
@@ -265,7 +224,7 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-976439@rabka-wydarzenia-kalendarz
-DTSTAMP:20260921T112127Z
+DTSTAMP:20260928T121648Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Pinokio
@@ -277,8 +236,48 @@ URL:https://www.bilety24.pl/teatr/1568-pinokio-152738?id=976439
 CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
+UID:rabcio-976440@rabka-wydarzenia-kalendarz
+DTSTAMP:20260928T121648Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Karius i Baktus
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-10-15 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624
+ ?id=976440
+URL:https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624?id=976440
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-976441@rabka-wydarzenia-kalendarz
+DTSTAMP:20260928T121648Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Karius i Baktus
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-10-16 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624
+ ?id=976441
+URL:https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624?id=976441
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-982732@rabka-wydarzenia-kalendarz
+DTSTAMP:20260928T121648Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:PREMIERA: Alicja w Krainie Czarów
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-10-24 | Godzina: 16:00 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-premiera-alicja-w-krai
+ nie-czarow-163744?id=982732
+URL:https://www.bilety24.pl/teatr/1568-premiera-alicja-w-krainie-czarow-1
+ 63744?id=982732
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
 UID:manual-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260921T112127Z
+DTSTAMP:20260928T121648Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Przykładowe wydarzenie Fundacji (usuń lub edytuj)

@@ -2,41 +2,8 @@
   "source": "https://teatr.rabcio.pl/repertuar-2025/",
   "ticket_source": "https://www.bilety24.pl/organizator/teatr-lalek-rabcio-1568.html",
   "theatre": "https://teatr.rabcio.pl/",
-  "last_updated": "2026-09-21",
+  "last_updated": "2026-09-28",
   "events": [
-    {
-      "id": "rabcio-976232",
-      "title": "Oto Rabcio!",
-      "category": "kultura",
-      "start": "2026-09-22",
-      "end": "2026-09-22",
-      "time": "10:15",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-oto-rabcio--120395?id=976232",
-      "desc": "Spektakl Teatru Lalek Rabcio."
-    },
-    {
-      "id": "rabcio-976235",
-      "title": "Karius i Baktus",
-      "category": "kultura",
-      "start": "2026-09-23",
-      "end": "2026-09-23",
-      "time": "10:15",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624?id=976235",
-      "desc": "Spektakl Teatru Lalek Rabcio."
-    },
-    {
-      "id": "rabcio-976237",
-      "title": "Karius i Baktus",
-      "category": "kultura",
-      "start": "2026-09-24",
-      "end": "2026-09-24",
-      "time": "10:15",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624?id=976237",
-      "desc": "Spektakl Teatru Lalek Rabcio."
-    },
     {
       "id": "rabcio-976461",
       "title": "Emocje - co to takiego?",
@@ -76,7 +43,7 @@
       "category": "dzieci",
       "start": "2026-10-13",
       "end": "2026-10-13",
-      "time": "10:15",
+      "time": "09:00",
       "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
       "url": "https://www.bilety24.pl/teatr/1568-pinokio-152738?id=976438",
       "desc": "Spektakl Teatru Lalek Rabcio."
@@ -90,6 +57,39 @@
       "time": "10:15",
       "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
       "url": "https://www.bilety24.pl/teatr/1568-pinokio-152738?id=976439",
+      "desc": "Spektakl Teatru Lalek Rabcio."
+    },
+    {
+      "id": "rabcio-976440",
+      "title": "Karius i Baktus",
+      "category": "kultura",
+      "start": "2026-10-15",
+      "end": "2026-10-15",
+      "time": "10:15",
+      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
+      "url": "https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624?id=976440",
+      "desc": "Spektakl Teatru Lalek Rabcio."
+    },
+    {
+      "id": "rabcio-976441",
+      "title": "Karius i Baktus",
+      "category": "kultura",
+      "start": "2026-10-16",
+      "end": "2026-10-16",
+      "time": "10:15",
+      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
+      "url": "https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624?id=976441",
+      "desc": "Spektakl Teatru Lalek Rabcio."
+    },
+    {
+      "id": "rabcio-982732",
+      "title": "PREMIERA: Alicja w Krainie Czarów",
+      "category": "kultura",
+      "start": "2026-10-24",
+      "end": "2026-10-24",
+      "time": "16:00",
+      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
+      "url": "https://www.bilety24.pl/teatr/1568-premiera-alicja-w-krainie-czarow-163744?id=982732",
       "desc": "Spektakl Teatru Lalek Rabcio."
     }
   ]
