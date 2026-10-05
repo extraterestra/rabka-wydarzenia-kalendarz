@@ -2,7 +2,7 @@
   "source": "https://teatr.rabcio.pl/repertuar-2025/",
   "ticket_source": "https://www.bilety24.pl/organizator/teatr-lalek-rabcio-1568.html",
   "theatre": "https://teatr.rabcio.pl/",
-  "last_updated": "2026-09-28",
+  "last_updated": "2026-10-05",
   "events": [
     {
       "id": "rabcio-976461",
@@ -60,14 +60,14 @@
       "desc": "Spektakl Teatru Lalek Rabcio."
     },
     {
-      "id": "rabcio-976440",
-      "title": "Karius i Baktus",
+      "id": "rabcio-999434",
+      "title": "Luna",
       "category": "kultura",
       "start": "2026-10-15",
       "end": "2026-10-15",
       "time": "10:15",
       "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624?id=976440",
+      "url": "https://www.bilety24.pl/teatr/1568-luna-120392?id=999434",
       "desc": "Spektakl Teatru Lalek Rabcio."
     },
     {

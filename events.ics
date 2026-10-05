@@ -7,123 +7,58 @@ X-WR-CALNAME:Kalendarz Wydarzeń — Rabka-Zdrój
 X-WR-TIMEZONE:Europe/Warsaw
 BEGIN:VEVENT
 UID:auto-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260928T121648Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Lubisz śpiewać? Dołącz do nas! Chór Dziecięcy Rabki-Zdroju zapras
- za!
-DESCRIPTION:Data: 2026-09-30 | Masz 6\, 8\, 10\, 12\, a może 16 lat? Lubi
- sz muzykę i śpiew? Chcesz poznać nowych ludzi\, rozwijać swoje zainteres
- owania\, a może marzysz o występie na scenie? Przyjdź na próbę i przekon
- aj się\, jak wiele radości może dać wspólne śpiewanie! Chór Dziecięcy Ra
- bki-Zdroju\, działający przy Centrum Kultury\, Sportu i Promocji w Rabce
- -Zdroju\, prowadzi nabór nowych członków. Co czeka na Ciebie w chórze? -
-  rozwija | Źródło: https://rabka.pl/kalendarz-wydarzen/
+DTSTAMP:20261005T125627Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Październik w Teatrze Lalek „Rabcio”. Premiera „Alicja w Krainie 
+ Czarów” i bogaty repertuar
+DESCRIPTION:Data: 2026-10-06 | Teatr Lalek „Rabcio” w Rabce-Zdroju zapras
+ za w październiku na kolejne spotkania ze sztuką. W repertuarze znalazły
+  się dobrze znane najmłodszym widzom przedstawienia\, a najważniejszym w
+ ydarzeniem miesiąca będzie premiera spektaklu „Alicja w Krainie Czarów”\
+ , zaplanowana na 24 października. Październikowy repertuar rozpocznie 6 
+ października o godz. 10.15 spektakl „Emocje – co to takiego?”. Dzień póź
+  | Źródło: https://rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
 CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-2@rabka-wydarzenia-kalendarz
-DTSTAMP:20260928T121648Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Dołącz do CANTANTES ANGELICUS!
-DESCRIPTION:Data: 2026-09-30 | Masz w sobie muzykę? Lubisz śpiewać? Chces
- z rozwijać swój głos i tworzyć piękne brzmienie razem z innymi kobietami
- ? Cantantes Angelicus z Rabki-Zdroju zaprasza nowe osoby\, które chciały
- by rozpocząć lub kontynuować swoją przygodę ze śpiewem chóralnym. Nie mu
- sisz być zawodową wokalistką. Liczy się muzyczna wrażliwość\, zaangażowa
- nie i radość ze wspólnego śpiewania. Co daje nam śpiewanie? ·       rozw
+DTSTAMP:20261005T125627Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Niezwykłe spotkanie w Rabce-Zdroju: Dwukrotna mistrzyni paraolimp
+ ijska Katarzyna Rogowiec gościem Miejskiej Biblioteki Publicznej
+DESCRIPTION:Data: 2026-10-08 | Miejska Biblioteka Publiczna w Rabce-Zdroj
+ u ma zaszczyt zaprosić wszystkich na wyjątkowe spotkanie autorskie i mot
+ ywacyjne z Katarzyną Rogowiec. Wydarzenie to odbędzie się już 8 paździer
+ nika o godzinie 10:00 w siedzibie biblioteki. Katarzyna Rogowiec to post
+ ać absolutnie niezwykła – wybitna sportsmenka\, rodowita rabczanka\, dwu
+ krotna mistrzyni paraolimpijska z Turynu (2006) oraz wielokrotna medalis
   | Źródło: https://rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Samorząd
+CATEGORIES:Historia i tradycja
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-3@rabka-wydarzenia-kalendarz
-DTSTAMP:20260928T121648Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:XXXIV Sesja Rady Miejskiej w Rabce-Zdroju
-DESCRIPTION:Data: 2026-09-30 | Przewodniczący Rady Miejskiej w Rabce - Zd
- roju informuje\, że 30.09.2026 r. (środa) o godz. 16:00 w Urzędzie Miejs
- kim w Rabce-Zdroju przy ul. Parkowej 2 (sala obrad) odbędzie się XXXIV S
- esja Rady Miejskiej w Rabce-Zdroju. PORZĄDEK OBRAD XXXIV sesji Rady Miej
- skiej – 30.09.2026 r. 1. Otwarcie XXXIV Sesji IX Kadencji Rady Miejskiej
-  w Rabce-Zdroju. 2. Sprawozdanie Burmistrza Rabki – Zdroju z działalnoś 
- | Źródło: https://rabka.pl/kalendarz-wydarzen/
+DTSTAMP:20261005T125627Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Sto lat historii rabczańskiej szkoły. Wielki jubileusz II LO i Te
+ chnikum Informatycznego
+DESCRIPTION:Data: 2026-10-09 | Jedna z ważnych rabczańskich placówek oświ
+ atowych świętuje wyjątkowy jubileusz. 9 października 2026 roku odbędą si
+ ę uroczyste obchody 100-lecia szkoły\, której tradycje kontynuują dziś I
+ I Liceum Ogólnokształcące i Technikum Informatyczne im. ks. prof. Józefa
+  Tischnera w Rabce-Zdroju. Organizatorzy zapraszają absolwentów\, emeryt
+ owanych nauczycieli\, byłych pracowników oraz wszystkich sympatyków szko
+ ł | Źródło: https://rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Samorząd
+CATEGORIES:Historia i tradycja
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-4@rabka-wydarzenia-kalendarz
-DTSTAMP:20260928T121648Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:„Historia szkoły” na jubileusz 100-lecia. Spotkanie z autorami pu
- blikacji
-DESCRIPTION:Data: 2026-10-02 | Sto lat działalności szkoły to tysiące ucz
- niów i absolwentów\, kolejne pokolenia nauczycieli\, zmieniające się bud
- ynki\, programy nauczania i realia\, ale przede wszystkim ogromna część 
- historii Rabki-Zdroju. Z okazji jubileuszu II Liceum Ogólnokształcącego 
- i Technikum Informatycznego im. ks. prof. Józefa Tischnera powstała publ
- ikacja „Historia szkoły”. Jej promocja odbędzie się 2 października w Wil
- li | Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Historia i tradycja
-END:VEVENT
-BEGIN:VEVENT
-UID:auto-5@rabka-wydarzenia-kalendarz
-DTSTAMP:20260928T121648Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:Rodzinny Redyk w Rabce-Zdroju. Owce\, góralskie tradycje\, muzyka
-  i smaki Podhala
-DESCRIPTION:Data: 2026-10-03 | 3 października 2026 roku na placu targowym
-  w Rabce-Zdroju odbędzie się Rodzinny Redyk – wydarzenie poświęcone past
- erskim tradycjom Podhala\, kulturze góralskiej i życiu baców oraz juhasó
- w. Początek obrzędów pasterskich i występów folklorystycznych zaplanowan
- o na godz. 14.00. Jesienny redyk będzie okazją do zobaczenia jednego z n
- ajbardziej charakterystycznych obrzędów związanych z pasterstwem – uroc 
- | Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Historia i tradycja
-END:VEVENT
-BEGIN:VEVENT
-UID:auto-6@rabka-wydarzenia-kalendarz
-DTSTAMP:20260928T121648Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:Owce przejdą ulicami Rabki-Zdroju! Jesienny Redyk Rodzinny już 3 
- października
-DESCRIPTION:Data: 2026-10-03 | To będzie jedno z najbardziej barwnych i w
- yjątkowych wydarzeń tej jesieni. Po raz pierwszy w Rabce-Zdroju odbędzie
-  się Rodzinny Redyk\, nawiązujący do wielowiekowych tradycji pasterskich
-  Podhala i Gorców. 3 października 2026 r. (sobota) Godzina 14.00 Plac ta
- rgowy w Rabce-Zdroju Organizatorzy już dziś zapraszają mieszkańców oraz 
- gości do udziału w wydarzeniu\, które połączy tradycję\, kulturę i rodzi
- n | Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Historia i tradycja
-END:VEVENT
-BEGIN:VEVENT
-UID:auto-7@rabka-wydarzenia-kalendarz
-DTSTAMP:20260928T121648Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:Rabczański Redyk – tradycja\, muzyka i góralska energia!
-DESCRIPTION:Data: 2026-10-03 | 3 października 2026 roku Rabka-Zdrój wypeł
- ni się góralską muzyką\, regionalnymi smakami i pasterską tradycją. Rabc
- zański Redyk będzie nie tylko widowiskowym zejściem stad owiec\, ale prz
- ede wszystkim rodzinnym świętem pełnym muzyki\, tańca\, rękodzieła\, war
- sztatów i atrakcji nawiązujących do kultury Podhala. Jednym z najważniej
- szych punktów wydarzenia będzie przemarsz dwóch stad owiec ulicami Rabki
- -Zd | Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Historia i tradycja
-END:VEVENT
-BEGIN:VEVENT
-UID:auto-8@rabka-wydarzenia-kalendarz
-DTSTAMP:20260928T121648Z
+DTSTAMP:20261005T125627Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:„Zadbaj o siebie dla lepszego jutra dzieci”. Konferencja dla rodz
@@ -140,7 +75,7 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:cksip-blog-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260928T121648Z
+DTSTAMP:20261005T125627Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Jak przez dziesięciolecia zmieniły się rabczańskie wille\, Park Z
@@ -157,7 +92,7 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:cksip-blog-2@rabka-wydarzenia-kalendarz
-DTSTAMP:20260928T121648Z
+DTSTAMP:20261005T125627Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:Rabczański Amfiteatr w niedzielny wieczór wypełnił się śmiechem.
@@ -173,7 +108,7 @@ CATEGORIES:Rozrywka
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-976461@rabka-wydarzenia-kalendarz
-DTSTAMP:20260928T121648Z
+DTSTAMP:20261005T125627Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Emocje - co to takiego?
@@ -187,7 +122,7 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-989292@rabka-wydarzenia-kalendarz
-DTSTAMP:20260928T121648Z
+DTSTAMP:20261005T125627Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Luna
@@ -199,7 +134,7 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-986024@rabka-wydarzenia-kalendarz
-DTSTAMP:20260928T121648Z
+DTSTAMP:20261005T125627Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Luna
@@ -211,7 +146,7 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-976438@rabka-wydarzenia-kalendarz
-DTSTAMP:20260928T121648Z
+DTSTAMP:20261005T125627Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Pinokio
@@ -224,7 +159,7 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-976439@rabka-wydarzenia-kalendarz
-DTSTAMP:20260928T121648Z
+DTSTAMP:20261005T125627Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Pinokio
@@ -236,21 +171,20 @@ URL:https://www.bilety24.pl/teatr/1568-pinokio-152738?id=976439
 CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
-UID:rabcio-976440@rabka-wydarzenia-kalendarz
-DTSTAMP:20260928T121648Z
+UID:rabcio-999434@rabka-wydarzenia-kalendarz
+DTSTAMP:20261005T125627Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-SUMMARY:Karius i Baktus
+SUMMARY:Luna
 LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
 DESCRIPTION:Data: 2026-10-15 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
- cio. | Źródło: https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624
- ?id=976440
-URL:https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624?id=976440
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-luna-120392?id=999434
+URL:https://www.bilety24.pl/teatr/1568-luna-120392?id=999434
 CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-976441@rabka-wydarzenia-kalendarz
-DTSTAMP:20260928T121648Z
+DTSTAMP:20261005T125627Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Karius i Baktus
@@ -263,7 +197,7 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-982732@rabka-wydarzenia-kalendarz
-DTSTAMP:20260928T121648Z
+DTSTAMP:20261005T125627Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:PREMIERA: Alicja w Krainie Czarów
@@ -277,7 +211,7 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:manual-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20260928T121648Z
+DTSTAMP:20261005T125627Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Przykładowe wydarzenie Fundacji (usuń lub edytuj)

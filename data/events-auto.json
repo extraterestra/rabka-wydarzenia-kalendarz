@@ -1,86 +1,42 @@
 {
   "source": "https://rabka.pl/kalendarz-wydarzen/",
-  "last_updated": "2026-09-28",
+  "last_updated": "2026-10-05",
   "events": [
     {
       "id": "auto-1",
-      "title": "Lubisz śpiewać? Dołącz do nas! Chór Dziecięcy Rabki-Zdroju zaprasza!",
+      "title": "Październik w Teatrze Lalek „Rabcio”. Premiera „Alicja w Krainie Czarów” i bogaty repertuar",
       "category": "dzieci",
-      "start": "2026-09-30",
-      "end": "2026-09-30",
+      "start": "2026-10-06",
+      "end": "2026-10-06",
       "time": "",
       "location": "",
       "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "Masz 6, 8, 10, 12, a może 16 lat? Lubisz muzykę i śpiew? Chcesz poznać nowych ludzi, rozwijać swoje zainteresowania, a może marzysz o występie na scenie? Przyjdź na próbę i przekonaj się, jak wiele radości może dać wspólne śpiewanie! Chór Dziecięcy Rabki-Zdroju, działający przy Centrum Kultury, Sportu i Promocji w Rabce-Zdroju, prowadzi nabór nowych członków. Co czeka na Ciebie w chórze? - rozwija"
+      "desc": "Teatr Lalek „Rabcio” w Rabce-Zdroju zaprasza w październiku na kolejne spotkania ze sztuką. W repertuarze znalazły się dobrze znane najmłodszym widzom przedstawienia, a najważniejszym wydarzeniem miesiąca będzie premiera spektaklu „Alicja w Krainie Czarów”, zaplanowana na 24 października. Październikowy repertuar rozpocznie 6 października o godz. 10.15 spektakl „Emocje – co to takiego?”. Dzień póź"
     },
     {
       "id": "auto-2",
-      "title": "Dołącz do CANTANTES ANGELICUS!",
-      "category": "samorzad",
-      "start": "2026-09-30",
-      "end": "2026-09-30",
+      "title": "Niezwykłe spotkanie w Rabce-Zdroju: Dwukrotna mistrzyni paraolimpijska Katarzyna Rogowiec gościem Miejskiej Biblioteki Publicznej",
+      "category": "historia",
+      "start": "2026-10-08",
+      "end": "2026-10-08",
       "time": "",
       "location": "",
       "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "Masz w sobie muzykę? Lubisz śpiewać? Chcesz rozwijać swój głos i tworzyć piękne brzmienie razem z innymi kobietami? Cantantes Angelicus z Rabki-Zdroju zaprasza nowe osoby, które chciałyby rozpocząć lub kontynuować swoją przygodę ze śpiewem chóralnym. Nie musisz być zawodową wokalistką. Liczy się muzyczna wrażliwość, zaangażowanie i radość ze wspólnego śpiewania. Co daje nam śpiewanie? ·       rozw"
+      "desc": "Miejska Biblioteka Publiczna w Rabce-Zdroju ma zaszczyt zaprosić wszystkich na wyjątkowe spotkanie autorskie i motywacyjne z Katarzyną Rogowiec. Wydarzenie to odbędzie się już 8 października o godzinie 10:00 w siedzibie biblioteki. Katarzyna Rogowiec to postać absolutnie niezwykła – wybitna sportsmenka, rodowita rabczanka, dwukrotna mistrzyni paraolimpijska z Turynu (2006) oraz wielokrotna medalis"
     },
     {
       "id": "auto-3",
-      "title": "XXXIV Sesja Rady Miejskiej w Rabce-Zdroju",
-      "category": "samorzad",
-      "start": "2026-09-30",
-      "end": "2026-09-30",
+      "title": "Sto lat historii rabczańskiej szkoły. Wielki jubileusz II LO i Technikum Informatycznego",
+      "category": "historia",
+      "start": "2026-10-09",
+      "end": "2026-10-09",
       "time": "",
       "location": "",
       "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "Przewodniczący Rady Miejskiej w Rabce - Zdroju informuje, że 30.09.2026 r. (środa) o godz. 16:00 w Urzędzie Miejskim w Rabce-Zdroju przy ul. Parkowej 2 (sala obrad) odbędzie się XXXIV Sesja Rady Miejskiej w Rabce-Zdroju. PORZĄDEK OBRAD XXXIV sesji Rady Miejskiej – 30.09.2026 r. 1. Otwarcie XXXIV Sesji IX Kadencji Rady Miejskiej w Rabce-Zdroju. 2. Sprawozdanie Burmistrza Rabki – Zdroju z działalnoś"
+      "desc": "Jedna z ważnych rabczańskich placówek oświatowych świętuje wyjątkowy jubileusz. 9 października 2026 roku odbędą się uroczyste obchody 100-lecia szkoły, której tradycje kontynuują dziś II Liceum Ogólnokształcące i Technikum Informatyczne im. ks. prof. Józefa Tischnera w Rabce-Zdroju. Organizatorzy zapraszają absolwentów, emerytowanych nauczycieli, byłych pracowników oraz wszystkich sympatyków szkoł"
     },
     {
       "id": "auto-4",
-      "title": "„Historia szkoły” na jubileusz 100-lecia. Spotkanie z autorami publikacji",
-      "category": "historia",
-      "start": "2026-10-02",
-      "end": "2026-10-02",
-      "time": "",
-      "location": "",
-      "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "Sto lat działalności szkoły to tysiące uczniów i absolwentów, kolejne pokolenia nauczycieli, zmieniające się budynki, programy nauczania i realia, ale przede wszystkim ogromna część historii Rabki-Zdroju. Z okazji jubileuszu II Liceum Ogólnokształcącego i Technikum Informatycznego im. ks. prof. Józefa Tischnera powstała publikacja „Historia szkoły”. Jej promocja odbędzie się 2 października w Willi"
-    },
-    {
-      "id": "auto-5",
-      "title": "Rodzinny Redyk w Rabce-Zdroju. Owce, góralskie tradycje, muzyka i smaki Podhala",
-      "category": "historia",
-      "start": "2026-10-03",
-      "end": "2026-10-03",
-      "time": "",
-      "location": "",
-      "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "3 października 2026 roku na placu targowym w Rabce-Zdroju odbędzie się Rodzinny Redyk – wydarzenie poświęcone pasterskim tradycjom Podhala, kulturze góralskiej i życiu baców oraz juhasów. Początek obrzędów pasterskich i występów folklorystycznych zaplanowano na godz. 14.00. Jesienny redyk będzie okazją do zobaczenia jednego z najbardziej charakterystycznych obrzędów związanych z pasterstwem – uroc"
-    },
-    {
-      "id": "auto-6",
-      "title": "Owce przejdą ulicami Rabki-Zdroju! Jesienny Redyk Rodzinny już 3 października",
-      "category": "historia",
-      "start": "2026-10-03",
-      "end": "2026-10-03",
-      "time": "",
-      "location": "",
-      "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "To będzie jedno z najbardziej barwnych i wyjątkowych wydarzeń tej jesieni. Po raz pierwszy w Rabce-Zdroju odbędzie się Rodzinny Redyk, nawiązujący do wielowiekowych tradycji pasterskich Podhala i Gorców. 3 października 2026 r. (sobota) Godzina 14.00 Plac targowy w Rabce-Zdroju Organizatorzy już dziś zapraszają mieszkańców oraz gości do udziału w wydarzeniu, które połączy tradycję, kulturę i rodzin"
-    },
-    {
-      "id": "auto-7",
-      "title": "Rabczański Redyk – tradycja, muzyka i góralska energia!",
-      "category": "historia",
-      "start": "2026-10-03",
-      "end": "2026-10-03",
-      "time": "",
-      "location": "",
-      "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "3 października 2026 roku Rabka-Zdrój wypełni się góralską muzyką, regionalnymi smakami i pasterską tradycją. Rabczański Redyk będzie nie tylko widowiskowym zejściem stad owiec, ale przede wszystkim rodzinnym świętem pełnym muzyki, tańca, rękodzieła, warsztatów i atrakcji nawiązujących do kultury Podhala. Jednym z najważniejszych punktów wydarzenia będzie przemarsz dwóch stad owiec ulicami Rabki-Zd"
-    },
-    {
-      "id": "auto-8",
       "title": "„Zadbaj o siebie dla lepszego jutra dzieci”. Konferencja dla rodziców i nauczycieli w Rabce-Zdroju",
       "category": "dzieci",
       "start": "2026-10-10",
