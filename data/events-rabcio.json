@@ -2,48 +2,15 @@
   "source": "https://teatr.rabcio.pl/repertuar-2025/",
   "ticket_source": "https://www.bilety24.pl/organizator/teatr-lalek-rabcio-1568.html",
   "theatre": "https://teatr.rabcio.pl/",
-  "last_updated": "2026-10-05",
+  "last_updated": "2026-10-12",
   "events": [
-    {
-      "id": "rabcio-976461",
-      "title": "Emocje - co to takiego?",
-      "category": "kultura",
-      "start": "2026-10-06",
-      "end": "2026-10-06",
-      "time": "10:15",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-emocje-co-to-takiego-136327?id=976461",
-      "desc": "Spektakl Teatru Lalek Rabcio."
-    },
-    {
-      "id": "rabcio-989292",
-      "title": "Luna",
-      "category": "kultura",
-      "start": "2026-10-07",
-      "end": "2026-10-07",
-      "time": "10:15",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-luna-120392?id=989292",
-      "desc": "Spektakl Teatru Lalek Rabcio."
-    },
-    {
-      "id": "rabcio-986024",
-      "title": "Luna",
-      "category": "kultura",
-      "start": "2026-10-08",
-      "end": "2026-10-08",
-      "time": "10:15",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-luna-120392?id=986024",
-      "desc": "Spektakl Teatru Lalek Rabcio."
-    },
     {
       "id": "rabcio-976438",
       "title": "Pinokio",
       "category": "dzieci",
       "start": "2026-10-13",
       "end": "2026-10-13",
-      "time": "09:00",
+      "time": "10:00",
       "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
       "url": "https://www.bilety24.pl/teatr/1568-pinokio-152738?id=976438",
       "desc": "Spektakl Teatru Lalek Rabcio."
@@ -90,6 +57,39 @@
       "time": "16:00",
       "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
       "url": "https://www.bilety24.pl/teatr/1568-premiera-alicja-w-krainie-czarow-163744?id=982732",
+      "desc": "Spektakl Teatru Lalek Rabcio."
+    },
+    {
+      "id": "rabcio-982733",
+      "title": "Alicja w Krainie Czarów",
+      "category": "kultura",
+      "start": "2026-10-26",
+      "end": "2026-10-26",
+      "time": "10:15",
+      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
+      "url": "https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czarow-163746?id=982733",
+      "desc": "Spektakl Teatru Lalek Rabcio."
+    },
+    {
+      "id": "rabcio-982734",
+      "title": "Alicja w Krainie Czarów",
+      "category": "kultura",
+      "start": "2026-10-27",
+      "end": "2026-10-27",
+      "time": "09:00",
+      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
+      "url": "https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czarow-163746?id=982734",
+      "desc": "Spektakl Teatru Lalek Rabcio."
+    },
+    {
+      "id": "rabcio-999370",
+      "title": "Alicja w Krainie Czarów",
+      "category": "kultura",
+      "start": "2026-10-28",
+      "end": "2026-10-28",
+      "time": "11:00",
+      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
+      "url": "https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czarow-163746?id=999370",
       "desc": "Spektakl Teatru Lalek Rabcio."
     }
   ]

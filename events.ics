@@ -7,75 +7,73 @@ X-WR-CALNAME:Kalendarz Wydarzeń — Rabka-Zdrój
 X-WR-TIMEZONE:Europe/Warsaw
 BEGIN:VEVENT
 UID:auto-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20261005T125627Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:Październik w Teatrze Lalek „Rabcio”. Premiera „Alicja w Krainie 
- Czarów” i bogaty repertuar
-DESCRIPTION:Data: 2026-10-06 | Teatr Lalek „Rabcio” w Rabce-Zdroju zapras
- za w październiku na kolejne spotkania ze sztuką. W repertuarze znalazły
-  się dobrze znane najmłodszym widzom przedstawienia\, a najważniejszym w
- ydarzeniem miesiąca będzie premiera spektaklu „Alicja w Krainie Czarów”\
- , zaplanowana na 24 października. Październikowy repertuar rozpocznie 6 
- października o godz. 10.15 spektakl „Emocje – co to takiego?”. Dzień póź
-  | Źródło: https://rabka.pl/kalendarz-wydarzen/
+DTSTAMP:20261012T134835Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:XXXV Sesja Rady Miejskiej w Rabce-Zdroju
+DESCRIPTION:Data: 2026-10-12 | Przewodniczący Rady Miejskiej w Rabce - Zd
+ roju informuje\, że 12.10.2026 r. (poniedziałek) o godz. 15:00 w Urzędzi
+ e Miejskim w Rabce-Zdroju przy ul. Parkowej 2 (sala obrad) odbędzie się 
+ XXXV Sesja Rady Miejskiej w Rabce-Zdroju. PORZĄDEK OBRAD XXXV sesji Rady
+  Miejskiej – 12.10.2026 r. 1. Otwarcie XXXV Sesji IX Kadencji Rady Miejs
+ kiej w Rabce-Zdroju. 2. Podjęcie uchwał na wniosek Burmistrza Rabki-Zdr 
+ | Źródło: https://rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Dzieci i rodzina
+CATEGORIES:Samorząd
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-2@rabka-wydarzenia-kalendarz
-DTSTAMP:20261005T125627Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Niezwykłe spotkanie w Rabce-Zdroju: Dwukrotna mistrzyni paraolimp
- ijska Katarzyna Rogowiec gościem Miejskiej Biblioteki Publicznej
-DESCRIPTION:Data: 2026-10-08 | Miejska Biblioteka Publiczna w Rabce-Zdroj
- u ma zaszczyt zaprosić wszystkich na wyjątkowe spotkanie autorskie i mot
- ywacyjne z Katarzyną Rogowiec. Wydarzenie to odbędzie się już 8 paździer
- nika o godzinie 10:00 w siedzibie biblioteki. Katarzyna Rogowiec to post
- ać absolutnie niezwykła – wybitna sportsmenka\, rodowita rabczanka\, dwu
- krotna mistrzyni paraolimpijska z Turynu (2006) oraz wielokrotna medalis
-  | Źródło: https://rabka.pl/kalendarz-wydarzen/
+DTSTAMP:20261012T134835Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Życie Masajów w Tanzanii. Niezwykłe spotkanie w Rabce-Zdroju
+DESCRIPTION:Data: 2026-10-16 | Jak wygląda codzienne życie Masajów z dala
+  od turystycznych szlaków? Jakie wartości są dla nich najważniejsze\, ja
+ k pielęgnują swoje tradycje i jak postrzegają współczesny świat? O tym b
+ ędzie można usłyszeć podczas kolejnego spotkania z cyklu „Wędrówki z pas
+ ją”\, które odbędzie się 16 października w Rabce-Zdroju. Tym razem uczes
+ tnicy przeniosą się do Tanzanii\, a przewodnikiem po świecie jednej z na
+ j | Źródło: https://rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
 CATEGORIES:Historia i tradycja
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-3@rabka-wydarzenia-kalendarz
-DTSTAMP:20261005T125627Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Sto lat historii rabczańskiej szkoły. Wielki jubileusz II LO i Te
- chnikum Informatycznego
-DESCRIPTION:Data: 2026-10-09 | Jedna z ważnych rabczańskich placówek oświ
- atowych świętuje wyjątkowy jubileusz. 9 października 2026 roku odbędą si
- ę uroczyste obchody 100-lecia szkoły\, której tradycje kontynuują dziś I
- I Liceum Ogólnokształcące i Technikum Informatyczne im. ks. prof. Józefa
-  Tischnera w Rabce-Zdroju. Organizatorzy zapraszają absolwentów\, emeryt
- owanych nauczycieli\, byłych pracowników oraz wszystkich sympatyków szko
- ł | Źródło: https://rabka.pl/kalendarz-wydarzen/
+DTSTAMP:20261012T134835Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:III Rabczański Marsz Wszystkich Świętych. Uczestnicy przejdą od z
+ abytkowego kościoła do św. Marii Magdaleny
+DESCRIPTION:Data: 2026-10-25 | W niedzielę\, 25 października\, ulicami Ra
+ bki-Zdroju po raz trzeci przejdzie Rabczański Marsz Wszystkich Świętych.
+  Do udziału zaproszone są dzieci\, młodzież\, całe rodziny oraz wszyscy 
+ mieszkańcy\, którzy chcą wspólnie przeżyć to wydarzenie. Organizatorzy z
+ achęcają najmłodszych\, aby przyszli przebrani za swoich ulubionych świę
+ tych i błogosławionych. Tegoroczny marsz rozpocznie się o godz. 12.15 pr
+ zy M | Źródło: https://rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
 CATEGORIES:Historia i tradycja
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-4@rabka-wydarzenia-kalendarz
-DTSTAMP:20261005T125627Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:„Zadbaj o siebie dla lepszego jutra dzieci”. Konferencja dla rodz
- iców i nauczycieli w Rabce-Zdroju
-DESCRIPTION:Data: 2026-10-10 | Jak budować dobre relacje między rodzicem\
- , nauczycielem i dzieckiem? Jak skuteczniej się komunikować\, wspierać m
- łodych ludzi\, a jednocześnie zadbać o własny dobrostan? Odpowiedzi na t
- e i wiele innych pytań będzie można znaleźć podczas konferencji „Zadbaj 
- o siebie dla lepszego jutra dzieci”\, która odbędzie się 10 października
-  w Teatrze Lalek Rabcio w Rabce-Zdroju. W sobotę\, 10 paździ | Źródło: h
- ttps://rabka.pl/kalendarz-wydarzen/
+DTSTAMP:20261012T134835Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Po raz 40. zabrzmi poezja Antoniny Zachary-Wnękowej. Rabka-Zdrój 
+ zaprasza młodych recytatorów
+DESCRIPTION:Data: 2026-11-20 | Już po raz czterdziesty Rabka-Zdrój stanie
+  się miejscem spotkania młodych miłośników poezji i gwary góralskiej. 20
+  listopada 2026 roku odbędzie się jubileuszowy XL Konkurs Recytatorski i
+ m. Antoniny Zachary-Wnękowej. Organizatorzy czekają na zgłoszenia uczest
+ ników do 6 listopada. Konkurs od lat przypomina i popularyzuje twórczość
+  Antoniny Zachary-Wnękowej – poetki mocno związanej z R | Źródło: https:
+ //rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Dzieci i rodzina
+CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:cksip-blog-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20261005T125627Z
+DTSTAMP:20261012T134835Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Jak przez dziesięciolecia zmieniły się rabczańskie wille\, Park Z
@@ -92,7 +90,7 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:cksip-blog-2@rabka-wydarzenia-kalendarz
-DTSTAMP:20261005T125627Z
+DTSTAMP:20261012T134835Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:Rabczański Amfiteatr w niedzielny wieczór wypełnił się śmiechem.
@@ -107,51 +105,13 @@ URL:https://centrum-kultury.rabka.pl/blog
 CATEGORIES:Rozrywka
 END:VEVENT
 BEGIN:VEVENT
-UID:rabcio-976461@rabka-wydarzenia-kalendarz
-DTSTAMP:20261005T125627Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:Emocje - co to takiego?
-LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-10-06 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
- cio. | Źródło: https://www.bilety24.pl/teatr/1568-emocje-co-to-takiego-1
- 36327?id=976461
-URL:https://www.bilety24.pl/teatr/1568-emocje-co-to-takiego-136327?id=976
- 461
-CATEGORIES:Kultura
-END:VEVENT
-BEGIN:VEVENT
-UID:rabcio-989292@rabka-wydarzenia-kalendarz
-DTSTAMP:20261005T125627Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Luna
-LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-10-07 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
- cio. | Źródło: https://www.bilety24.pl/teatr/1568-luna-120392?id=989292
-URL:https://www.bilety24.pl/teatr/1568-luna-120392?id=989292
-CATEGORIES:Kultura
-END:VEVENT
-BEGIN:VEVENT
-UID:rabcio-986024@rabka-wydarzenia-kalendarz
-DTSTAMP:20261005T125627Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:Luna
-LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-10-08 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
- cio. | Źródło: https://www.bilety24.pl/teatr/1568-luna-120392?id=986024
-URL:https://www.bilety24.pl/teatr/1568-luna-120392?id=986024
-CATEGORIES:Kultura
-END:VEVENT
-BEGIN:VEVENT
 UID:rabcio-976438@rabka-wydarzenia-kalendarz
-DTSTAMP:20261005T125627Z
+DTSTAMP:20261012T134835Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Pinokio
 LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-10-13 | Godzina: 09:00 | Spektakl Teatru Lalek Rab
+DESCRIPTION:Data: 2026-10-13 | Godzina: 10:00 | Spektakl Teatru Lalek Rab
  cio. | Źródło: https://www.bilety24.pl/teatr/1568-pinokio-152738?id=9764
  38
 URL:https://www.bilety24.pl/teatr/1568-pinokio-152738?id=976438
@@ -159,7 +119,7 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-976439@rabka-wydarzenia-kalendarz
-DTSTAMP:20261005T125627Z
+DTSTAMP:20261012T134835Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Pinokio
@@ -172,7 +132,7 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-999434@rabka-wydarzenia-kalendarz
-DTSTAMP:20261005T125627Z
+DTSTAMP:20261012T134835Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Luna
@@ -184,7 +144,7 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-976441@rabka-wydarzenia-kalendarz
-DTSTAMP:20261005T125627Z
+DTSTAMP:20261012T134835Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Karius i Baktus
@@ -197,7 +157,7 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-982732@rabka-wydarzenia-kalendarz
-DTSTAMP:20261005T125627Z
+DTSTAMP:20261012T134835Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:PREMIERA: Alicja w Krainie Czarów
@@ -210,8 +170,50 @@ URL:https://www.bilety24.pl/teatr/1568-premiera-alicja-w-krainie-czarow-1
 CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
+UID:rabcio-982733@rabka-wydarzenia-kalendarz
+DTSTAMP:20261012T134835Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Alicja w Krainie Czarów
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-10-26 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czaro
+ w-163746?id=982733
+URL:https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czarow-163746?id=
+ 982733
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-982734@rabka-wydarzenia-kalendarz
+DTSTAMP:20261012T134835Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Alicja w Krainie Czarów
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-10-27 | Godzina: 09:00 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czaro
+ w-163746?id=982734
+URL:https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czarow-163746?id=
+ 982734
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-999370@rabka-wydarzenia-kalendarz
+DTSTAMP:20261012T134835Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Alicja w Krainie Czarów
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-10-28 | Godzina: 11:00 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czaro
+ w-163746?id=999370
+URL:https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czarow-163746?id=
+ 999370
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
 UID:manual-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20261005T125627Z
+DTSTAMP:20261012T134835Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Przykładowe wydarzenie Fundacji (usuń lub edytuj)
