@@ -2,52 +2,8 @@
   "source": "https://teatr.rabcio.pl/repertuar-2025/",
   "ticket_source": "https://www.bilety24.pl/organizator/teatr-lalek-rabcio-1568.html",
   "theatre": "https://teatr.rabcio.pl/",
-  "last_updated": "2026-10-12",
+  "last_updated": "2026-10-19",
   "events": [
-    {
-      "id": "rabcio-976438",
-      "title": "Pinokio",
-      "category": "dzieci",
-      "start": "2026-10-13",
-      "end": "2026-10-13",
-      "time": "10:00",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-pinokio-152738?id=976438",
-      "desc": "Spektakl Teatru Lalek Rabcio."
-    },
-    {
-      "id": "rabcio-976439",
-      "title": "Pinokio",
-      "category": "dzieci",
-      "start": "2026-10-14",
-      "end": "2026-10-14",
-      "time": "10:15",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-pinokio-152738?id=976439",
-      "desc": "Spektakl Teatru Lalek Rabcio."
-    },
-    {
-      "id": "rabcio-999434",
-      "title": "Luna",
-      "category": "kultura",
-      "start": "2026-10-15",
-      "end": "2026-10-15",
-      "time": "10:15",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-luna-120392?id=999434",
-      "desc": "Spektakl Teatru Lalek Rabcio."
-    },
-    {
-      "id": "rabcio-976441",
-      "title": "Karius i Baktus",
-      "category": "kultura",
-      "start": "2026-10-16",
-      "end": "2026-10-16",
-      "time": "10:15",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624?id=976441",
-      "desc": "Spektakl Teatru Lalek Rabcio."
-    },
     {
       "id": "rabcio-982732",
       "title": "PREMIERA: Alicja w Krainie Czarów",
@@ -82,14 +38,58 @@
       "desc": "Spektakl Teatru Lalek Rabcio."
     },
     {
-      "id": "rabcio-999370",
+      "id": "rabcio-982735",
       "title": "Alicja w Krainie Czarów",
       "category": "kultura",
       "start": "2026-10-28",
       "end": "2026-10-28",
+      "time": "09:00",
+      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
+      "url": "https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czarow-163746?id=982735",
+      "desc": "Spektakl Teatru Lalek Rabcio."
+    },
+    {
+      "id": "rabcio-982736",
+      "title": "Alicja w Krainie Czarów",
+      "category": "kultura",
+      "start": "2026-10-29",
+      "end": "2026-10-29",
+      "time": "10:15",
+      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
+      "url": "https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czarow-163746?id=982736",
+      "desc": "Spektakl Teatru Lalek Rabcio."
+    },
+    {
+      "id": "rabcio-999376",
+      "title": "Alicja w Krainie Czarów",
+      "category": "kultura",
+      "start": "2026-10-30",
+      "end": "2026-10-30",
       "time": "11:00",
       "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czarow-163746?id=999370",
+      "url": "https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czarow-163746?id=999376",
+      "desc": "Spektakl Teatru Lalek Rabcio."
+    },
+    {
+      "id": "rabcio-982761",
+      "title": "Alicja w Krainie Czarów",
+      "category": "kultura",
+      "start": "2026-10-31",
+      "end": "2026-10-31",
+      "time": "16:00",
+      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
+      "url": "https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czarow-163746?id=982761",
+      "desc": "Spektakl Teatru Lalek Rabcio."
+    },
+    {
+      "id": "rabcio-1006249",
+      "title": "Pinokio",
+      "category": "dzieci",
+      "start": "2026-11-03",
+      "end": "2026-11-03",
+      "time": "10:15",
+      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
+      "url": "https://www.bilety24.pl/teatr/1568-pinokio-152738?id=1006249",
       "desc": "Spektakl Teatru Lalek Rabcio."
     }
   ]

@@ -7,39 +7,24 @@ X-WR-CALNAME:Kalendarz Wydarzeń — Rabka-Zdrój
 X-WR-TIMEZONE:Europe/Warsaw
 BEGIN:VEVENT
 UID:auto-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20261012T134835Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:XXXV Sesja Rady Miejskiej w Rabce-Zdroju
-DESCRIPTION:Data: 2026-10-12 | Przewodniczący Rady Miejskiej w Rabce - Zd
- roju informuje\, że 12.10.2026 r. (poniedziałek) o godz. 15:00 w Urzędzi
- e Miejskim w Rabce-Zdroju przy ul. Parkowej 2 (sala obrad) odbędzie się 
- XXXV Sesja Rady Miejskiej w Rabce-Zdroju. PORZĄDEK OBRAD XXXV sesji Rady
-  Miejskiej – 12.10.2026 r. 1. Otwarcie XXXV Sesji IX Kadencji Rady Miejs
- kiej w Rabce-Zdroju. 2. Podjęcie uchwał na wniosek Burmistrza Rabki-Zdr 
- | Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Samorząd
-END:VEVENT
-BEGIN:VEVENT
-UID:auto-2@rabka-wydarzenia-kalendarz
-DTSTAMP:20261012T134835Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Życie Masajów w Tanzanii. Niezwykłe spotkanie w Rabce-Zdroju
-DESCRIPTION:Data: 2026-10-16 | Jak wygląda codzienne życie Masajów z dala
-  od turystycznych szlaków? Jakie wartości są dla nich najważniejsze\, ja
- k pielęgnują swoje tradycje i jak postrzegają współczesny świat? O tym b
- ędzie można usłyszeć podczas kolejnego spotkania z cyklu „Wędrówki z pas
- ją”\, które odbędzie się 16 października w Rabce-Zdroju. Tym razem uczes
- tnicy przeniosą się do Tanzanii\, a przewodnikiem po świecie jednej z na
- j | Źródło: https://rabka.pl/kalendarz-wydarzen/
+DTSTAMP:20261019T112906Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Alicja w Krainie Czarów już wkrótce na scenie „Rabcia”. Teatr zap
+ rasza na niezwykłą premierę
+DESCRIPTION:Data: 2026-10-24 | Co się stanie\, gdy rozsądek przestanie dz
+ iałać\, a świat zacznie rządzić się zupełnie niezrozumiałymi zasadami? O
+ dpowiedzi na to pytanie poszuka Alicja\, bohaterka najnowszego spektaklu
+  Teatru Lalek „Rabcio” w Rabce-Zdroju. Już 24 października 2026 roku o g
+ odz. 16.00 odbędzie się premiera „Alicji w Krainie Czarów” na podstawie 
+ słynnej powieści Lewisa Carrolla. Przedstawienie w reżyserii Andrzeja Ba
+ r | Źródło: https://rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
 CATEGORIES:Historia i tradycja
 END:VEVENT
 BEGIN:VEVENT
-UID:auto-3@rabka-wydarzenia-kalendarz
-DTSTAMP:20261012T134835Z
+UID:auto-2@rabka-wydarzenia-kalendarz
+DTSTAMP:20261019T112906Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:III Rabczański Marsz Wszystkich Świętych. Uczestnicy przejdą od z
@@ -55,8 +40,8 @@ URL:https://rabka.pl/kalendarz-wydarzen/
 CATEGORIES:Historia i tradycja
 END:VEVENT
 BEGIN:VEVENT
-UID:auto-4@rabka-wydarzenia-kalendarz
-DTSTAMP:20261012T134835Z
+UID:auto-3@rabka-wydarzenia-kalendarz
+DTSTAMP:20261019T112906Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Po raz 40. zabrzmi poezja Antoniny Zachary-Wnękowej. Rabka-Zdrój 
@@ -73,7 +58,7 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:cksip-blog-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20261012T134835Z
+DTSTAMP:20261019T112906Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Jak przez dziesięciolecia zmieniły się rabczańskie wille\, Park Z
@@ -90,7 +75,7 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:cksip-blog-2@rabka-wydarzenia-kalendarz
-DTSTAMP:20261012T134835Z
+DTSTAMP:20261019T112906Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:Rabczański Amfiteatr w niedzielny wieczór wypełnił się śmiechem.
@@ -105,73 +90,8 @@ URL:https://centrum-kultury.rabka.pl/blog
 CATEGORIES:Rozrywka
 END:VEVENT
 BEGIN:VEVENT
-UID:rabcio-976438@rabka-wydarzenia-kalendarz
-DTSTAMP:20261012T134835Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Pinokio
-LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-10-13 | Godzina: 10:00 | Spektakl Teatru Lalek Rab
- cio. | Źródło: https://www.bilety24.pl/teatr/1568-pinokio-152738?id=9764
- 38
-URL:https://www.bilety24.pl/teatr/1568-pinokio-152738?id=976438
-CATEGORIES:Dzieci i rodzina
-END:VEVENT
-BEGIN:VEVENT
-UID:rabcio-976439@rabka-wydarzenia-kalendarz
-DTSTAMP:20261012T134835Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Pinokio
-LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-10-14 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
- cio. | Źródło: https://www.bilety24.pl/teatr/1568-pinokio-152738?id=9764
- 39
-URL:https://www.bilety24.pl/teatr/1568-pinokio-152738?id=976439
-CATEGORIES:Dzieci i rodzina
-END:VEVENT
-BEGIN:VEVENT
-UID:rabcio-999434@rabka-wydarzenia-kalendarz
-DTSTAMP:20261012T134835Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:Luna
-LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-10-15 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
- cio. | Źródło: https://www.bilety24.pl/teatr/1568-luna-120392?id=999434
-URL:https://www.bilety24.pl/teatr/1568-luna-120392?id=999434
-CATEGORIES:Kultura
-END:VEVENT
-BEGIN:VEVENT
-UID:rabcio-976441@rabka-wydarzenia-kalendarz
-DTSTAMP:20261012T134835Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Karius i Baktus
-LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-10-16 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
- cio. | Źródło: https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624
- ?id=976441
-URL:https://www.bilety24.pl/teatr/1568-karius-i-baktus-121624?id=976441
-CATEGORIES:Kultura
-END:VEVENT
-BEGIN:VEVENT
-UID:rabcio-982732@rabka-wydarzenia-kalendarz
-DTSTAMP:20261012T134835Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:PREMIERA: Alicja w Krainie Czarów
-LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-10-24 | Godzina: 16:00 | Spektakl Teatru Lalek Rab
- cio. | Źródło: https://www.bilety24.pl/teatr/1568-premiera-alicja-w-krai
- nie-czarow-163744?id=982732
-URL:https://www.bilety24.pl/teatr/1568-premiera-alicja-w-krainie-czarow-1
- 63744?id=982732
-CATEGORIES:Kultura
-END:VEVENT
-BEGIN:VEVENT
 UID:rabcio-982733@rabka-wydarzenia-kalendarz
-DTSTAMP:20261012T134835Z
+DTSTAMP:20261019T112906Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Alicja w Krainie Czarów
@@ -185,7 +105,7 @@ CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-982734@rabka-wydarzenia-kalendarz
-DTSTAMP:20261012T134835Z
+DTSTAMP:20261019T112906Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Alicja w Krainie Czarów
@@ -198,22 +118,77 @@ URL:https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czarow-163746?id=
 CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
-UID:rabcio-999370@rabka-wydarzenia-kalendarz
-DTSTAMP:20261012T134835Z
+UID:rabcio-982735@rabka-wydarzenia-kalendarz
+DTSTAMP:20261019T112906Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Alicja w Krainie Czarów
 LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-10-28 | Godzina: 11:00 | Spektakl Teatru Lalek Rab
+DESCRIPTION:Data: 2026-10-28 | Godzina: 09:00 | Spektakl Teatru Lalek Rab
  cio. | Źródło: https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czaro
- w-163746?id=999370
+ w-163746?id=982735
 URL:https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czarow-163746?id=
- 999370
+ 982735
 CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
+UID:rabcio-982736@rabka-wydarzenia-kalendarz
+DTSTAMP:20261019T112906Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Alicja w Krainie Czarów
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-10-29 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czaro
+ w-163746?id=982736
+URL:https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czarow-163746?id=
+ 982736
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-999376@rabka-wydarzenia-kalendarz
+DTSTAMP:20261019T112906Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Alicja w Krainie Czarów
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-10-30 | Godzina: 11:00 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czaro
+ w-163746?id=999376
+URL:https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czarow-163746?id=
+ 999376
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-982761@rabka-wydarzenia-kalendarz
+DTSTAMP:20261019T112906Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Alicja w Krainie Czarów
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-10-31 | Godzina: 16:00 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czaro
+ w-163746?id=982761
+URL:https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czarow-163746?id=
+ 982761
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-1006249@rabka-wydarzenia-kalendarz
+DTSTAMP:20261019T112906Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Pinokio
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-11-03 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-pinokio-152738?id=1006
+ 249
+URL:https://www.bilety24.pl/teatr/1568-pinokio-152738?id=1006249
+CATEGORIES:Dzieci i rodzina
+END:VEVENT
+BEGIN:VEVENT
 UID:manual-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20261012T134835Z
+DTSTAMP:20261019T112906Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Przykładowe wydarzenie Fundacji (usuń lub edytuj)

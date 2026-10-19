@@ -1,31 +1,20 @@
 {
   "source": "https://rabka.pl/kalendarz-wydarzen/",
-  "last_updated": "2026-10-12",
+  "last_updated": "2026-10-19",
   "events": [
     {
       "id": "auto-1",
-      "title": "XXXV Sesja Rady Miejskiej w Rabce-Zdroju",
-      "category": "samorzad",
-      "start": "2026-10-12",
-      "end": "2026-10-12",
+      "title": "Alicja w Krainie Czarów już wkrótce na scenie „Rabcia”. Teatr zaprasza na niezwykłą premierę",
+      "category": "historia",
+      "start": "2026-10-24",
+      "end": "2026-10-24",
       "time": "",
       "location": "",
       "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "Przewodniczący Rady Miejskiej w Rabce - Zdroju informuje, że 12.10.2026 r. (poniedziałek) o godz. 15:00 w Urzędzie Miejskim w Rabce-Zdroju przy ul. Parkowej 2 (sala obrad) odbędzie się XXXV Sesja Rady Miejskiej w Rabce-Zdroju. PORZĄDEK OBRAD XXXV sesji Rady Miejskiej – 12.10.2026 r. 1. Otwarcie XXXV Sesji IX Kadencji Rady Miejskiej w Rabce-Zdroju. 2. Podjęcie uchwał na wniosek Burmistrza Rabki-Zdr"
+      "desc": "Co się stanie, gdy rozsądek przestanie działać, a świat zacznie rządzić się zupełnie niezrozumiałymi zasadami? Odpowiedzi na to pytanie poszuka Alicja, bohaterka najnowszego spektaklu Teatru Lalek „Rabcio” w Rabce-Zdroju. Już 24 października 2026 roku o godz. 16.00 odbędzie się premiera „Alicji w Krainie Czarów” na podstawie słynnej powieści Lewisa Carrolla. Przedstawienie w reżyserii Andrzeja Bar"
     },
     {
       "id": "auto-2",
-      "title": "Życie Masajów w Tanzanii. Niezwykłe spotkanie w Rabce-Zdroju",
-      "category": "historia",
-      "start": "2026-10-16",
-      "end": "2026-10-16",
-      "time": "",
-      "location": "",
-      "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "Jak wygląda codzienne życie Masajów z dala od turystycznych szlaków? Jakie wartości są dla nich najważniejsze, jak pielęgnują swoje tradycje i jak postrzegają współczesny świat? O tym będzie można usłyszeć podczas kolejnego spotkania z cyklu „Wędrówki z pasją”, które odbędzie się 16 października w Rabce-Zdroju. Tym razem uczestnicy przeniosą się do Tanzanii, a przewodnikiem po świecie jednej z naj"
-    },
-    {
-      "id": "auto-3",
       "title": "III Rabczański Marsz Wszystkich Świętych. Uczestnicy przejdą od zabytkowego kościoła do św. Marii Magdaleny",
       "category": "historia",
       "start": "2026-10-25",
@@ -36,7 +25,7 @@
       "desc": "W niedzielę, 25 października, ulicami Rabki-Zdroju po raz trzeci przejdzie Rabczański Marsz Wszystkich Świętych. Do udziału zaproszone są dzieci, młodzież, całe rodziny oraz wszyscy mieszkańcy, którzy chcą wspólnie przeżyć to wydarzenie. Organizatorzy zachęcają najmłodszych, aby przyszli przebrani za swoich ulubionych świętych i błogosławionych. Tegoroczny marsz rozpocznie się o godz. 12.15 przy M"
     },
     {
-      "id": "auto-4",
+      "id": "auto-3",
       "title": "Po raz 40. zabrzmi poezja Antoniny Zachary-Wnękowej. Rabka-Zdrój zaprasza młodych recytatorów",
       "category": "kultura",
       "start": "2026-11-20",
