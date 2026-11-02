@@ -1,31 +1,9 @@
 {
   "source": "https://rabka.pl/kalendarz-wydarzen/",
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-11-02",
   "events": [
     {
       "id": "auto-1",
-      "title": "XXXVI Sesja Rady Miejskiej w Rabce-Zdroju",
-      "category": "samorzad",
-      "start": "2026-10-28",
-      "end": "2026-10-28",
-      "time": "",
-      "location": "",
-      "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "Przewodniczący Rady Miejskiej w Rabce - Zdroju informuje, że 28.10.2026 r. (środa) o godz. 16:00 w Urzędzie Miejskim w Rabce-Zdroju przy ul. Parkowej 2 (sala obrad) odbędzie się XXXVI Sesja Rady Miejskiej w Rabce-Zdroju PORZĄDEK OBRAD XXXVI sesji Rady Miejskiej – 28.10.2026 r. 1. Otwarcie XXXVI Sesji IX Kadencji Rady Miejskiej w Rabce-Zdroju. 2. Sprawozdanie Burmistrza Rabki – Zdroju z działalnośc"
-    },
-    {
-      "id": "auto-2",
-      "title": "XI Rabczańska Kwesta na budowę Miejsc Pamięci Narodowej. W tym roku zbiórka na rewitalizację Alei Dębów Katyńskich",
-      "category": "historia",
-      "start": "2026-11-01",
-      "end": "2026-11-01",
-      "time": "",
-      "location": "",
-      "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "W dniach od 31 października do 2 listopada 2026 roku na dwóch rabczańskich cmentarzach odbędzie się XI Rabczańska Kwesta na budowę Miejsc Pamięci Narodowej. Tegoroczna zbiórka będzie miała szczególny cel – zgromadzenie środków na rewitalizację Alei Dębów Katyńskich na cmentarzu komunalnym na Zaborni. To miejsce, które od 2010 roku przypomina o mieszkańcach Rabki i osobach związanych z miastem, zam"
-    },
-    {
-      "id": "auto-3",
       "title": "Razem przeciw cukrzycy - ważne spotkanie w Rabce-Zdroju",
       "category": "sport",
       "start": "2026-11-05",
@@ -36,7 +14,18 @@
       "desc": "W świecie, w którym choroby cywilizacyjne dotykają coraz większej liczby osób, szczególnego znaczenia nabierają inicjatywy lokalne budujące świadomość, wsparcie i wspólnotę. Jedną z nich jest nadchodzące spotkanie organizowane przez Koło Polskiego Stowarzyszenia Diabetyków w Rabce-Zdroju. Zarząd Koła zaprasza członków stowarzyszenia, ich rodziny, sympatyków oraz wszystkich zainteresowanych problem"
     },
     {
-      "id": "auto-4",
+      "id": "auto-2",
+      "title": "III Bieg Niepodległości w Rabce-Zdroju. Dzieci i rodzice pobiegną razem z biało-czerwonymi flagami",
+      "category": "sport",
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "time": "",
+      "location": "",
+      "url": "https://rabka.pl/kalendarz-wydarzen/",
+      "desc": "10 listopada 2026 roku w Parku Zdrojowym w Rabce-Zdroju odbędzie się III Bieg Niepodległości „Dziecko z Rodzicem”. To wyjątkowe wydarzenie sportowo-patriotyczne, podczas którego dzieci wspólnie z rodzicami lub pełnoletnimi członkami rodziny uczczą 108. rocznicę odzyskania przez Polskę niepodległości. Organizatorzy – Uczniowski Klub Sportowy „Jedynka” oraz Urząd Miejski w Rabce-Zdroju – zapraszają "
+    },
+    {
+      "id": "auto-3",
       "title": "Rabka-Zdrój uczci 108. rocznicę Odzyskania Niepodległości. Bieg Niepodległości, uroczysta Msza Święta, wojskowa grochówka i koncert „W kraju nad Wisłą”",
       "category": "sport",
       "start": "2026-11-11",
@@ -47,7 +36,7 @@
       "desc": "Rabka-Zdrój przygotowuje się do obchodów 108. rocznicy Odzyskania przez Polskę Niepodległości. Burmistrz Rabki-Zdroju Leszek Świder, Parafia św. Marii Magdaleny, Gniazdo Integracji Lokalnej GIL oraz Centrum Kultury, Sportu i Promocji zapraszają mieszkańców, gości i kuracjuszy do wspólnego świętowania. Tegoroczne uroczystości potrwają dwa dni – 10 i 11 listopada. W programie znalazły się Bieg Niepo"
     },
     {
-      "id": "auto-5",
+      "id": "auto-4",
       "title": "Po raz 40. zabrzmi poezja Antoniny Zachary-Wnękowej. Rabka-Zdrój zaprasza młodych recytatorów",
       "category": "kultura",
       "start": "2026-11-20",
