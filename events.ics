@@ -7,58 +7,41 @@ X-WR-CALNAME:Kalendarz Wydarzeń — Rabka-Zdrój
 X-WR-TIMEZONE:Europe/Warsaw
 BEGIN:VEVENT
 UID:auto-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20261102T140627Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Razem przeciw cukrzycy - ważne spotkanie w Rabce-Zdroju
-DESCRIPTION:Data: 2026-11-05 | W świecie\, w którym choroby cywilizacyjne
-  dotykają coraz większej liczby osób\, szczególnego znaczenia nabierają 
- inicjatywy lokalne budujące świadomość\, wsparcie i wspólnotę. Jedną z n
- ich jest nadchodzące spotkanie organizowane przez Koło Polskiego Stowarz
- yszenia Diabetyków w Rabce-Zdroju. Zarząd Koła zaprasza członków stowarz
- yszenia\, ich rodziny\, sympatyków oraz wszystkich zainteresowanych prob
- lem | Źródło: https://rabka.pl/kalendarz-wydarzen/
+DTSTAMP:20261116T141322Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:ŚWIATA JEST ZA DUŻO Olgi Tokarczuk  w cyklu  MIĘDZY SŁOWAMI - RAB
+ KA
+DESCRIPTION:Data: 2026-11-17 | Zapraszamy na spotkanie w cyklu MIĘDZY SŁO
+ WAMI – RABKA\, które odbędzie się we wtorek\, 17 LISTOPADA 2026 r. o god
+ z. 17.30 w księgarni Między Słowami ul. Orkana 37 w Rabce. Tematem rozmo
+ wy będzie najnowsza\, niesamowita powieść Olgi Tokarczuk „Świata jest za
+  dużo”\, której premiera była 14 października! „I co jeśli jedno życie d
+ opełnia drugie albo te życia przenikają się na wiele sposobów\, a ludzie
+  o  | Źródło: https://rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Sport
+CATEGORIES:Historia i tradycja
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-2@rabka-wydarzenia-kalendarz
-DTSTAMP:20261102T140627Z
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:III Bieg Niepodległości w Rabce-Zdroju. Dzieci i rodzice pobiegną
-  razem z biało-czerwonymi flagami
-DESCRIPTION:Data: 2026-11-10 | 10 listopada 2026 roku w Parku Zdrojowym w
-  Rabce-Zdroju odbędzie się III Bieg Niepodległości „Dziecko z Rodzicem”.
-  To wyjątkowe wydarzenie sportowo-patriotyczne\, podczas którego dzieci 
- wspólnie z rodzicami lub pełnoletnimi członkami rodziny uczczą 108. rocz
- nicę odzyskania przez Polskę niepodległości. Organizatorzy – Uczniowski 
- Klub Sportowy „Jedynka” oraz Urząd Miejski w Rabce-Zdroju – zapraszają  
- | Źródło: https://rabka.pl/kalendarz-wydarzen/
+DTSTAMP:20261116T141322Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Wędrówki z pasją. Finlandia i Laponia - wakacje u Świętego Mikoła
+ ja. Spotkanie ze Sławomirem Noskiem w Rabce-Zdroju
+DESCRIPTION:Data: 2026-11-20 | Podróż za koło podbiegunowe\, dzień polarn
+ y\, wędrówki po tajdze i tundrze\, spotkania z reniferami oraz niezwykłe
+  krajobrazy dalekiej Północy - to tylko część tematów kolejnego spotkani
+ a z cyklu „Wędrówki z pasją”. W piątek\, 20 listopada 2026 roku\, o godz
+ . 17.30 w willi „Pod Aniołem” w Rabce-Zdroju odbędzie się prelekcja Sław
+ omira Noska zatytułowana „Finlandia - Laponia. Wakacje u Świętego Mikoła
+ ja” | Źródło: https://rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Sport
+CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-3@rabka-wydarzenia-kalendarz
-DTSTAMP:20261102T140627Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Rabka-Zdrój uczci 108. rocznicę Odzyskania Niepodległości. Bieg N
- iepodległości\, uroczysta Msza Święta\, wojskowa grochówka i koncert „W 
- kraju nad Wisłą”
-DESCRIPTION:Data: 2026-11-11 | Rabka-Zdrój przygotowuje się do obchodów 1
- 08. rocznicy Odzyskania przez Polskę Niepodległości. Burmistrz Rabki-Zdr
- oju Leszek Świder\, Parafia św. Marii Magdaleny\, Gniazdo Integracji Lok
- alnej GIL oraz Centrum Kultury\, Sportu i Promocji zapraszają mieszkańcó
- w\, gości i kuracjuszy do wspólnego świętowania. Tegoroczne uroczystości
-  potrwają dwa dni – 10 i 11 listopada. W programie znalazły się Bieg Nie
- po | Źródło: https://rabka.pl/kalendarz-wydarzen/
-URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Sport
-END:VEVENT
-BEGIN:VEVENT
-UID:auto-4@rabka-wydarzenia-kalendarz
-DTSTAMP:20261102T140627Z
+DTSTAMP:20261116T141322Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Po raz 40. zabrzmi poezja Antoniny Zachary-Wnękowej. Rabka-Zdrój 
@@ -68,14 +51,64 @@ DESCRIPTION:Data: 2026-11-20 | Już po raz czterdziesty Rabka-Zdrój stanie
   listopada 2026 roku odbędzie się jubileuszowy XL Konkurs Recytatorski i
  m. Antoniny Zachary-Wnękowej. Organizatorzy czekają na zgłoszenia uczest
  ników do 6 listopada. Konkurs od lat przypomina i popularyzuje twórczość
-  Antoniny Zachary-Wnękowej – poetki mocno związanej z R | Źródło: https:
- //rabka.pl/kalendarz-wydarzen/
+  Antoniny Zachary-Wnękowej – poetki mocno związanej z Rabką i Gorcami. |
+  Źródło: https://rabka.pl/kalendarz-wydarzen/
 URL:https://rabka.pl/kalendarz-wydarzen/
-CATEGORIES:Kultura
+CATEGORIES:Samorząd
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-4@rabka-wydarzenia-kalendarz
+DTSTAMP:20261116T141322Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Gorczański Oddział Związku Podhalan w Rabce-Zdroju wybierze nowe 
+ władze. Walne Zgromadzenie już 22 listopada
+DESCRIPTION:Data: 2026-11-22 | W niedzielę\, 22 listopada 2026 roku\, odb
+ ędzie się Walne Zgromadzenie Sprawozdawczo-Wyborcze Gorczańskiego Oddzia
+ łu Związku Podhalan w Rabce-Zdroju. Podczas spotkania członkowie organiz
+ acji podsumują działalność mijającej kadencji obejmującej lata 2023–2026
+  oraz wybiorą nowe władze oddziału. Zebranie odbędzie się w siedzibie Go
+ rczańskiego Oddziału Związku Podhalan przy ul. Podhalańskiej 6 w Rabce-Z
+  | Źródło: https://rabka.pl/kalendarz-wydarzen/
+URL:https://rabka.pl/kalendarz-wydarzen/
+CATEGORIES:Historia i tradycja
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-5@rabka-wydarzenia-kalendarz
+DTSTAMP:20261116T141322Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:MUZYCZNA DOBRANOCKA – AFRYKAŃSKIE BRZMIENIA!
+DESCRIPTION:Data: 2026-11-22 | Czy można wybrać się w muzyczną podróż do 
+ Afryki\, nie opuszczając Rabki-Zdroju? Oczywiście\, że tak! Zapraszamy m
+ ałych i dużych\, dzieci\, rodziców\, dziadków i całe rodziny na niezwykł
+ y koncert\, podczas którego wspólnie odkryjemy bogactwo afrykańskich ryt
+ mów\, melodii i muzycznych opowieści! Jak zawsze zabierzemy Was w świat\
+ , w którym najważniejszym instrumentem jest ludzki głos. Tym razem jego 
+ brzmie | Źródło: https://rabka.pl/kalendarz-wydarzen/
+URL:https://rabka.pl/kalendarz-wydarzen/
+CATEGORIES:Samorząd
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-6@rabka-wydarzenia-kalendarz
+DTSTAMP:20261116T141322Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Mikołajki z prawdziwymi reniferami w Rabce-Zdroju. Świąteczna atr
+ akcja dla najmłodszych
+DESCRIPTION:Data: 2026-12-03 | Prawdziwe renifery\, spotkanie ze św. Miko
+ łajem\, jego pomocnikami – elfami\, pamiątkowe zdjęcia i słodkie upomink
+ i dla każdego dziecka. Już 3 grudnia 2026 roku rabczański amfiteatr zami
+ eni się w wyjątkową świąteczną krainę. Organizatorzy zapraszają najmłods
+ zych mieszkańców Rabki-Zdroju na niezwykłe Mikołajki z reniferami. W czw
+ artek\, 3 grudnia\, w amfiteatrze w Rabce-Zdroju odbędzie si | Źródło: h
+ ttps://rabka.pl/kalendarz-wydarzen/
+URL:https://rabka.pl/kalendarz-wydarzen/
+CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:cksip-blog-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20261102T140627Z
+DTSTAMP:20261116T141322Z
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 SUMMARY:Jak przez dziesięciolecia zmieniły się rabczańskie wille\, Park Z
@@ -92,7 +125,7 @@ CATEGORIES:Dzieci i rodzina
 END:VEVENT
 BEGIN:VEVENT
 UID:cksip-blog-2@rabka-wydarzenia-kalendarz
-DTSTAMP:20261102T140627Z
+DTSTAMP:20261116T141322Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:Rabczański Amfiteatr w niedzielny wieczór wypełnił się śmiechem.
@@ -107,22 +140,101 @@ URL:https://centrum-kultury.rabka.pl/blog
 CATEGORIES:Rozrywka
 END:VEVENT
 BEGIN:VEVENT
-UID:rabcio-987426@rabka-wydarzenia-kalendarz
-DTSTAMP:20261102T140627Z
+UID:rabcio-993859@rabka-wydarzenia-kalendarz
+DTSTAMP:20261116T141322Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Szkoła katów
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-11-17 | Godzina: 09:00 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-szkola-katow-146258?id
+ =993859
+URL:https://www.bilety24.pl/teatr/1568-szkola-katow-146258?id=993859
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-1006277@rabka-wydarzenia-kalendarz
+DTSTAMP:20261116T141322Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Trzy świnki
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-11-23 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-trzy-swinki-128466?id=
+ 1006277
+URL:https://www.bilety24.pl/teatr/1568-trzy-swinki-128466?id=1006277
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-1006279@rabka-wydarzenia-kalendarz
+DTSTAMP:20261116T141322Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Miś Tymoteusz Rym cim ci
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-11-24 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-mis-tymoteusz-rym-cim-
+ ci-121625?id=1006279
+URL:https://www.bilety24.pl/teatr/1568-mis-tymoteusz-rym-cim-ci-121625?id
+ =1006279
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-1006280@rabka-wydarzenia-kalendarz
+DTSTAMP:20261116T141322Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Pchła Szachrajka
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-11-25 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-pchla-szachrajka-12844
+ 0?id=1006280
+URL:https://www.bilety24.pl/teatr/1568-pchla-szachrajka-128440?id=1006280
+CATEGORIES:Dzieci i rodzina
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-1017284@rabka-wydarzenia-kalendarz
+DTSTAMP:20261116T141322Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Będzie śnieg
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-11-26 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-bedzie-snieg-138558?id
+ =1017284
+URL:https://www.bilety24.pl/teatr/1568-bedzie-snieg-138558?id=1017284
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-1017285@rabka-wydarzenia-kalendarz
+DTSTAMP:20261116T141322Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Będzie śnieg
+LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
+DESCRIPTION:Data: 2026-11-27 | Godzina: 10:15 | Spektakl Teatru Lalek Rab
+ cio. | Źródło: https://www.bilety24.pl/teatr/1568-bedzie-snieg-138558?id
+ =1017285
+URL:https://www.bilety24.pl/teatr/1568-bedzie-snieg-138558?id=1017285
+CATEGORIES:Kultura
+END:VEVENT
+BEGIN:VEVENT
+UID:rabcio-987427@rabka-wydarzenia-kalendarz
+DTSTAMP:20261116T141322Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Mikołajki w Teatrze Lalek Rabcio: Będzie śnieg
 LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-12-01 | Godzina: 09:00 | Spektakl Teatru Lalek Rab
+DESCRIPTION:Data: 2026-12-01 | Godzina: 11:30 | Spektakl Teatru Lalek Rab
  cio. | Źródło: https://www.bilety24.pl/teatr/1568-mikolajki-w-teatrze-la
- lek-rabcio-bedzie-snieg-138561?id=987426
+ lek-rabcio-bedzie-snieg-138561?id=987427
 URL:https://www.bilety24.pl/teatr/1568-mikolajki-w-teatrze-lalek-rabcio-b
- edzie-snieg-138561?id=987426
+ edzie-snieg-138561?id=987427
 CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
 UID:rabcio-987428@rabka-wydarzenia-kalendarz
-DTSTAMP:20261102T140627Z
+DTSTAMP:20261116T141322Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Mikołajki w Teatrze Lalek Rabcio: Będzie śnieg
@@ -135,36 +247,8 @@ URL:https://www.bilety24.pl/teatr/1568-mikolajki-w-teatrze-lalek-rabcio-b
 CATEGORIES:Kultura
 END:VEVENT
 BEGIN:VEVENT
-UID:rabcio-987430@rabka-wydarzenia-kalendarz
-DTSTAMP:20261102T140627Z
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261204
-SUMMARY:Alicja w Krainie Czarów
-LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-12-03 | Godzina: 09:00 | Spektakl Teatru Lalek Rab
- cio. | Źródło: https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czaro
- w-163746?id=987430
-URL:https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czarow-163746?id=
- 987430
-CATEGORIES:Kultura
-END:VEVENT
-BEGIN:VEVENT
-UID:rabcio-987432@rabka-wydarzenia-kalendarz
-DTSTAMP:20261102T140627Z
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-SUMMARY:Alicja w Krainie Czarów
-LOCATION:Teatr Lalek Rabcio\, ul. Orkana 3c\, Rabka-Zdrój
-DESCRIPTION:Data: 2026-12-04 | Godzina: 09:00 | Spektakl Teatru Lalek Rab
- cio. | Źródło: https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czaro
- w-163746?id=987432
-URL:https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czarow-163746?id=
- 987432
-CATEGORIES:Kultura
-END:VEVENT
-BEGIN:VEVENT
 UID:manual-1@rabka-wydarzenia-kalendarz
-DTSTAMP:20261102T140627Z
+DTSTAMP:20261116T141322Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Przykładowe wydarzenie Fundacji (usuń lub edytuj)

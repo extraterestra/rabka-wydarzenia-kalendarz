@@ -1,50 +1,72 @@
 {
   "source": "https://rabka.pl/kalendarz-wydarzen/",
-  "last_updated": "2026-11-02",
+  "last_updated": "2026-11-16",
   "events": [
     {
       "id": "auto-1",
-      "title": "Razem przeciw cukrzycy - ważne spotkanie w Rabce-Zdroju",
-      "category": "sport",
-      "start": "2026-11-05",
-      "end": "2026-11-05",
+      "title": "ŚWIATA JEST ZA DUŻO Olgi Tokarczuk  w cyklu  MIĘDZY SŁOWAMI - RABKA",
+      "category": "historia",
+      "start": "2026-11-17",
+      "end": "2026-11-17",
       "time": "",
       "location": "",
       "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "W świecie, w którym choroby cywilizacyjne dotykają coraz większej liczby osób, szczególnego znaczenia nabierają inicjatywy lokalne budujące świadomość, wsparcie i wspólnotę. Jedną z nich jest nadchodzące spotkanie organizowane przez Koło Polskiego Stowarzyszenia Diabetyków w Rabce-Zdroju. Zarząd Koła zaprasza członków stowarzyszenia, ich rodziny, sympatyków oraz wszystkich zainteresowanych problem"
+      "desc": "Zapraszamy na spotkanie w cyklu MIĘDZY SŁOWAMI – RABKA, które odbędzie się we wtorek, 17 LISTOPADA 2026 r. o godz. 17.30 w księgarni Między Słowami ul. Orkana 37 w Rabce. Tematem rozmowy będzie najnowsza, niesamowita powieść Olgi Tokarczuk „Świata jest za dużo”, której premiera była 14 października! „I co jeśli jedno życie dopełnia drugie albo te życia przenikają się na wiele sposobów, a ludzie o "
     },
     {
       "id": "auto-2",
-      "title": "III Bieg Niepodległości w Rabce-Zdroju. Dzieci i rodzice pobiegną razem z biało-czerwonymi flagami",
-      "category": "sport",
-      "start": "2026-11-10",
-      "end": "2026-11-10",
-      "time": "",
-      "location": "",
-      "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "10 listopada 2026 roku w Parku Zdrojowym w Rabce-Zdroju odbędzie się III Bieg Niepodległości „Dziecko z Rodzicem”. To wyjątkowe wydarzenie sportowo-patriotyczne, podczas którego dzieci wspólnie z rodzicami lub pełnoletnimi członkami rodziny uczczą 108. rocznicę odzyskania przez Polskę niepodległości. Organizatorzy – Uczniowski Klub Sportowy „Jedynka” oraz Urząd Miejski w Rabce-Zdroju – zapraszają "
-    },
-    {
-      "id": "auto-3",
-      "title": "Rabka-Zdrój uczci 108. rocznicę Odzyskania Niepodległości. Bieg Niepodległości, uroczysta Msza Święta, wojskowa grochówka i koncert „W kraju nad Wisłą”",
-      "category": "sport",
-      "start": "2026-11-11",
-      "end": "2026-11-11",
-      "time": "",
-      "location": "",
-      "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "Rabka-Zdrój przygotowuje się do obchodów 108. rocznicy Odzyskania przez Polskę Niepodległości. Burmistrz Rabki-Zdroju Leszek Świder, Parafia św. Marii Magdaleny, Gniazdo Integracji Lokalnej GIL oraz Centrum Kultury, Sportu i Promocji zapraszają mieszkańców, gości i kuracjuszy do wspólnego świętowania. Tegoroczne uroczystości potrwają dwa dni – 10 i 11 listopada. W programie znalazły się Bieg Niepo"
-    },
-    {
-      "id": "auto-4",
-      "title": "Po raz 40. zabrzmi poezja Antoniny Zachary-Wnękowej. Rabka-Zdrój zaprasza młodych recytatorów",
+      "title": "Wędrówki z pasją. Finlandia i Laponia - wakacje u Świętego Mikołaja. Spotkanie ze Sławomirem Noskiem w Rabce-Zdroju",
       "category": "kultura",
       "start": "2026-11-20",
       "end": "2026-11-20",
       "time": "",
       "location": "",
       "url": "https://rabka.pl/kalendarz-wydarzen/",
-      "desc": "Już po raz czterdziesty Rabka-Zdrój stanie się miejscem spotkania młodych miłośników poezji i gwary góralskiej. 20 listopada 2026 roku odbędzie się jubileuszowy XL Konkurs Recytatorski im. Antoniny Zachary-Wnękowej. Organizatorzy czekają na zgłoszenia uczestników do 6 listopada. Konkurs od lat przypomina i popularyzuje twórczość Antoniny Zachary-Wnękowej – poetki mocno związanej z R"
+      "desc": "Podróż za koło podbiegunowe, dzień polarny, wędrówki po tajdze i tundrze, spotkania z reniferami oraz niezwykłe krajobrazy dalekiej Północy - to tylko część tematów kolejnego spotkania z cyklu „Wędrówki z pasją”. W piątek, 20 listopada 2026 roku, o godz. 17.30 w willi „Pod Aniołem” w Rabce-Zdroju odbędzie się prelekcja Sławomira Noska zatytułowana „Finlandia - Laponia. Wakacje u Świętego Mikołaja”"
+    },
+    {
+      "id": "auto-3",
+      "title": "Po raz 40. zabrzmi poezja Antoniny Zachary-Wnękowej. Rabka-Zdrój zaprasza młodych recytatorów",
+      "category": "samorzad",
+      "start": "2026-11-20",
+      "end": "2026-11-20",
+      "time": "",
+      "location": "",
+      "url": "https://rabka.pl/kalendarz-wydarzen/",
+      "desc": "Już po raz czterdziesty Rabka-Zdrój stanie się miejscem spotkania młodych miłośników poezji i gwary góralskiej. 20 listopada 2026 roku odbędzie się jubileuszowy XL Konkurs Recytatorski im. Antoniny Zachary-Wnękowej. Organizatorzy czekają na zgłoszenia uczestników do 6 listopada. Konkurs od lat przypomina i popularyzuje twórczość Antoniny Zachary-Wnękowej – poetki mocno związanej z Rabką i Gorcami."
+    },
+    {
+      "id": "auto-4",
+      "title": "Gorczański Oddział Związku Podhalan w Rabce-Zdroju wybierze nowe władze. Walne Zgromadzenie już 22 listopada",
+      "category": "historia",
+      "start": "2026-11-22",
+      "end": "2026-11-22",
+      "time": "",
+      "location": "",
+      "url": "https://rabka.pl/kalendarz-wydarzen/",
+      "desc": "W niedzielę, 22 listopada 2026 roku, odbędzie się Walne Zgromadzenie Sprawozdawczo-Wyborcze Gorczańskiego Oddziału Związku Podhalan w Rabce-Zdroju. Podczas spotkania członkowie organizacji podsumują działalność mijającej kadencji obejmującej lata 2023–2026 oraz wybiorą nowe władze oddziału. Zebranie odbędzie się w siedzibie Gorczańskiego Oddziału Związku Podhalan przy ul. Podhalańskiej 6 w Rabce-Z"
+    },
+    {
+      "id": "auto-5",
+      "title": "MUZYCZNA DOBRANOCKA – AFRYKAŃSKIE BRZMIENIA!",
+      "category": "samorzad",
+      "start": "2026-11-22",
+      "end": "2026-11-22",
+      "time": "",
+      "location": "",
+      "url": "https://rabka.pl/kalendarz-wydarzen/",
+      "desc": "Czy można wybrać się w muzyczną podróż do Afryki, nie opuszczając Rabki-Zdroju? Oczywiście, że tak! Zapraszamy małych i dużych, dzieci, rodziców, dziadków i całe rodziny na niezwykły koncert, podczas którego wspólnie odkryjemy bogactwo afrykańskich rytmów, melodii i muzycznych opowieści! Jak zawsze zabierzemy Was w świat, w którym najważniejszym instrumentem jest ludzki głos. Tym razem jego brzmie"
+    },
+    {
+      "id": "auto-6",
+      "title": "Mikołajki z prawdziwymi reniferami w Rabce-Zdroju. Świąteczna atrakcja dla najmłodszych",
+      "category": "dzieci",
+      "start": "2026-12-03",
+      "end": "2026-12-03",
+      "time": "",
+      "location": "",
+      "url": "https://rabka.pl/kalendarz-wydarzen/",
+      "desc": "Prawdziwe renifery, spotkanie ze św. Mikołajem, jego pomocnikami – elfami, pamiątkowe zdjęcia i słodkie upominki dla każdego dziecka. Już 3 grudnia 2026 roku rabczański amfiteatr zamieni się w wyjątkową świąteczną krainę. Organizatorzy zapraszają najmłodszych mieszkańców Rabki-Zdroju na niezwykłe Mikołajki z reniferami. W czwartek, 3 grudnia, w amfiteatrze w Rabce-Zdroju odbędzie si"
     }
   ]
 }
