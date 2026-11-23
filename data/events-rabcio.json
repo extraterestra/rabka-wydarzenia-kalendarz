@@ -2,30 +2,8 @@
   "source": "https://teatr.rabcio.pl/repertuar-2025/",
   "ticket_source": "https://www.bilety24.pl/organizator/teatr-lalek-rabcio-1568.html",
   "theatre": "https://teatr.rabcio.pl/",
-  "last_updated": "2026-11-16",
+  "last_updated": "2026-11-23",
   "events": [
-    {
-      "id": "rabcio-993859",
-      "title": "Szkoła katów",
-      "category": "kultura",
-      "start": "2026-11-17",
-      "end": "2026-11-17",
-      "time": "09:00",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-szkola-katow-146258?id=993859",
-      "desc": "Spektakl Teatru Lalek Rabcio."
-    },
-    {
-      "id": "rabcio-1006277",
-      "title": "Trzy świnki",
-      "category": "kultura",
-      "start": "2026-11-23",
-      "end": "2026-11-23",
-      "time": "10:15",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-trzy-swinki-128466?id=1006277",
-      "desc": "Spektakl Teatru Lalek Rabcio."
-    },
     {
       "id": "rabcio-1006279",
       "title": "Miś Tymoteusz Rym cim ci",
@@ -49,17 +27,6 @@
       "desc": "Spektakl Teatru Lalek Rabcio."
     },
     {
-      "id": "rabcio-1017284",
-      "title": "Będzie śnieg",
-      "category": "kultura",
-      "start": "2026-11-26",
-      "end": "2026-11-26",
-      "time": "10:15",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-bedzie-snieg-138558?id=1017284",
-      "desc": "Spektakl Teatru Lalek Rabcio."
-    },
-    {
       "id": "rabcio-1017285",
       "title": "Będzie śnieg",
       "category": "kultura",
@@ -71,17 +38,6 @@
       "desc": "Spektakl Teatru Lalek Rabcio."
     },
     {
-      "id": "rabcio-987427",
-      "title": "Mikołajki w Teatrze Lalek Rabcio: Będzie śnieg",
-      "category": "kultura",
-      "start": "2026-12-01",
-      "end": "2026-12-01",
-      "time": "11:30",
-      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
-      "url": "https://www.bilety24.pl/teatr/1568-mikolajki-w-teatrze-lalek-rabcio-bedzie-snieg-138561?id=987427",
-      "desc": "Spektakl Teatru Lalek Rabcio."
-    },
-    {
       "id": "rabcio-987428",
       "title": "Mikołajki w Teatrze Lalek Rabcio: Będzie śnieg",
       "category": "kultura",
@@ -90,6 +46,50 @@
       "time": "09:00",
       "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
       "url": "https://www.bilety24.pl/teatr/1568-mikolajki-w-teatrze-lalek-rabcio-bedzie-snieg-138561?id=987428",
+      "desc": "Spektakl Teatru Lalek Rabcio."
+    },
+    {
+      "id": "rabcio-987430",
+      "title": "Alicja w Krainie Czarów",
+      "category": "kultura",
+      "start": "2026-12-03",
+      "end": "2026-12-03",
+      "time": "09:00",
+      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
+      "url": "https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czarow-163746?id=987430",
+      "desc": "Spektakl Teatru Lalek Rabcio."
+    },
+    {
+      "id": "rabcio-987433",
+      "title": "Alicja w Krainie Czarów",
+      "category": "kultura",
+      "start": "2026-12-04",
+      "end": "2026-12-04",
+      "time": "11:30",
+      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
+      "url": "https://www.bilety24.pl/teatr/1568-alicja-w-krainie-czarow-163746?id=987433",
+      "desc": "Spektakl Teatru Lalek Rabcio."
+    },
+    {
+      "id": "rabcio-1006286",
+      "title": "Mikołajki w Teatrze Lalek Rabcio: Będzie śnieg",
+      "category": "kultura",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "time": "11:00",
+      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
+      "url": "https://www.bilety24.pl/teatr/1568-mikolajki-w-teatrze-lalek-rabcio-bedzie-snieg-138561?id=1006286",
+      "desc": "Spektakl Teatru Lalek Rabcio."
+    },
+    {
+      "id": "rabcio-987436",
+      "title": "Mikołajki w Teatrze Lalek Rabcio: Będzie śnieg",
+      "category": "kultura",
+      "start": "2026-12-07",
+      "end": "2026-12-07",
+      "time": "11:30",
+      "location": "Teatr Lalek Rabcio, ul. Orkana 3c, Rabka-Zdrój",
+      "url": "https://www.bilety24.pl/teatr/1568-mikolajki-w-teatrze-lalek-rabcio-bedzie-snieg-138561?id=987436",
       "desc": "Spektakl Teatru Lalek Rabcio."
     }
   ]
